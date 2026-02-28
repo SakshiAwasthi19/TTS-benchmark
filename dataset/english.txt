@@ -1,0 +1,50 @@
+Turn on bedroom air purifier 1.
+Turn on buzzer control in bedroom air purifier 1.
+Set fan speed 4 in bedroom air purifier 1.
+Set night mode in bedroom air purifier 1.
+Set switch off timer 60 minutes in bedroom air purifier 1.
+Set ring led brightness to 40 in bedroom air purifier 1.
+Turn on turbo mode and turn off buzzer control in bedroom air purifier 1.
+Set switch off timer 720 minutes in bedroom air purifier 1.
+Turn on the air purifier in dining room.
+What is the status of my bedroom air purifier 1?
+Turn on dining room air purifier 1.
+Set ring led brightness 70 in dining room air purifier 1.
+Turn on heater power in dining room air purifier 1.
+Set night mode in dining room air purifier 1.
+Set switch off timer 180 minutes in dining room air purifier 1.
+Turn on buzzer control in dining room air purifier 1.
+Set fan speed 3 in dining room air purifier 1.
+Turn on dining room air purifier 1.
+Set ring led brightness to 200 in dining room air purifier 1.
+Set switch off timer 180 minutes in dining room air purifier 100.
+Turn on the living room air purifier 1.
+Set switch off timer 60 minutes in living room air purifier 1.
+Turn on night mode in the living room air purifier 1.
+Turn off fan power of the living room air purifier 1.
+Turn on fan power and set fan speed 4 in living room air purifier 1.
+Set fan speed 8 in living room air purifier 1.
+Turn off living room air purifier 1.
+Turn off living room air purifier 1.
+Set fan speed 2 in living room air purifier 1.
+What devices do I have in my bedroom?
+Turn on the AC in the bedroom
+Set temperature 18 degrees in the bedroom AC
+Turn on display mode in the bedroom AC.
+Turn on the ac in the dining room.
+Turn on office AC 2.
+Set dry mode in bedroom ac.
+Turn on sleep mode in bedroom ac.
+Set vertical swing to position 5 in bedroom ac.
+Turn on sky high color in bedroom ac.
+Turn on living room AC 2 and set it's horizontal swing to position 2.
+Turn on turbo mode in living room AC 2.
+Turn on child lock in bedroom ac.
+Set fan speed high in office AC 2.
+Set horizontal swing to auto in bedroom ac.
+Set temperature 30 degrees in the living room AC 2.
+Turn on yoga room AC 1 and set it's switch off timer to 20 minutes.
+Turn on humicon mode in yoga room AC 1.
+Turn off child lock mode in bedroom ac.
+Turn on eco mode in the ac in bedroom.
+Set light intensity low in the ac in bedroom.
