@@ -7,7 +7,6 @@ Logs evaluation results to a single CSV file:
 Columns:
     tool | language | audio_file | original_text | transcribed_text |
     wer  | cer      | word_accuracy | char_accuracy |
-    semantic_score | semantic_reason | semantic_error |
     whisper_model  | timestamp
 """
 
@@ -22,7 +21,6 @@ CSV_COLUMNS = [
     "tool", "language", "audio_file",
     "original_text", "transcribed_text",
     "wer", "cer", "word_accuracy", "char_accuracy",
-    "semantic_score", "semantic_reason", "semantic_error",
     "whisper_model", "timestamp",
 ]
 
