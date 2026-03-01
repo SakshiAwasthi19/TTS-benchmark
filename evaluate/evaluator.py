@@ -7,7 +7,7 @@ Orchestrates the full pipeline for a single audio file:
           ↓
     Whisper transcription
           ↓
-    WER + CER + Groq semantic score
+    WER + CER
           ↓
     Save to results/results.csv
           ↓
@@ -59,8 +59,7 @@ def evaluate_single(
     print("  [2/3] Calculating metrics...")
     scores = score_all(original_text, transcribed_text, api_key=groq_api_key)
     print(f"        WER={scores['wer']}  CER={scores['cer']}  "
-          f"WordAcc={scores['word_accuracy']}%  CharAcc={scores['char_accuracy']}%  "
-          f"Semantic={scores['semantic_score']}")
+          f"WordAcc={scores['word_accuracy']}%  CharAcc={scores['char_accuracy']}%")
 
     # Step 3 — Assemble result
     result = {

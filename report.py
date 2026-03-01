@@ -36,7 +36,7 @@ def aggregate(results: list[dict]) -> dict:
 
     for r in results:
         key = (r["tool"], r["language"])
-        for metric in ["wer", "cer", "word_accuracy", "char_accuracy", "semantic_score"]:
+        for metric in ["wer", "cer", "word_accuracy", "char_accuracy"]:
             val = r.get(metric)
             if val not in (None, "", "None"):
                 try:
@@ -68,23 +68,21 @@ def print_report(agg: dict):
 
     for lang in languages:
         print(f"\n  Language: {lang.upper()}")
-        print(f"  {'Tool':<14} {'WER':>6} {'CER':>6} {'WordAcc%':>10} {'CharAcc%':>10} {'Semantic':>10} {'N':>4}")
-        print(f"  {'-'*14} {'-'*6} {'-'*6} {'-'*10} {'-'*10} {'-'*10} {'-'*4}")
+        print(f"  {'Tool':<14} {'WER':>6} {'CER':>6} {'WordAcc%':>10} {'CharAcc%':>10} {'N':>4}")
+        print(f"  {'-'*14} {'-'*6} {'-'*6} {'-'*10} {'-'*10} {'-'*4}")
 
         for tool in tools:
             key = (tool, lang)
             if key not in agg:
-                print(f"  {tool:<14} {'—':>6} {'—':>6} {'—':>10} {'—':>10} {'—':>10} {'—':>4}")
+                print(f"  {tool:<14} {'—':>6} {'—':>6} {'—':>10} {'—':>10} {'—':>4}")
                 continue
             m   = agg[key]
-            sem = m.get("semantic_score", "N/A")
             print(
                 f"  {tool:<14} "
                 f"{m.get('wer', 'N/A'):>6} "
                 f"{m.get('cer', 'N/A'):>6} "
                 f"{m.get('word_accuracy', 'N/A'):>10} "
                 f"{m.get('char_accuracy', 'N/A'):>10} "
-                f"{sem:>10} "
                 f"{m.get('count', 0):>4}"
             )
 
@@ -95,25 +93,23 @@ def print_report(agg: dict):
 
     overall = defaultdict(lambda: defaultdict(list))
     for (tool, lang), m in agg.items():
-        for metric in ["word_accuracy", "char_accuracy", "semantic_score"]:
+        for metric in ["word_accuracy", "char_accuracy"]:
             if metric in m:
                 overall[tool][metric].append(m[metric])
 
-    print(f"\n  {'Tool':<14} {'WordAcc%':>10} {'CharAcc%':>10} {'Semantic':>10}")
-    print(f"  {'-'*14} {'-'*10} {'-'*10} {'-'*10}")
+    print(f"\n  {'Tool':<14} {'WordAcc%':>10} {'CharAcc%':>10}")
+    print(f"  {'-'*14} {'-'*10} {'-'*10}")
 
     summary_rows = []
     for tool in sorted(overall.keys()):
         m   = overall[tool]
         wa  = round(sum(m["word_accuracy"])  / len(m["word_accuracy"]),  2) if m["word_accuracy"]  else "N/A"
         ca  = round(sum(m["char_accuracy"])  / len(m["char_accuracy"]),  2) if m["char_accuracy"]  else "N/A"
-        sem = round(sum(m["semantic_score"]) / len(m["semantic_score"]), 2) if m["semantic_score"] else "N/A"
-        print(f"  {tool:<14} {wa:>10} {ca:>10} {sem:>10}")
+        print(f"  {tool:<14} {wa:>10} {ca:>10}")
         summary_rows.append({
             "tool"              : tool,
             "avg_word_accuracy" : wa,
             "avg_char_accuracy" : ca,
-            "avg_semantic"      : sem,
         })
 
     return summary_rows
@@ -127,22 +123,22 @@ def save_summary_csv(agg: dict, summary_rows: list[dict]):
 
         writer.writerow(["=== PER-LANGUAGE BREAKDOWN ==="])
         writer.writerow(["tool", "language", "wer", "cer",
-                         "word_accuracy", "char_accuracy", "semantic_score", "count"])
+                         "word_accuracy", "char_accuracy", "count"])
 
         for (tool, lang), m in sorted(agg.items()):
             writer.writerow([
                 tool, lang,
                 m.get("wer", ""),           m.get("cer", ""),
                 m.get("word_accuracy", ""), m.get("char_accuracy", ""),
-                m.get("semantic_score", ""), m.get("count", ""),
+                m.get("count", ""),
             ])
 
         writer.writerow([])
         writer.writerow(["=== OVERALL AVERAGES ==="])
-        writer.writerow(["tool", "avg_word_accuracy", "avg_char_accuracy", "avg_semantic"])
+        writer.writerow(["tool", "avg_word_accuracy", "avg_char_accuracy"])
         for row in summary_rows:
             writer.writerow([row["tool"], row["avg_word_accuracy"],
-                             row["avg_char_accuracy"], row["avg_semantic"]])
+                             row["avg_char_accuracy"]])
 
     print(f"\n  Summary saved → {SUMMARY_PATH}")
 

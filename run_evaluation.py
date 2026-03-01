@@ -9,7 +9,7 @@ Usage:
 What it does:
   - Reads each language .txt from dataset/
   - Finds matching audio in outputs/sarvam/<lang>/ and outputs/elevenlabs/<lang>/
-  - Runs Whisper + WER + CER + Groq Semantic on each audio file
+  - Runs Whisper + WER + CER on each audio file
   - Saves every result row to results/results.csv
 
 Audio file naming convention expected:
@@ -37,32 +37,6 @@ from evaluate.evaluator import evaluate_single
 # --------------------------------------------------------------------------- #
 # Configuration — adjust these if your setup differs                          #
 # --------------------------------------------------------------------------- #
-
-BASE_DIR    = os.path.dirname(__file__)
-DATASET_DIR = os.path.join(BASE_DIR, "dataset")
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
-
-TOOLS = ["sarvam", "elevenlabs"]
-
-# Maps dataset filename (without extension) → Whisper language code
-LANGUAGE_WHISPER_MAP = {
-    "english"  : "en",
-    "hindi"    : "hi",
-    "bengali"  : "bn",
-    "gujarati" : "gu",
-    "kannada"  : "kn",
-    "malayalam": "ml",
-    "tamil"    : "ta",
-    "telugu"   : "te",
-}
-
-AUDIO_EXTENSIONS = [".wav", ".mp3", ".ogg", ".flac", ".m4a"]
-
-# Reads GROQ_API_KEY from .env (loaded above via load_dotenv)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", None)
-
-# Set to True to skip Groq semantic scoring (faster, no API needed)
-SKIP_SEMANTIC = False
 
 
 # --------------------------------------------------------------------------- #
@@ -100,13 +74,6 @@ def main():
     print("=" * 60)
     print("  TTS Benchmark Evaluation Runner")
     print("=" * 60)
-
-    if SKIP_SEMANTIC or not GROQ_API_KEY:
-        print("  ⚠  Semantic scoring DISABLED (GROQ_API_KEY not found)")
-        api_key = None
-    else:
-        print("  ✓  Semantic scoring ENABLED (Groq)")
-        api_key = GROQ_API_KEY
 
     # Discover all dataset .txt files
     txt_files = sorted(glob.glob(os.path.join(DATASET_DIR, "*.txt")))
@@ -153,7 +120,6 @@ def main():
                         tool            =tool,
                         language        =lang_name,
                         whisper_language=whisper_lang,
-                        groq_api_key    =api_key,
                         persist         =True,
                     )
                     all_results.append(result)
