@@ -1,0 +1,50 @@
+Set switch off timer 60 minutes in living room air purifier 1.
+Turn on night mode in the living room air purifier 1.
+Turn off fan power of the living room air purifier 1.
+Turn on fan power and set fan speed 4 in living room air purifier 1.
+Set fan speed 8 in living room air purifier 1.
+Turn off living room air purifier 1.
+Turn off living room air purifier 1.
+Set fan speed 2 in living room air purifier 1.
+What devices do I have in my bedroom?
+Turn on the AC in the bedroom
+Set temperature 18 degrees in the bedroom AC
+Turn on display mode in the bedroom AC.
+Turn on the ac in the dining room.
+Turn on office AC 2.
+Set dry mode in bedroom ac.
+Turn on sleep mode in bedroom ac.
+Set vertical swing to position 5 in bedroom ac.
+Turn on sky high color in bedroom ac.
+Turn on living room AC 2 and set it's horizontal swing to position 2.
+Turn on turbo mode in living room AC 2.
+Turn on child lock in bedroom ac.
+Set fan speed high in office AC 2.
+Set horizontal swing to auto in bedroom ac.
+Set temperature 30 degrees in the living room AC 2.
+Turn on yoga room AC 1 and set it's switch off timer to 20 minutes.
+Turn on humicon mode in yoga room AC 1.
+Turn off child lock mode in bedroom ac.
+Turn on eco mode in the ac in bedroom.
+Set light intensity low in the ac in bedroom.
+Turn on bedroom AC 2.
+Set vertical swing to position 4 and horizontal swing to position 3 in bedroom AC 2.
+Turn on eco mode in bedroom AC 2.
+Set fan speed to medium in bedroom AC 2.
+Turn on dining room AC 1 and set it's moonlight to future forward.
+Set temperature 50 degrees in dining room AC 1.
+Set variable capacity C1 in dining room AC 1.
+Turn on sleep mode in dining room AC 1.
+Turn on the AC in study and set it to silent mode.
+Set switch off timer 100 minutes for the AC in the study and set it's moonlight to balance.
+Turn off the study AC 1.
+Turn on the water heater in the kitchen.
+Turn on kitchen AC 3 and set to fan mode.
+Turn on display mode in kitchen AC 3.
+Turn on kids room AC 1 and turn on humicon mode in that.
+Set fan speed auto in kids room AC 1.
+Turn on office AC 1 and set it's variable capacity to C5.
+Set switch off timer to 1000 minutes in my office AC 1.
+Turn on silent mode in office AC 1.
+Turn on all ACs in living room.
+Turn on the AC in dining room.
