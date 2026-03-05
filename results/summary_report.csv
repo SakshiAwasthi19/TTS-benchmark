@@ -1,0 +1,34 @@
+=== PER-LANGUAGE BREAKDOWN ===
+tool,language,wer,cer,word_accuracy,char_accuracy,count
+elevenlabs,bengali,0.9916,0.9353,0.8357,6.4684,100
+elevenlabs,english,0.8701,0.7328,12.9858,26.7164,50
+elevenlabs,gujarati,1.0,0.9504,0.0,4.959,50
+elevenlabs,hindi,0.9784,0.9239,2.1572,7.6104,50
+elevenlabs,kannada,0.9856,0.9471,1.4444,5.2914,50
+elevenlabs,malayalam,0.9957,0.9555,0.4318,4.4492,50
+elevenlabs,tamil,0.99,0.7904,1.0032,20.9596,50
+elevenlabs,telugu,0.9906,0.9398,0.9356,6.019,50
+sarvam,bengali,0.994,0.9321,0.5994,6.7948,100
+sarvam,english,0.882,0.7401,11.7954,25.989,50
+sarvam,gujarati,0.9884,0.938,1.1602,6.1992,50
+sarvam,hindi,0.9856,0.9223,1.4434,7.7678,50
+sarvam,kannada,0.9859,0.9411,1.4104,5.893,50
+sarvam,malayalam,0.9854,0.9457,1.4576,5.4292,50
+sarvam,tamil,0.9892,0.7632,1.0826,23.6792,50
+sarvam,telugu,0.9889,0.9307,1.1116,6.9286,50
+
+=== PER-LANGUAGE WINNER ===
+language,winner,reason,sarvam_wer,elevenlabs_wer,sarvam_cer,elevenlabs_cer,sarvam_wordacc%,elevenlabs_wordacc%,sarvam_characc%,elevenlabs_characc%
+bengali,elevenlabs,Lower WER (0.9916 vs 0.994),0.994,0.9916,0.9321,0.9353,0.5994,0.8357,6.7948,6.4684
+english,elevenlabs,Lower WER (0.8701 vs 0.882),0.882,0.8701,0.7401,0.7328,11.7954,12.9858,25.989,26.7164
+gujarati,sarvam,Lower WER (0.9884 vs 1.0),0.9884,1.0,0.938,0.9504,1.1602,0.0,6.1992,4.959
+hindi,elevenlabs,Lower WER (0.9784 vs 0.9856),0.9856,0.9784,0.9223,0.9239,1.4434,2.1572,7.7678,7.6104
+kannada,elevenlabs,Lower WER (0.9856 vs 0.9859),0.9859,0.9856,0.9411,0.9471,1.4104,1.4444,5.893,5.2914
+malayalam,sarvam,Lower WER (0.9854 vs 0.9957),0.9854,0.9957,0.9457,0.9555,1.4576,0.4318,5.4292,4.4492
+tamil,sarvam,Lower WER (0.9892 vs 0.99),0.9892,0.99,0.7632,0.7904,1.0826,1.0032,23.6792,20.9596
+telugu,sarvam,Lower WER (0.9889 vs 0.9906),0.9889,0.9906,0.9307,0.9398,1.1116,0.9356,6.9286,6.019
+
+=== OVERALL AVERAGES ===
+tool,avg_wer,avg_cer,avg_word_accuracy,avg_char_accuracy,languages_won
+elevenlabs,0.9753,0.8969,2.47,10.31,4
+sarvam,0.9749,0.8891,2.51,11.09,4

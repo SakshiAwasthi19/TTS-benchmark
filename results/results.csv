@@ -1,0 +1,901 @@
+tool,language,audio_file,original_text,transcribed_text,wer,cer,word_accuracy,char_accuracy,whisper_model,timestamp
+sarvam,bengali,bengali_0.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 চালু করুন।,"Sh between coconut , beautifully urify and once all aquarium are formed",1.0,1.0,0.0,0.0,base,2026-03-05T10:52:37.693081+00:00
+sarvam,bengali,bengali_1.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ বাজার নিয়ন্ত্রণ চালু করুন।,Shoyeon Co. Khoya Purifier 1. A. Bazar Neon Tron Chalukorun,1.0,0.931,0.0,6.9,base,2026-03-05T10:52:40.010225+00:00
+sarvam,bengali,bengali_10.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 4 সেট করুন।,Dining Robotまわまどれば丸が整理されている,1.0,0.9815,0.0,1.85,base,2026-03-05T10:52:49.345480+00:00
+sarvam,bengali,bengali_11.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ নাইট মোড সেট করুন।,Dining Room AR Purifier 1 Airing LED UDZ70 Shared,1.0,0.898,0.0,10.2,base,2026-03-05T10:52:50.725990+00:00
+sarvam,bengali,bengali_12.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ 60 মিনিটের সুইচ অফ টাইমার সেট করুন।,Dining Room Air Purifier 1A Hitter Power Chalukorun,1.0,0.9091,0.0,9.09,base,2026-03-05T10:52:52.132043+00:00
+sarvam,bengali,bengali_13.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 40 সেট করুন।,Dining Room Air Purifier 1-Night Mode Shared,1.0,0.9206,0.0,7.94,base,2026-03-05T10:52:53.476102+00:00
+sarvam,bengali,bengali_14.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ টার্বো মোড চালু করুন এবং বাজার নিয়ন্ত্রণ বন্ধ করুন।,Dining Room AR Purifier 1A 180 MHz Suits Off-Timer Shared Corroon.,1.0,0.8795,0.0,12.05,base,2026-03-05T10:52:54.926303+00:00
+sarvam,bengali,bengali_15.wav,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ 720 মিনিটের সুইচ অফ টাইমার সেট করুন।,"Dining Room AR Purify R1, A Bajad Nehantran Chalukurun.",1.0,0.9104,0.0,8.96,base,2026-03-05T10:52:56.484349+00:00
+sarvam,bengali,bengali_16.wav,ডাইনিং রুমে এয়ার পিউরিফায়ার চালু করুন।,"Dining Room AR Purifier 1, a Faner Goti 3 Shared Corun.",1.0,1.0,0.0,0.0,base,2026-03-05T10:52:57.869131+00:00
+sarvam,bengali,bengali_17.wav,আমার শয়নকক্ষ এয়ার পিউরিফায়ার 1 এর অবস্থা কী?,Dining Room AR Purifier 1 Çalukorun,0.875,0.8936,12.5,10.64,base,2026-03-05T10:52:59.093262+00:00
+sarvam,bengali,bengali_18.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Dining Room Air Purifier 1 Aaring LED Ujjalota 200 Shared Core,1.0,1.0,0.0,0.0,base,2026-03-05T10:53:00.496480+00:00
+sarvam,bengali,bengali_19.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 70 সেট করুন।,Dining Room AR Purifier 100A 180 Min switch of timer shed korun.,1.0,0.9077,0.0,9.23,base,2026-03-05T10:53:02.113339+00:00
+sarvam,bengali,bengali_2.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ হিটার পাওয়ার চালু করুন।,,1.0,1.0,0.0,0.0,base,2026-03-05T10:53:11.178752+00:00
+sarvam,bengali,bengali_20.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ নাইট মোড সেট করুন।,Living room Air idealsu 10,1.0,0.9216,0.0,7.84,base,2026-03-05T10:53:18.856929+00:00
+sarvam,bengali,bengali_21.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ 180 মিনিটের সুইচ অফ টাইমার সেট করুন।,Leaving Room AR Purifier 1S60 Min. Switch of Timer Shared Corrun.,1.0,0.913,0.0,8.7,base,2026-03-05T10:53:20.659205+00:00
+sarvam,bengali,bengali_22.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ বাজার নিয়ন্ত্রণ চালু করুন।,leaving room air to refair one in night mode.,1.0,0.9167,0.0,8.33,base,2026-03-05T10:53:21.964342+00:00
+sarvam,bengali,bengali_23.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 3 সেট করুন।,leaving room air purifier 1 if fan power bondhoquon,0.9091,0.9107,9.09,8.93,base,2026-03-05T10:53:23.309254+00:00
+sarvam,bengali,bengali_24.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Living Room Air Purifier 1 a Fan Power Chalukurun a Bomb Fan Goti 4 Shared Kuruun.,1.0,1.0,0.0,0.0,base,2026-03-05T10:53:24.902296+00:00
+sarvam,bengali,bengali_25.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 200 সেট করুন।,Turning Tools To生き troinated environment,1.0,0.9394,0.0,6.06,base,2026-03-05T10:53:33.995909+00:00
+sarvam,bengali,bengali_26.wav,ডাইনিং রুম এয়ার পিউরিফায়ার 100 এ 180 মিনিটের সুইচ অফ টাইমার সেট করুন।,Leaving room air purifier 1 bond hukorun,1.0,0.9155,0.0,8.45,base,2026-03-05T10:53:35.423723+00:00
+sarvam,bengali,bengali_27.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Living Room Air Purifier 1 Bondho Kaurun,0.8571,0.95,14.29,5.0,base,2026-03-05T10:53:36.989413+00:00
+sarvam,bengali,bengali_28.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এ 60 মিনিটের সুইচ অফ টাইমার সেট করুন।,"Living Room Air Purifier 1, a fan air gothi 2 shade korun.",1.0,0.8806,0.0,11.94,base,2026-03-05T10:53:38.435647+00:00
+sarvam,bengali,bengali_29.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এ নাইট মোড চালু করুন।,Ama personajes verticallywnzu,1.0,0.9608,0.0,3.92,base,2026-03-05T10:53:46.539962+00:00
+sarvam,bengali,bengali_3.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এর ফ্যান পাওয়ার বন্ধ করুন।,"Shayan Kokko AR Purifier 1, A Night Mode Shared",1.0,0.8772,0.0,12.28,base,2026-03-05T10:53:48.063818+00:00
+sarvam,bengali,bengali_30.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যান পাওয়ার চালু করুন এবং ফ্যান গতি 4 সেট করুন।,شرن کو کسی چانو کرون,1.0,0.9506,0.0,4.94,base,2026-03-05T10:53:49.484920+00:00
+sarvam,bengali,bengali_31.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 8 সেট করুন।,شاین کو کھر ایسی کے تاپمترا ایٹین دیگری شیٹ کرون,1.0,0.8727,0.0,12.73,base,2026-03-05T10:53:51.203530+00:00
+sarvam,bengali,bengali_32.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 বন্ধ করুন।,Shion Fckr AC Teleport through AC,1.0,0.925,0.0,7.5,base,2026-03-05T10:53:59.213405+00:00
+sarvam,bengali,bengali_33.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 বন্ধ করুন।,دائنگ رو میں اسی چالو کرون,1.0,0.875,0.0,12.5,base,2026-03-05T10:54:00.765156+00:00
+sarvam,bengali,bengali_34.wav,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 2 সেট করুন।,AIDS2-calu Room,1.0,0.9818,0.0,1.82,base,2026-03-05T10:54:08.533359+00:00
+sarvam,bengali,bengali_35.wav,আমার শয়নকক্ষে কী কী ডিভাইস আছে?,شائم کو کر ایسی تدری موڈشیٹ کرون,1.0,0.9062,0.0,9.38,base,2026-03-05T10:54:22.912976+00:00
+sarvam,bengali,bengali_36.wav,শয়নকক্ষে AC চালু করুন।,شاین کو کھر ایسی تسلیپ مور چانو کرون,1.0,1.0,0.0,0.0,base,2026-03-05T10:54:24.572020+00:00
+sarvam,bengali,bengali_37.wav,শয়নকক্ষের AC তে তাপমাত্রা 18 ডিগ্রি সেট করুন।,شوائن کپکھر ایسی تبھاٹکل سوین پوجیشن 5 سیٹ کرون,1.0,0.9565,0.0,4.35,base,2026-03-05T10:54:26.414002+00:00
+sarvam,bengali,bengali_38.wav,শয়নকক্ষের AC তে ডিসপ্লে মোড চালু করুন।,Shion cup kire seethe sky hai kalar chalukurun,1.0,1.0,0.0,0.0,base,2026-03-05T10:54:27.926458+00:00
+sarvam,bengali,bengali_39.wav,ডাইনিং রুমে AC চালু করুন।,Living Room AC2 Charlu Coroon among Air Horizontal Swing Position 2A Set Coroon.,1.0,1.0,0.0,0.0,base,2026-03-05T10:54:29.625897+00:00
+sarvam,bengali,bengali_4.wav,অফিস AC 2 চালু করুন।,Shoyeon Coqqa AR Purify 1 is 60 Minutes Switch of Timer Shared Corone.,1.0,1.0,0.0,0.0,base,2026-03-05T10:54:31.339846+00:00
+sarvam,bengali,bengali_40.wav,শয়নকক্ষের AC তে ড্রাই মোড সেট করুন।,иров Gir chairs firm,1.0,0.9167,0.0,8.33,base,2026-03-05T10:54:39.658216+00:00
+sarvam,bengali,bengali_41.wav,শয়নকক্ষের AC তে স্লিপ মোড চালু করুন।,woundle 1 kg,1.0,0.9459,0.0,5.41,base,2026-03-05T10:54:47.964533+00:00
+sarvam,bengali,bengali_42.wav,শয়নকক্ষের AC তে ভার্টিক্যাল সুইং পজিশন 5 এ সেট করুন।,Office ACTO A Phantom Goati hi suspended,1.0,0.8679,0.0,13.21,base,2026-03-05T10:54:56.076907+00:00
+sarvam,bengali,bengali_43.wav,শয়নকক্ষের AC তে স্কাই হাই কালার চালু করুন।,wenigBOca stambert,1.0,0.9535,0.0,4.65,base,2026-03-05T10:55:04.443805+00:00
+sarvam,bengali,bengali_44.wav,লিভিং রুম AC 2 চালু করুন এবং এর হরিজন্টাল সুইং পজিশন 2 এ সেট করুন।,Leaving room AC2 a tapmatra 30°C,1.0,0.9091,0.0,9.09,base,2026-03-05T10:55:06.095988+00:00
+sarvam,bengali,bengali_45.wav,লিভিং রুম AC 2 এ টার্বো মোড চালু করুন।,"جوگا رو مسی 1 شالو کرون, ایک سویس افٹائمہ 20 مینٹے شید کرون.",1.0,1.0,0.0,0.0,base,2026-03-05T10:55:08.044124+00:00
+sarvam,bengali,bengali_46.wav,শয়নকক্ষের AC তে চাইল্ড লক চালু করুন।,جو گارومسی وانے ہیومیکن مورچ چالو کرون,1.0,0.9459,0.0,5.41,base,2026-03-05T10:55:09.499436+00:00
+sarvam,bengali,bengali_47.wav,অফিস AC 2 এ ফ্যানের গতি হাই সেট করুন।,Wasser해� scored Shivend Baak,1.0,0.9189,0.0,8.11,base,2026-03-05T10:55:17.659363+00:00
+sarvam,bengali,bengali_48.wav,শয়নকক্ষের AC তে হরিজন্টাল সুইং অটো সেট করুন।,Shuan Cocker S.C. Teikomot Chalukorun,1.0,0.9333,0.0,6.67,base,2026-03-05T10:55:19.360071+00:00
+sarvam,bengali,bengali_49.wav,লিভিং রুম AC 2 এ তাপমাত্রা 30 ডিগ্রি সেট করুন।,شوان کو کھر AC پیلائیت انتنسیٹیلو سیٹ کرون,1.0,0.8913,0.0,10.87,base,2026-03-05T10:55:22.490317+00:00
+sarvam,bengali,bengali_5.wav,যোগা রুম AC 1 চালু করুন এবং এর সুইচ অফ টাইমার 20 মিনিটে সেট করুন।,شاین کوکھا ایر پیوریفائر 1 ایرینگ ایلیڈی اضجلتا 40 شیٹ کرون,1.0,0.8769,0.0,12.31,base,2026-03-05T10:55:27.683996+00:00
+sarvam,bengali,bengali_50.wav,যোগা রুম AC 1 এ হিউমিকন মোড চালু করুন।,شاینا کوکھا اسی تو چالو کرم,1.0,0.8684,0.0,13.16,base,2026-03-05T10:55:29.126271+00:00
+sarvam,bengali,bengali_51.wav,শয়নকক্ষের AC তে চাইল্ড লক মোড বন্ধ করুন।,"Shoyeon Kokko Situ, a vertical swing position for a ebom horizontal swing position 3a set korun.",1.0,1.0,0.0,0.0,base,2026-03-05T10:55:31.042919+00:00
+sarvam,bengali,bengali_52.wav,শয়নকক্ষের AC তে ইকো মোড চালু করুন।,Shooinko kqu o e assist to a Daar ko Maap moon,1.0,1.0,0.0,0.0,base,2026-03-05T10:55:39.430478+00:00
+sarvam,bengali,bengali_53.wav,শয়নকক্ষের AC তে লাইট ইনটেনসিটি লো সেট করুন।,شائنцوق کہ 꺼 Ac2 에 Fanair Godi medium щ都是,1.0,0.9091,0.0,9.09,base,2026-03-05T10:55:47.978338+00:00
+sarvam,bengali,bengali_54.wav,শয়নকক্ষ AC 2 চালু করুন।,"Dining Room AC1-CALO-KORUN, EBANG-ER-MONLIGHT-FUTURE-FORWARD-SET-KORUN",1.0,1.0,0.0,0.0,base,2026-03-05T10:55:50.231297+00:00
+sarvam,bengali,bengali_55.wav,শয়নকক্ষ AC 2 এ ভার্টিক্যাল সুইং পজিশন 4 এ এবং হরিজন্টাল সুইং পজিশন 3 এ সেট করুন।,دائنیگ روم ایسیوانے کپمترا 50 دیگری سیٹ کروں,1.0,0.9136,0.0,8.64,base,2026-03-05T10:55:51.860935+00:00
+sarvam,bengali,bengali_56.wav,শয়নকক্ষ AC 2 এ ইকো মোড চালু করুন।,Dining Room AC1 A Variable Capacity C1 Shared Coron,1.0,1.0,0.0,0.0,base,2026-03-05T10:55:53.259368+00:00
+sarvam,bengali,bengali_57.wav,শয়নকক্ষ AC 2 এ ফ্যানের গতি মিডিয়াম সেট করুন।,"Dining Room S1 SLEEP mode, Chalukorun",1.0,0.9348,0.0,6.52,base,2026-03-05T10:55:54.671460+00:00
+sarvam,bengali,bengali_58.wav,ডাইনিং রুম AC 1 চালু করুন এবং এর মুনলাইট ফিউচার ফরওয়ার্ড সেট করুন।,neu floo,1.0,0.9851,0.0,1.49,base,2026-03-05T10:56:02.355914+00:00
+sarvam,bengali,bengali_59.wav,ডাইনিং রুম AC 1 এ তাপমাত্রা 50 ডিগ্রি সেট করুন।,wichtigerری cuffاصم آینج تحنج سوق کے فخری صلابتے کے ہے تحنج ذریفfit میں عائم مواد lugar مTIjmiken,1.0,1.0,0.0,0.0,base,2026-03-05T10:56:20.068996+00:00
+sarvam,bengali,bengali_6.wav,ডাইনিং রুম AC 1 এ ভ্যারিয়েবল ক্যাপাসিটি C1 সেট করুন।,"Shayan Co co-air Purifier 1, 8 Arbomod Chalukurun, ebom Bajar Neon Trun Bondukurun.",1.0,1.0,0.0,0.0,base,2026-03-05T10:56:22.054428+00:00
+sarvam,bengali,bengali_60.wav,ডাইনিং রুম AC 1 এ স্লিপ মোড চালু করুন।,Start EC-1 körúν,1.0,0.8947,0.0,10.53,base,2026-03-05T10:56:35.110208+00:00
+sarvam,bengali,bengali_61.wav,স্টাডিতে AC চালু করে সাইলেন্ট মোডে সেট করুন।,Rayanna vare vata heatタar çağlukorun,1.0,0.9091,0.0,9.09,base,2026-03-05T10:56:44.537129+00:00
+sarvam,bengali,bengali_62.wav,স্টাডির AC এ 100 মিনিটের সুইচ অফ টাইমার সেট করুন এবং মুনলাইট ব্যালেন্স সেট করুন।,Theoina e.c3 talukore fan mode set kon,1.0,0.9125,0.0,8.75,base,2026-03-05T10:56:53.303983+00:00
+sarvam,bengali,bengali_63.wav,স্টাডি AC 1 বন্ধ করুন।,Kitsaan Ac 3 A display mode,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:00.899181+00:00
+sarvam,bengali,bengali_64.wav,রান্নাঘরে ওয়াটার হিটার চালু করুন।,"kidsrumaici sabford ,",1.0,0.9412,0.0,5.88,base,2026-03-05T10:57:13.887202+00:00
+sarvam,bengali,bengali_65.wav,কিচেন AC 3 চালু করে ফ্যান মোডে সেট করুন।,Kids Room AC1A Fence Speed Auto Set Korn,1.0,0.875,0.0,12.5,base,2026-03-05T10:57:17.990098+00:00
+sarvam,bengali,bengali_66.wav,কিচেন AC 3 এ ডিসপ্লে মোড চালু করুন।,افیس اسے one شالو کریں بھریابول کیپسیٹسی five سیٹ کرون,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:21.445321+00:00
+sarvam,bengali,bengali_67.wav,কিডস রুম AC 1 চালু করে হিউমিকন মোড চালু করুন।,Our office AC1A 1000 Min. Switch of Timerset Kuruun.,1.0,0.9778,0.0,2.22,base,2026-03-05T10:57:22.847486+00:00
+sarvam,bengali,bengali_68.wav,কিডস রুম AC 1 এ ফ্যান স্পিড অটো সেট করুন।,Offices 1. A silent mode. Chalukun.,1.0,0.878,0.0,12.2,base,2026-03-05T10:57:24.201211+00:00
+sarvam,bengali,bengali_69.wav,অফিস AC 1 চালু করে ভ্যারিয়েবল ক্যাপাসিটি C5 সেট করুন।,Leaving Room에서 Agora  Kaews isaenak Nu Darren,1.0,0.9074,0.0,9.26,base,2026-03-05T10:57:31.781544+00:00
+sarvam,bengali,bengali_7.wav,আমার অফিস AC 1 এ 1000 মিনিটের সুইচ অফ টাইমার সেট করুন।,Shown Gokkhoyar purifier 1S700 & 20 Min suits of time are set korun.,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:35.120659+00:00
+sarvam,bengali,bengali_70.wav,অফিস AC 1 এ সাইলেন্ট মোড চালু করুন।,دائنین رومے اسی چالوگرون,1.0,0.9143,0.0,8.57,base,2026-03-05T10:57:36.535978+00:00
+sarvam,bengali,bengali_71.wav,লিভিং রুমের সব AC চালু করুন।,دائنگ رومی ایسی چالکڑوں,1.0,0.8929,0.0,10.71,base,2026-03-05T10:57:37.943406+00:00
+sarvam,bengali,bengali_72.wav,ডাইনিং রুমে AC চালু করুন।,Dining Room S1-Hile Lock Mode Chalukurun,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:39.487184+00:00
+sarvam,bengali,bengali_73.wav,ডাইনিং রুমে AC চালু করুন।,Dining Room AC1A Moonlight Dream on Set Corrid.,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:41.034164+00:00
+sarvam,bengali,bengali_74.wav,ডাইনিং রুম AC 1 এ চাইল্ড লক মোড চালু করুন।,kiywet fearshto진 180°C,1.0,0.9286,0.0,7.14,base,2026-03-05T10:57:49.020216+00:00
+sarvam,bengali,bengali_75.wav,ডাইনিং রুম AC 1 এ মুনলাইট ড্রিম অন সেট করুন।,کچھے نیسک توے طاربہ مٹ چالکہ کرن,1.0,0.8636,0.0,13.64,base,2026-03-05T10:57:50.621076+00:00
+sarvam,bengali,bengali_76.wav,কিচেন AC 2 চালু করে 18 ডিগ্রি সেট করুন।,kichin asi 2e ikomot chanukorun,1.0,0.8974,0.0,10.26,base,2026-03-05T10:57:51.969449+00:00
+sarvam,bengali,bengali_77.wav,কিচেন AC 2 এ টার্বো মোড চালু করুন।,Amar kise nesk tuer abostakhi,1.0,0.9118,0.0,8.82,base,2026-03-05T10:57:53.381308+00:00
+sarvam,bengali,bengali_78.wav,কিচেন AC 2 এ ইকো মোড চালু করুন।,کچھے نیسی تویشائلین مورڈشیٹ کروں,1.0,0.9677,0.0,3.23,base,2026-03-05T10:57:54.910500+00:00
+sarvam,bengali,bengali_79.wav,আমার কিচেন AC 2 এর অবস্থা কী?,Office AC3 Charlu Kore Medium Light Intensity Set Kore & Abhung Moonlight Down to DASK Set Kore &,1.0,1.0,0.0,0.0,base,2026-03-05T10:57:56.699842+00:00
+sarvam,bengali,bengali_8.wav,কিচেন AC 2 এ সাইলেন্ট মোড সেট করুন।,Dining Room ay our Purifier Chanukorun,1.0,0.9714,0.0,2.86,base,2026-03-05T10:57:57.922169+00:00
+sarvam,bengali,bengali_80.wav,অফিস AC 3 চালু করে মিডিয়াম লাইট ইন্টেনসিটি সেট করুন এবং মুনলাইট ডাউন টু ডাস্ক সেট করুন।,Office AC 312 Miniatures Switch of Timers Shed Coroon Abhung Display Mode Bandhu Coroon,0.9412,0.9205,5.88,7.95,base,2026-03-05T10:57:59.483142+00:00
+sarvam,bengali,bengali_81.wav,অফিস AC 3 এ 12 মিনিটের সুইচ অফ টাইমার সেট করুন এবং ডিসপ্লে মোড বন্ধ করুন।,جوگا رومی فین چالو کرون,1.0,0.9452,0.0,5.48,base,2026-03-05T10:58:00.959860+00:00
+sarvam,bengali,bengali_82.wav,যোগা রুমে ফ্যান চালু করুন।,Kissen AC18ressedom可愛,1.0,0.9615,0.0,3.85,base,2026-03-05T10:58:08.920598+00:00
+sarvam,bengali,bengali_83.wav,কিচেন AC 1 এ টার্বো মোড চালু করুন।,Thichyen disyiwanyy哲vyuore fanmod位 sittушurun,1.0,1.0,0.0,0.0,base,2026-03-05T10:58:22.044365+00:00
+sarvam,bengali,bengali_84.wav,কিচেন AC 1 চালু করে ফ্যান মোডে সেট করুন।,Kichan AC1S Leap Mode Chalukorun,1.0,0.875,0.0,12.5,base,2026-03-05T10:58:24.860233+00:00
+sarvam,bengali,bengali_85.wav,কিচেন AC 1 এ স্লিপ মোড চালু করুন।,"کیسனC1,reklnde lo 둘",1.0,0.8788,0.0,12.12,base,2026-03-05T10:58:32.829306+00:00
+sarvam,bengali,bengali_86.wav,কিচেন AC 1 এ চাইল্ড লক মোড চালু করুন।,Kichan AC1-800mm Suits of Timer Shared.,1.0,0.9189,0.0,8.11,base,2026-03-05T10:58:34.320625+00:00
+sarvam,bengali,bengali_87.wav,কিচেন AC 1 এ 200 মিনিটের সুইচ অফ টাইমার সেট করুন।,جوگا روم AC2 چالو کڑے بھتکل سوین اب 3A سیٹ کرون,1.0,0.8776,0.0,12.24,base,2026-03-05T10:58:37.652748+00:00
+sarvam,bengali,bengali_88.wav,যোগা রুম AC 2 চালু করে ভার্টিক্যাল সুইং আপ 3 এ সেট করুন।,جگروم اسی تو ایهیومی کن موت سانو کرون,1.0,0.875,0.0,12.5,base,2026-03-05T10:58:44.806845+00:00
+sarvam,bengali,bengali_89.wav,যোগা রুম AC 2 এ হিউমিকন মোড চালু করুন।,Amar baakat t overcoming normalization,1.0,0.8947,0.0,10.53,base,2026-03-05T10:58:52.861108+00:00
+sarvam,bengali,bengali_9.wav,আমার কাছে কোন কোন ডিভাইস আছে?,Amar Shwaina ko kuiyaar pivifayaar 1-8 abos taki,1.0,1.0,0.0,0.0,base,2026-03-05T10:58:54.631299+00:00
+sarvam,bengali,bengali_90.wav,বেডরুম AC 3 চালু করে ভ্যারিয়েবল ক্যাপাসিটি C3 এ সেট করুন।,بدروں ایسی 3 چالوکہ رہے بھاریابل کیپاستیسی 3یشیٹ کرون,0.9091,0.8966,9.09,10.34,base,2026-03-05T10:58:56.429816+00:00
+sarvam,bengali,bengali_91.wav,বেডরুম AC 3 এ টার্বো মোড চালু করুন।,BEDRUM AC3 et Arbomot Chalukorun,1.0,0.8286,0.0,17.14,base,2026-03-05T10:58:57.864104+00:00
+sarvam,bengali,bengali_92.wav,বেডরুম AC 3 এ অটো মোড চালু করুন।,BEDROOM AC3A Auto Mode Chalukruhn,1.0,0.875,0.0,12.5,base,2026-03-05T10:58:59.185242+00:00
+sarvam,bengali,bengali_93.wav,বেডরুম AC 3 এ তাপমাত্রা 23 ডিগ্রি সেট করুন।,BEDROOM AC3A TAPMA-23 DIGVY SHETCO RUN,1.0,0.8372,0.0,16.28,base,2026-03-05T10:59:00.877911+00:00
+sarvam,bengali,bengali_94.wav,ডাইনিং রুম AC 1 চালু করে হিউমিকন মোড চালু করুন।,"Dining Room AC-1, Chalu Kore, Humicon Mode Chalu Keroon",1.0,0.9362,0.0,6.38,base,2026-03-05T10:59:02.341030+00:00
+sarvam,bengali,bengali_95.wav,ডাইনিং রুম AC 1 এ ভ্যারিয়েবল ক্যাপাসিটি C5 এ সেট করুন।,Dining Room AC1 A Variable Capacity C5 Sett Korun,0.9091,0.7818,9.09,21.82,base,2026-03-05T10:59:03.756935+00:00
+sarvam,bengali,bengali_96.wav,ডাইনিং রুম AC 1 এ টার্বো মোড চালু করে লাইট ইনটেনসিটি হাই এ সেট করুন।,دائنیگ رومسیوانے طربوں مورد چانوکڑے لائٹھ انٹنسٹی ہائے سیٹ کرون,1.0,0.8971,0.0,10.29,base,2026-03-05T10:59:06.096515+00:00
+sarvam,bengali,bengali_97.wav,কিচেন AC 2 চালু করুন।,"kiların, ac2 ça lokur01",1.0,0.9048,0.0,9.52,base,2026-03-05T10:59:13.934291+00:00
+sarvam,bengali,bengali_98.wav,কিচেন AC 2 এ মুনলাইট আনওয়াইন্ড সেট করে ফ্যান মোড চালু করুন।,Kitsun AC2 Immunlight Anuang Set Kore Fan Mode Chalukorun,1.0,0.8833,0.0,11.67,base,2026-03-05T10:59:15.656230+00:00
+sarvam,bengali,bengali_99.wav,স্টাডিতে এয়ার পিউরিফায়ার চালু করুন।,Stanithe AR purifier Chalukorun,1.0,0.9189,0.0,8.11,base,2026-03-05T10:59:17.209740+00:00
+elevenlabs,bengali,bengali_0.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 চালু করুন।,Shoin GoCo Air Purifier Act Chalukodun,1.0,0.9487,0.0,5.13,base,2026-03-05T10:59:18.733883+00:00
+elevenlabs,bengali,bengali_1.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ বাজার নিয়ন্ত্রণ চালু করুন।,"Shoinko ko air purifier onee, Baja neon tron chalukodun.",1.0,0.9483,0.0,5.17,base,2026-03-05T10:59:20.175443+00:00
+elevenlabs,bengali,bengali_10.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 4 সেট করুন।,Dining Room Air Purifier Waq Chalukurun,1.0,0.9074,0.0,9.26,base,2026-03-05T10:59:21.632056+00:00
+elevenlabs,bengali,bengali_11.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ নাইট মোড সেট করুন।,Dining Room Air Purifier 1-Eating L-O-D Ujjolota 100-Tour Set Kuruun.,1.0,1.0,0.0,0.0,base,2026-03-05T10:59:23.276424+00:00
+elevenlabs,bengali,bengali_12.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ 60 মিনিটের সুইচ অফ টাইমার সেট করুন।,Dining Room Air Purifier 1-E heater power Chalukorun,1.0,0.9091,0.0,9.09,base,2026-03-05T10:59:24.628398+00:00
+elevenlabs,bengali,bengali_13.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 40 সেট করুন।,Dining Room Air Purifier 1-Night Mode Set Coroon,1.0,0.9048,0.0,9.52,base,2026-03-05T10:59:26.026797+00:00
+elevenlabs,bengali,bengali_14.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ টার্বো মোড চালু করুন এবং বাজার নিয়ন্ত্রণ বন্ধ করুন।,"Dining Room Air Purifier 1, a 180-minuited switch of timer set korun.",1.0,0.9036,0.0,9.64,base,2026-03-05T10:59:27.684241+00:00
+elevenlabs,bengali,bengali_15.mp3,শয়নকক্ষ এয়ার পিউরিফায়ার 1 এ 720 মিনিটের সুইচ অফ টাইমার সেট করুন।,دائنگ رم ایر پیریفیر 1 اے باجر نیونٹون چالوکورون,1.0,0.8806,0.0,11.94,base,2026-03-05T10:59:29.502275+00:00
+elevenlabs,bengali,bengali_16.mp3,ডাইনিং রুমে এয়ার পিউরিফায়ার চালু করুন।,Dining Room Air Purifier 1A Phanel Gothi 3Shit Kuruun,1.0,1.0,0.0,0.0,base,2026-03-05T10:59:30.954544+00:00
+elevenlabs,bengali,bengali_17.mp3,আমার শয়নকক্ষ এয়ার পিউরিফায়ার 1 এর অবস্থা কী?,Dining Room Air Purifier 1 Çalukorun,0.875,0.8936,12.5,10.64,base,2026-03-05T10:59:32.351257+00:00
+elevenlabs,bengali,bengali_18.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Dining Room Air Purifier 1A Ring LID UJALATA 2.0 SET KORUN,1.0,1.0,0.0,0.0,base,2026-03-05T10:59:33.961459+00:00
+elevenlabs,bengali,bengali_19.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 70 সেট করুন।,Dining Room Air Purifier 100 × HADER OSHI MINITAR SWITCH OF TIMEAR SET CORRUN,1.0,1.0,0.0,0.0,base,2026-03-05T10:59:35.518820+00:00
+elevenlabs,bengali,bengali_2.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ হিটার পাওয়ার চালু করুন।,scho兩個 ebensesua,1.0,0.9825,0.0,1.75,base,2026-03-05T10:59:44.369474+00:00
+elevenlabs,bengali,bengali_20.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ নাইট মোড সেট করুন।,"Living Room Air Purifier 1, Chalukurun",1.0,0.902,0.0,9.8,base,2026-03-05T10:59:45.971336+00:00
+elevenlabs,bengali,bengali_21.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ 180 মিনিটের সুইচ অফ টাইমার সেট করুন।,Living Room Air Purifier 1A 60 Min. Switch of Timerset Corun,1.0,0.8551,0.0,14.49,base,2026-03-05T10:59:47.493380+00:00
+elevenlabs,bengali,bengali_22.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ বাজার নিয়ন্ত্রণ চালু করুন।,Living Room Air Purifier 1A Night Mode Chalukurun,1.0,0.8833,0.0,11.67,base,2026-03-05T10:59:49.055505+00:00
+elevenlabs,bengali,bengali_23.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 3 সেট করুন।,Living Room Air Purifier 1 Air Fan Power Bonds Thukurun,0.9091,0.9286,9.09,7.14,base,2026-03-05T10:59:50.430441+00:00
+elevenlabs,bengali,bengali_24.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Living Room Air Purifier 1-E fan power-challocoroon ebung fan gothi 4 set-coroon,1.0,1.0,0.0,0.0,base,2026-03-05T10:59:57.915279+00:00
+elevenlabs,bengali,bengali_25.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 1 এ রিং এলইডি উজ্জ্বলতা 200 সেট করুন।,Leaving Room Air Purifier 1A Phanet Goti 8 Sett Kuruun,1.0,0.9091,0.0,9.09,base,2026-03-05T10:59:59.336586+00:00
+elevenlabs,bengali,bengali_26.mp3,ডাইনিং রুম এয়ার পিউরিফায়ার 100 এ 180 মিনিটের সুইচ অফ টাইমার সেট করুন।,Living Room Air Purifier 1 Bon Thakurun,1.0,0.9155,0.0,8.45,base,2026-03-05T11:00:00.599860+00:00
+elevenlabs,bengali,bengali_27.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 চালু করুন।,Living Room Air Purifier 1 Bonthakorun,0.8571,0.925,14.29,7.5,base,2026-03-05T11:00:02.065127+00:00
+elevenlabs,bengali,bengali_28.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এ 60 মিনিটের সুইচ অফ টাইমার সেট করুন।,Leaving Room Air PewDiePie 1A Phanir Gothi 2 SET KORUN,1.0,0.8806,0.0,11.94,base,2026-03-05T11:00:03.681300+00:00
+elevenlabs,bengali,bengali_29.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এ নাইট মোড চালু করুন।,امشاون کو قیکی کی دیوائیسا تھے?,1.0,0.902,0.0,9.8,base,2026-03-05T11:00:05.101992+00:00
+elevenlabs,bengali,bengali_3.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এর ফ্যান পাওয়ার বন্ধ করুন।,Shoyun koko air purifier 1 in night mode set konun,0.9,0.8596,10.0,14.04,base,2026-03-05T11:00:06.510821+00:00
+elevenlabs,bengali,bengali_30.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যান পাওয়ার চালু করুন এবং ফ্যান গতি 4 সেট করুন।,شاین کو که ایسی جالگرون,1.0,0.9506,0.0,4.94,base,2026-03-05T11:00:08.064954+00:00
+elevenlabs,bengali,bengali_31.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 8 সেট করুন।,کے ஷ😂 کو کہر AC دouxphantThapmattra 88% setups.,1.0,0.9091,0.0,9.09,base,2026-03-05T11:00:17.303273+00:00
+elevenlabs,bengali,bengali_32.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 বন্ধ করুন।,שהو نکو قرس any the display mode�كapon,1.0,0.925,0.0,7.5,base,2026-03-05T11:00:29.821734+00:00
+elevenlabs,bengali,bengali_33.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 বন্ধ করুন।,دائنگلومے اسی چالوکورون,1.0,0.95,0.0,5.0,base,2026-03-05T11:00:31.508050+00:00
+elevenlabs,bengali,bengali_34.mp3,লিভিং রুম এয়ার পিউরিফায়ার 1 এ ফ্যানের গতি 2 সেট করুন।,Office AC-2 Charu Goroon.,1.0,0.9455,0.0,5.45,base,2026-03-05T11:00:32.748992+00:00
+elevenlabs,bengali,bengali_35.mp3,আমার শয়নকক্ষে কী কী ডিভাইস আছে?,شاین کو کھر ایسی تی دریموٹ سیٹ کرون,1.0,0.9688,0.0,3.12,base,2026-03-05T11:00:34.274574+00:00
+elevenlabs,bengali,bengali_36.mp3,শয়নকক্ষে AC চালু করুন।,شاین کو کھر اسی تے سیپ مٹ چالوگوں,1.0,1.0,0.0,0.0,base,2026-03-05T11:00:35.740995+00:00
+elevenlabs,bengali,bengali_37.mp3,শয়নকক্ষের AC তে তাপমাত্রা 18 ডিগ্রি সেট করুন।,شایون کو کھر ایسی تھی ویٹکل سویگ پوڑشن پیوے سیٹ کرون.,1.0,1.0,0.0,0.0,base,2026-03-05T11:00:37.759054+00:00
+elevenlabs,bengali,bengali_38.mp3,শয়নকক্ষের AC তে ডিসপ্লে মোড চালু করুন।,terrorist aluminium ivak,1.0,0.9231,0.0,7.69,base,2026-03-05T11:00:46.474745+00:00
+elevenlabs,bengali,bengali_39.mp3,ডাইনিং রুমে AC চালু করুন।,Leaving Room AC 2 Chalukurun Ebum Air Horizontal Swing Position 2A Set Kourun,1.0,1.0,0.0,0.0,base,2026-03-05T11:00:48.568952+00:00
+elevenlabs,bengali,bengali_4.mp3,অফিস AC 2 চালু করুন।,"Shoyeon Gokhu, Air Purifier 1, A 60 Minutes Switch of Timer, Set Kuruun.",1.0,1.0,0.0,0.0,base,2026-03-05T11:00:50.210188+00:00
+elevenlabs,bengali,bengali_40.mp3,শয়নকক্ষের AC তে ড্রাই মোড সেট করুন।,Living Room AC2A Charbo Mode Chalukurun,1.0,0.9444,0.0,5.56,base,2026-03-05T11:00:51.528651+00:00
+elevenlabs,bengali,bengali_41.mp3,শয়নকক্ষের AC তে স্লিপ মোড চালু করুন।,ھاین کو کھر ایسی تی چائلڈ لوگ چالکہ رون,1.0,0.9459,0.0,5.41,base,2026-03-05T11:00:53.259837+00:00
+elevenlabs,bengali,bengali_42.mp3,শয়নকক্ষের AC তে ভার্টিক্যাল সুইং পজিশন 5 এ সেট করুন।,Office AC 2A fanart Gothi High S ahead,0.9,0.8491,10.0,15.09,base,2026-03-05T11:01:01.130050+00:00
+elevenlabs,bengali,bengali_43.mp3,শয়নকক্ষের AC তে স্কাই হাই কালার চালু করুন।,شاون کو کھر ایسی تے ہوڑیزونٹل سوینگ اٹو سیٹ کرون,1.0,1.0,0.0,0.0,base,2026-03-05T11:01:02.962161+00:00
+elevenlabs,bengali,bengali_44.mp3,লিভিং রুম AC 2 চালু করুন এবং এর হরিজন্টাল সুইং পজিশন 2 এ সেট করুন।,Living Room AC2A tapmatra 30°C.,1.0,0.9242,0.0,7.58,base,2026-03-05T11:01:04.245284+00:00
+elevenlabs,bengali,bengali_45.mp3,লিভিং রুম AC 2 এ টার্বো মোড চালু করুন।,"جوگروم AC-1 چالوکورون, ایباں ایٹسویچ اف ٹیمر بیش مینیٹے سیٹکورون.",1.0,1.0,0.0,0.0,base,2026-03-05T11:01:06.300114+00:00
+elevenlabs,bengali,bengali_46.mp3,শয়নকক্ষের AC তে চাইল্ড লক চালু করুন।,"ĆOGO讓 keptA<|bn|>剛剛開始, stomradooom AC1A Yunmicon mode茶麽",1.0,1.0,0.0,0.0,base,2026-03-05T11:01:23.491965+00:00
+elevenlabs,bengali,bengali_47.mp3,অফিস AC 2 এ ফ্যানের গতি হাই সেট করুন।,شایون کو کھر ایسی تی چائلٹ لگ موت بندھکورون,1.0,1.0,0.0,0.0,base,2026-03-05T11:01:25.273184+00:00
+elevenlabs,bengali,bengali_48.mp3,শয়নকক্ষের AC তে হরিজন্টাল সুইং অটো সেট করুন।,شاین کو کھر ایسی تی ایکوں مور چالکہ گڑون,1.0,0.9111,0.0,8.89,base,2026-03-05T11:01:29.520389+00:00
+elevenlabs,bengali,bengali_49.mp3,লিভিং রুম AC 2 এ তাপমাত্রা 30 ডিগ্রি সেট করুন।,شاعل کو کھر ایسیتے لائد انٹنسٹی لو سیٹ کرون,1.0,0.8913,0.0,10.87,base,2026-03-05T11:01:34.074162+00:00
+elevenlabs,bengali,bengali_5.mp3,যোগা রুম AC 1 চালু করুন এবং এর সুইচ অফ টাইমার 20 মিনিটে সেট করুন।,"Shayun koku, Air Purifier 1, Ring LED Ujjalata, Cholli Set Kurdun.",1.0,0.9077,0.0,9.23,base,2026-03-05T11:01:35.763212+00:00
+elevenlabs,bengali,bengali_50.mp3,যোগা রুম AC 1 এ হিউমিকন মোড চালু করুন।,Shionử vorprim чисliche,1.0,0.9474,0.0,5.26,base,2026-03-05T11:01:43.641872+00:00
+elevenlabs,bengali,bengali_51.mp3,শয়নকক্ষের AC তে চাইল্ড লক মোড বন্ধ করুন।,"Shoyeon Co. Khe AC2A, Vertical Swing Position 4A, Ebon horizontal swing position 3A, Set Korn.",1.0,1.0,0.0,0.0,base,2026-03-05T11:01:45.780915+00:00
+elevenlabs,bengali,bengali_52.mp3,শয়নকক্ষের AC তে ইকো মোড চালু করুন।,Şoнуть Nguhr Her AC 2A ecomot Charleafar.,1.0,1.0,0.0,0.0,base,2026-03-05T11:01:54.607153+00:00
+elevenlabs,bengali,bengali_53.mp3,শয়নকক্ষের AC তে লাইট ইনটেনসিটি লো সেট করুন।,Shoyan Kokho AC2A Phanir Goti Medium Set Kourun,1.0,0.9545,0.0,4.55,base,2026-03-05T11:01:56.178419+00:00
+elevenlabs,bengali,bengali_54.mp3,শয়নকক্ষ AC 2 চালু করুন।,Dining Room AC-1 Charleau Kouron Ebum Air Moon Light Future Forward Set Kouron,1.0,1.0,0.0,0.0,base,2026-03-05T11:01:57.780380+00:00
+elevenlabs,bengali,bengali_55.mp3,শয়নকক্ষ AC 2 এ ভার্টিক্যাল সুইং পজিশন 4 এ এবং হরিজন্টাল সুইং পজিশন 3 এ সেট করুন।,Dining Room AC1A TAPMA TRA PONCHAS DIGRI SET CORUN,1.0,0.9012,0.0,9.88,base,2026-03-05T11:01:59.369189+00:00
+elevenlabs,bengali,bengali_56.mp3,শয়নকক্ষ AC 2 এ ইকো মোড চালু করুন।,Dining Room AC1A Variable Capacity C1 Set Coroon,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:00.730094+00:00
+elevenlabs,bengali,bengali_57.mp3,শয়নকক্ষ AC 2 এ ফ্যানের গতি মিডিয়াম সেট করুন।,"Dining Room AC1A, Sleep Mode Chalukorun",1.0,0.9348,0.0,6.52,base,2026-03-05T11:02:02.208340+00:00
+elevenlabs,bengali,bengali_58.mp3,ডাইনিং রুম AC 1 চালু করুন এবং এর মুনলাইট ফিউচার ফরওয়ার্ড সেট করুন।,STADDITH AC CHALLU KODE SILENT MODE SET CURRUN,0.9231,0.8657,7.69,13.43,base,2026-03-05T11:02:05.240875+00:00
+elevenlabs,bengali,bengali_59.mp3,ডাইনিং রুম AC 1 এ তাপমাত্রা 50 ডিগ্রি সেট করুন।,Studio ACA 100 Minutes Switch of Timerset Coroon Ebon Mounlite Balance Set Coroon,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:07.087363+00:00
+elevenlabs,bengali,bengali_6.mp3,ডাইনিং রুম AC 1 এ ভ্যারিয়েবল ক্যাপাসিটি C1 সেট করুন।,Shayan Kokho Air Purifier 1A Tarbo Mode Chalukurun Ebon Baja Neon Trun Bonthu Kuru,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:08.820954+00:00
+elevenlabs,bengali,bengali_60.mp3,ডাইনিং রুম AC 1 এ স্লিপ মোড চালু করুন।,standing next to me stuck in my clinic.,1.0,0.9211,0.0,7.89,base,2026-03-05T11:02:16.804174+00:00
+elevenlabs,bengali,bengali_61.mp3,স্টাডিতে AC চালু করে সাইলেন্ট মোডে সেট করুন।,Rannakhore Water Heater Chalukurun,1.0,0.9318,0.0,6.82,base,2026-03-05T11:02:18.353986+00:00
+elevenlabs,bengali,bengali_62.mp3,স্টাডির AC এ 100 মিনিটের সুইচ অফ টাইমার সেট করুন এবং মুনলাইট ব্যালেন্স সেট করুন।,کیجن ایسی تری چالوکوڈے فان موڈے سیٹ کورون,1.0,0.9125,0.0,8.75,base,2026-03-05T11:02:20.261609+00:00
+elevenlabs,bengali,bengali_63.mp3,স্টাডি AC 1 বন্ধ করুন।,Kichan AC3A Display More Chalukorun,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:21.648790+00:00
+elevenlabs,bengali,bengali_64.mp3,রান্নাঘরে ওয়াটার হিটার চালু করুন।,"Kids Room AC1 Çalukodhe, Humicon Mode Çalukodhe",1.0,1.0,0.0,0.0,base,2026-03-05T11:02:23.047445+00:00
+elevenlabs,bengali,bengali_65.mp3,কিচেন AC 3 চালু করে ফ্যান মোডে সেট করুন।,Kids Room AC1A Fan Speed Autosit Kodun,1.0,0.85,0.0,15.0,base,2026-03-05T11:02:24.564686+00:00
+elevenlabs,bengali,bengali_66.mp3,কিচেন AC 3 এ ডিসপ্লে মোড চালু করুন।,Office AC-1 Charlu Kore Variable Capacity C5 SET KORUN,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:26.226165+00:00
+elevenlabs,bengali,bengali_67.mp3,কিডস রুম AC 1 চালু করে হিউমিকন মোড চালু করুন।,Amar Office AC1A hasher Minited Switch of Timers Set Corrun.,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:27.699303+00:00
+elevenlabs,bengali,bengali_68.mp3,কিডস রুম AC 1 এ ফ্যান স্পিড অটো সেট করুন।,Office AC1A Silent Mochalukuruun,1.0,0.8537,0.0,14.63,base,2026-03-05T11:02:29.148261+00:00
+elevenlabs,bengali,bengali_69.mp3,অফিস AC 1 চালু করে ভ্যারিয়েবল ক্যাপাসিটি C5 সেট করুন।,Livingroomeki Shobe tha Filmer,1.0,0.9444,0.0,5.56,base,2026-03-05T11:02:36.703323+00:00
+elevenlabs,bengali,bengali_7.mp3,আমার অফিস AC 1 এ 1000 মিনিটের সুইচ অফ টাইমার সেট করুন।,Shoyeon کو Co-Air Purifier 1A 7thara 2mm Switch of Timer Set Quarantine.,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:38.327369+00:00
+elevenlabs,bengali,bengali_70.mp3,অফিস AC 1 এ সাইলেন্ট মোড চালু করুন।,Dyning Roome AC Charleau Kuruun.,1.0,0.9714,0.0,2.86,base,2026-03-05T11:02:39.635087+00:00
+elevenlabs,bengali,bengali_71.mp3,লিভিং রুমের সব AC চালু করুন।,دائنگ رومے اسی چالو کرون,1.0,0.8571,0.0,14.29,base,2026-03-05T11:02:41.254427+00:00
+elevenlabs,bengali,bengali_72.mp3,ডাইনিং রুমে AC চালু করুন।,Dining Room AC1A Child Luck Mode Chalukurun,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:42.620919+00:00
+elevenlabs,bengali,bengali_73.mp3,ডাইনিং রুমে AC চালু করুন।,Dining Room AC1A Munlai Dream On Set Coroon,1.0,1.0,0.0,0.0,base,2026-03-05T11:02:43.967477+00:00
+elevenlabs,bengali,bengali_74.mp3,ডাইনিং রুম AC 1 এ চাইল্ড লক মোড চালু করুন।,rinectúa ca lucora 8°C,1.0,0.9048,0.0,9.52,base,2026-03-05T11:02:52.696677+00:00
+elevenlabs,bengali,bengali_75.mp3,ডাইনিং রুম AC 1 এ মুনলাইট ড্রিম অন সেট করুন।,ki chan a-c2a tarbomot chalu korun,1.0,0.8864,0.0,11.36,base,2026-03-05T11:02:54.357187+00:00
+elevenlabs,bengali,bengali_76.mp3,কিচেন AC 2 চালু করে 18 ডিগ্রি সেট করুন।,Kichin AC2A Eco Mode Chalukorun,1.0,0.8718,0.0,12.82,base,2026-03-05T11:02:55.709211+00:00
+elevenlabs,bengali,bengali_77.mp3,কিচেন AC 2 এ টার্বো মোড চালু করুন।,amarki gen ac2id obu sta ki.,1.0,0.8529,0.0,14.71,base,2026-03-05T11:02:57.157148+00:00
+elevenlabs,bengali,bengali_78.mp3,কিচেন AC 2 এ ইকো মোড চালু করুন।,Kijin AC2A silent mode set kodun,1.0,0.8387,0.0,16.13,base,2026-03-05T11:02:58.453672+00:00
+elevenlabs,bengali,bengali_79.mp3,আমার কিচেন AC 2 এর অবস্থা কী?,Office AC3 Charlu Kore medium light intensity setkorun ebom moonlight down to dusk setkorun,1.0,1.0,0.0,0.0,base,2026-03-05T11:03:00.290245+00:00
+elevenlabs,bengali,bengali_8.mp3,কিচেন AC 2 এ সাইলেন্ট মোড সেট করুন।,Dining Roome Air Purifier Chalukuru.,1.0,0.9714,0.0,2.86,base,2026-03-05T11:03:01.628999+00:00
+elevenlabs,bengali,bengali_80.mp3,অফিস AC 3 চালু করে মিডিয়াম লাইট ইন্টেনসিটি সেট করুন এবং মুনলাইট ডাউন টু ডাস্ক সেট করুন।,gider arrival office AC-3a BahraministerswiSt ona staff commencer to set differences,1.0,0.9205,0.0,7.95,base,2026-03-05T11:03:11.605254+00:00
+elevenlabs,bengali,bengali_81.mp3,অফিস AC 3 এ 12 মিনিটের সুইচ অফ টাইমার সেট করুন এবং ডিসপ্লে মোড বন্ধ করুন।,Jogarome fan çalukurun,1.0,0.9589,0.0,4.11,base,2026-03-05T11:03:12.925124+00:00
+elevenlabs,bengali,bengali_82.mp3,যোগা রুমে ফ্যান চালু করুন।,Kichin AC-1A TARBO MODE CHALUKORUN,1.0,1.0,0.0,0.0,base,2026-03-05T11:03:14.390247+00:00
+elevenlabs,bengali,bengali_83.mp3,কিচেন AC 1 এ টার্বো মোড চালু করুন।,Kichin AC1 Chalukurhe fan mode set Kuruun,1.0,1.0,0.0,0.0,base,2026-03-05T11:03:15.783947+00:00
+elevenlabs,bengali,bengali_84.mp3,কিচেন AC 1 চালু করে ফ্যান মোডে সেট করুন।,کیجن AC1'e Sleep Mode Chalukorun,1.0,0.85,0.0,15.0,base,2026-03-05T11:03:17.102930+00:00
+elevenlabs,bengali,bengali_85.mp3,কিচেন AC 1 এ স্লিপ মোড চালু করুন।,kichin ac1e child log mode chalukurun,1.0,0.9394,0.0,6.06,base,2026-03-05T11:03:18.812112+00:00
+elevenlabs,bengali,bengali_86.mp3,কিচেন AC 1 এ চাইল্ড লক মোড চালু করুন।,Kichin AC1A 2 hodar-mini-tid switch of timer set kuruun.,1.0,1.0,0.0,0.0,base,2026-03-05T11:03:20.576406+00:00
+elevenlabs,bengali,bengali_87.mp3,কিচেন AC 1 এ 200 মিনিটের সুইচ অফ টাইমার সেট করুন।,جوگروم AC2 چالو کڑے ویٹکل سوینگ AP3ے سیٹ کڑون.,1.0,0.8571,0.0,14.29,base,2026-03-05T11:03:22.350038+00:00
+elevenlabs,bengali,bengali_88.mp3,যোগা রুম AC 2 চালু করে ভার্টিক্যাল সুইং আপ 3 এ সেট করুন।,"جوگروم AC2A, HUMI can mode چالو کڑون",1.0,0.8393,0.0,16.07,base,2026-03-05T11:03:27.126106+00:00
+elevenlabs,bengali,bengali_89.mp3,যোগা রুম AC 2 এ হিউমিকন মোড চালু করুন।,امریکہ چھے کون کون دیفائی سا چھے,1.0,0.8947,0.0,10.53,base,2026-03-05T11:03:28.604652+00:00
+elevenlabs,bengali,bengali_9.mp3,আমার কাছে কোন কোন ডিভাইস আছে?,Ama shoin ko ko Nursing Armsikkeles Mak Ke Augusta,1.0,1.0,0.0,0.0,base,2026-03-05T11:03:37.384461+00:00
+elevenlabs,bengali,bengali_90.mp3,বেডরুম AC 3 চালু করে ভ্যারিয়েবল ক্যাপাসিটি C3 এ সেট করুন।,BEDROM AC-3-4-LUCO-RES VARIABL CAPACITY-C-3-A-SITCO-RUN,1.0,0.8966,0.0,10.34,base,2026-03-05T11:03:39.217155+00:00
+elevenlabs,bengali,bengali_91.mp3,বেডরুম AC 3 এ টার্বো মোড চালু করুন।,BEDRUM AC3A TARBOMOR CHALUKORUN,1.0,0.8286,0.0,17.14,base,2026-03-05T11:03:40.774183+00:00
+elevenlabs,bengali,bengali_92.mp3,বেডরুম AC 3 এ অটো মোড চালু করুন।,BEDROOM AC3A Automotive Chalukurun,1.0,0.9062,0.0,9.38,base,2026-03-05T11:03:42.189470+00:00
+elevenlabs,bengali,bengali_93.mp3,বেডরুম AC 3 এ তাপমাত্রা 23 ডিগ্রি সেট করুন।,BETRUM AC3A تاپمترا تیش دیگری سیٹ کرون.,1.0,0.814,0.0,18.6,base,2026-03-05T11:03:45.321369+00:00
+elevenlabs,bengali,bengali_94.mp3,ডাইনিং রুম AC 1 চালু করে হিউমিকন মোড চালু করুন।,Dining Room AC1 Chalukur & Humayken Mode Chalukur,1.0,0.8936,0.0,10.64,base,2026-03-05T11:03:46.942633+00:00
+elevenlabs,bengali,bengali_95.mp3,ডাইনিং রুম AC 1 এ ভ্যারিয়েবল ক্যাপাসিটি C5 এ সেট করুন।,Dining Room AC1A Variable Capacity C5A S8 Coroon,1.0,0.8182,0.0,18.18,base,2026-03-05T11:03:48.477865+00:00
+elevenlabs,bengali,bengali_96.mp3,ডাইনিং রুম AC 1 এ টার্বো মোড চালু করে লাইট ইনটেনসিটি হাই এ সেট করুন।,"Dining Room AC1A, TARBO mode chaalukure Light Intensity High A Set Kuruun.",1.0,0.9118,0.0,8.82,base,2026-03-05T11:03:50.080679+00:00
+elevenlabs,bengali,bengali_97.mp3,কিচেন AC 2 চালু করুন।,Kitchen AC tooth seguirке....,0.8,1.0,20.0,0.0,base,2026-03-05T11:03:57.997096+00:00
+elevenlabs,bengali,bengali_98.mp3,কিচেন AC 2 এ মুনলাইট আনওয়াইন্ড সেট করে ফ্যান মোড চালু করুন।,Ki jean AC2A Moonlight Onwind Set Kure Fan Mode Chalukurun,1.0,0.9,0.0,10.0,base,2026-03-05T11:03:59.507700+00:00
+elevenlabs,bengali,bengali_99.mp3,স্টাডিতে এয়ার পিউরিফায়ার চালু করুন।,"irtithe air purifier,chalu kurun.",1.0,0.9459,0.0,5.41,base,2026-03-05T11:04:07.248300+00:00
+sarvam,gujarati,gujarati_0.wav,શયનખંડ એર પ્યુરિફાયર 1 ચાલુ કરો।,Shinecon Air Purifier 1-Challocaru,1.0,1.0,0.0,0.0,base,2026-03-05T11:04:13.683506+00:00
+sarvam,gujarati,gujarati_1.wav,શયનખંડ એર પ્યુરિફાયર 1 માં બજ્ઝર નિયંત્રણ ચાલુ કરો।,Shankhan Air Purifier 1 Mah Badjah Neentran Chalukarho,0.8889,0.9412,11.11,5.88,base,2026-03-05T11:04:15.213543+00:00
+sarvam,gujarati,gujarati_10.wav,શયનખંડ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 4 સેટ કરો।,Dining Room Air Purifier 1-Challu Karo,1.0,0.9111,0.0,8.89,base,2026-03-05T11:04:16.578669+00:00
+sarvam,gujarati,gujarati_11.wav,શયનખંડ એર પ્યુરિફાયર 1 માં નાઈટ મોડ સેટ કરો।,Dining Room Air Purifier 1 Mering LED Brightness 70 Settkaru.,1.0,1.0,0.0,0.0,base,2026-03-05T11:04:18.019768+00:00
+sarvam,gujarati,gujarati_12.wav,શયનખંડ એર પ્યુરિફાયર 1 માં 60 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Dining Room Air Purifier 1 Mahitra Power Channu Karo,1.0,0.9016,0.0,9.84,base,2026-03-05T11:04:19.818619+00:00
+sarvam,gujarati,gujarati_13.wav,શયનખંડ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 40 સેટ કરો।,Dining Room Air Purifier 1Mah Night Mode Set Karo,1.0,0.8983,0.0,10.17,base,2026-03-05T11:04:21.367711+00:00
+sarvam,gujarati,gujarati_14.wav,શયનખંડ એર પ્યુરિફાયર 1 માં ટર્બો મોડ ચાલુ કરો અને બજ્ઝર નિયંત્રણ બંધ કરો।,Dining Room Air Purifier 1ma 180 Minutes Switch Off Timer Set,1.0,0.9041,0.0,9.59,base,2026-03-05T11:04:22.848710+00:00
+sarvam,gujarati,gujarati_15.wav,શયનખંડ એર પ્યુરિફાયર 1 માં 720 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Dining room & purifier 1ma badzer ni antranchanukaru,1.0,0.9194,0.0,8.06,base,2026-03-05T11:04:25.691023+00:00
+sarvam,gujarati,gujarati_16.wav,ડાઈનિંગ રૂમમાં એર પ્યુરિફાયર ચાલુ કરો।,Dining Room Air Purifier 1ma Fainz Adup 3-Said Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:04:27.560404+00:00
+sarvam,gujarati,gujarati_17.wav,મારા શયનખંડ એર પ્યુરિફાયર 1 ની સ્થિતિ શું છે?,Dining Room Air Purifier 1 Chalu Karo,0.8889,0.8889,11.11,11.11,base,2026-03-05T11:04:28.908189+00:00
+sarvam,gujarati,gujarati_18.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,Dining Room Air Purifier 1ma Ring LED Brightness 200 Set Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:04:30.410139+00:00
+sarvam,gujarati,gujarati_19.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 70 સેટ કરો।,Dining Room Air Purifier 180-minutes Switch of Timers Set-Caro.,1.0,0.9375,0.0,6.25,base,2026-03-05T11:04:32.052030+00:00
+sarvam,gujarati,gujarati_2.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં હીટર પાવર ચાલુ કરો।,Shyam Khan Air Purifier Van Mahafame Je'd up 4.JD啸 9R,1.0,0.9608,0.0,3.92,base,2026-03-05T11:04:40.845883+00:00
+sarvam,gujarati,gujarati_20.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં નાઈટ મોડ સેટ કરો।,"Living Room Air Purifier 1, Chalu Kharo",1.0,0.898,0.0,10.2,base,2026-03-05T11:04:42.569776+00:00
+sarvam,gujarati,gujarati_21.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં 180 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Living room air purifier 1 ms 60 min switch of timer sate karo.,0.9231,0.8657,7.69,13.43,base,2026-03-05T11:04:44.078240+00:00
+sarvam,gujarati,gujarati_22.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં બજ્ઝર નિયંત્રણ ચાલુ કરો।,Living Room Air Purifier 1.1 Night Mode Channu Karo,1.0,0.8929,0.0,10.71,base,2026-03-05T11:04:48.235713+00:00
+sarvam,gujarati,gujarati_23.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 3 સેટ કરો।,Living room air purifier 1x fan power,1.0,0.9,0.0,10.0,base,2026-03-05T11:04:49.610180+00:00
+sarvam,gujarati,gujarati_24.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,Living Room Air Purifier 1Mafin Power Chaalu Curry fans Z holiday Up 4,1.0,1.0,0.0,0.0,base,2026-03-05T11:04:58.498767+00:00
+sarvam,gujarati,gujarati_25.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 200 સેટ કરો।,Living room air purifier 1mph in jet up 8.8.,1.0,0.8769,0.0,12.31,base,2026-03-05T11:05:00.007548+00:00
+sarvam,gujarati,gujarati_26.wav,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 100 માં 180 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Living Room Air Tourifier 1 Bandkaru,1.0,0.9275,0.0,7.25,base,2026-03-05T11:05:02.575822+00:00
+sarvam,gujarati,gujarati_27.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,Living Room Air Purifier 1 Band Karo,0.8571,0.8611,14.29,13.89,base,2026-03-05T11:05:03.814852+00:00
+sarvam,gujarati,gujarati_28.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં 60 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Living Room Air Purifier 1Mah fans add up to set karo.,1.0,0.8769,0.0,12.31,base,2026-03-05T11:05:05.268288+00:00
+sarvam,gujarati,gujarati_29.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં નાઈટ મોડ ચાલુ કરો।,Marcel Kenmakaya Abkaranoche,1.0,0.9592,0.0,4.08,base,2026-03-05T11:05:13.422941+00:00
+sarvam,gujarati,gujarati_3.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 ની ફેન પાવર બંધ કરો।,Shankhan Air Purifier 1mah Night Mode S8,1.0,0.8936,0.0,10.64,base,2026-03-05T11:05:16.547779+00:00
+sarvam,gujarati,gujarati_30.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન પાવર ચાલુ કરી ફેન ઝડપ 4 સેટ કરો।,Shancun Maisi Chalu Karo,1.0,0.9552,0.0,4.48,base,2026-03-05T11:05:17.855828+00:00
+sarvam,gujarati,gujarati_31.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 8 સેટ કરો।,Shain Khanna AC Mark Tapman 18 Degreesate Karo,1.0,0.9184,0.0,8.16,base,2026-03-05T11:05:19.565068+00:00
+sarvam,gujarati,gujarati_32.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 બંધ કરો।,Shen Khanna AC Mart Display Mode Chalu Kharo,1.0,1.0,0.0,0.0,base,2026-03-05T11:05:22.981176+00:00
+sarvam,gujarati,gujarati_33.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 બંધ કરો।,Dining Room Maisi Chalu Karu,1.0,0.8857,0.0,11.43,base,2026-03-05T11:05:25.384620+00:00
+sarvam,gujarati,gujarati_34.wav,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 2 સેટ કરો।,Office AC-2 Charlukaru,1.0,0.9592,0.0,4.08,base,2026-03-05T11:05:26.896561+00:00
+sarvam,gujarati,gujarati_35.wav,મારા શયનખંડમાં કયા ઉપકરણો છે?,shiny kanna aiseuma drym,1.0,0.9655,0.0,3.45,base,2026-03-05T11:05:35.214288+00:00
+sarvam,gujarati,gujarati_36.wav,શયનખંડમાં AC ચાલુ કરો।,Shane Khanna AC Ma Sleep Mode Channu Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:05:39.238431+00:00
+sarvam,gujarati,gujarati_37.wav,શયનખંડના AC માં તાપમાન 18 ડિગ્રી સેટ કરો।,Shankanna Aseema Vatikal Swings Siti 5 Pursaid Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:05:40.806388+00:00
+sarvam,gujarati,gujarati_38.wav,શયનખંડના AC માં ડિસ્પ્લે મોડ ચાલુ કરો।,Shankanna Aseema skae Hai Kanar Chanugro,1.0,0.9474,0.0,5.26,base,2026-03-05T11:05:42.409452+00:00
+sarvam,gujarati,gujarati_39.wav,ડાઈનિંગ રૂમમાં AC ચાલુ કરો।,Living room EC2 ya allwy Hare Rawendi Nworker Roadsنتal Swings十Thiti topper Sold Fighting!,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:00.530656+00:00
+sarvam,gujarati,gujarati_4.wav,ઓફિસ AC 2 ચાલુ કરો।,Shain Khan Air Purifier 1ma 60 Min. Switch of Timerset.,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:02.117898+00:00
+sarvam,gujarati,gujarati_40.wav,શયનખંડના AC માં ડ્રાય મોડ સેટ કરો।,Living room AC2MAT Turbo Mode Channu Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:03.435214+00:00
+sarvam,gujarati,gujarati_41.wav,શયનખંડના AC માં સ્લીપ મોડ ચાલુ કરો।,"sémpthanga akiba wakka lock sa'irl,",1.0,0.9429,0.0,5.71,base,2026-03-05T11:06:15.840072+00:00
+sarvam,gujarati,gujarati_42.wav,શયનખંડના AC માં વર્ટિકલ સ્વિંગ સ્થિતિ 5 પર સેટ કરો।,Officer isit Duma Fайн Z shef at af high rate.,1.0,0.902,0.0,9.8,base,2026-03-05T11:06:24.327187+00:00
+sarvam,gujarati,gujarati_43.wav,શયનખંડના AC માં સ્કાય હાઈ કલર ચાલુ કરો।,Shancanna Aseema Horizontal Swing Auto Purset,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:25.793303+00:00
+sarvam,gujarati,gujarati_44.wav,લિવિંગ રૂમ AC 2 ચાલુ કરીને તેનું હોરિઝોન્ટલ સ્વિંગ સ્થિતિ 2 પર સેટ કરો।,Living room AC 2M 30°C,0.9286,0.9155,7.14,8.45,base,2026-03-05T11:06:27.081629+00:00
+sarvam,gujarati,gujarati_45.wav,લિવિંગ રૂમ AC 2 માં ટર્બો મોડ ચાલુ કરો।,yo grun msc 1 chalu karinet heno switch of time at 20 minute per set karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:28.756503+00:00
+sarvam,gujarati,gujarati_46.wav,શયનખંડના AC માં ચાઇલ્ડ લોક ચાલુ કરો।,Yo Grum AC 1ma Yumi Kahn Mord Chalukaro,1.0,0.9167,0.0,8.33,base,2026-03-05T11:06:30.302925+00:00
+sarvam,gujarati,gujarati_47.wav,ઓફિસ AC 2 માં ફેન ઝડપ હાઈ સેટ કરો।,"Walking, right turn ahead.",1.0,0.9118,0.0,8.82,base,2026-03-05T11:06:42.427289+00:00
+sarvam,gujarati,gujarati_48.wav,શયનખંડના AC માં હોરિઝોન્ટલ સ્વિંગ ઓટો પર સેટ કરો।,Shancanna Esima Iko Mord Chanukaro,1.0,0.9184,0.0,8.16,base,2026-03-05T11:06:44.014282+00:00
+sarvam,gujarati,gujarati_49.wav,લિવિંગ રૂમ AC 2 માં તાપમાન 30 ડિગ્રી સેટ કરો।,Shankanna e Sima Light Intensity Loan Set-Caro,1.0,0.9556,0.0,4.44,base,2026-03-05T11:06:45.412358+00:00
+sarvam,gujarati,gujarati_5.wav,યોગ રૂમ AC 1 ચાલુ કરીને તેનો સ્વિચ ઓફ ટાઈમર 20 મિનિટ પર સેટ કરો।,Shen Khandair Purifier 1 Maring LED Brightness 40 Set Karo,0.9333,0.8906,6.67,10.94,base,2026-03-05T11:06:46.912876+00:00
+sarvam,gujarati,gujarati_50.wav,યોગ રૂમ AC 1 માં હ્યુમિકોન મોડ ચાલુ કરો।,Shankan Desi Too Chanu Karo,1.0,0.875,0.0,12.5,base,2026-03-05T11:06:48.276458+00:00
+sarvam,gujarati,gujarati_51.wav,શયનખંડના AC માં ચાઇલ્ડ લોક મોડ બંધ કરો।,Shancan AC-2ma vertical swing sthiti 4 and a horizontal swing sthiti 3 per set karo.,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:50.135559+00:00
+sarvam,gujarati,gujarati_52.wav,શયનખંડના AC માં ઇકો મોડ ચાલુ કરો।,Shankhand asitoma ikomor chanukaro,1.0,0.9394,0.0,6.06,base,2026-03-05T11:06:51.555785+00:00
+sarvam,gujarati,gujarati_53.wav,શયનખંડના AC માં લાઈટ ઇન્ટેન્સિટી લો સેટ કરો।,Shenkhan AC-2MA FAMES ADUPMEDIUM SETCARO,1.0,0.8864,0.0,11.36,base,2026-03-05T11:06:54.430481+00:00
+elevenlabs,gujarati,gujarati_0.mp3,શયનખંડ એર પ્યુરિફાયર 1 ચાલુ કરો।,Shaina Khand Air Purifier EG Charlukaru,1.0,1.0,0.0,0.0,base,2026-03-05T11:06:56.193318+00:00
+elevenlabs,gujarati,gujarati_1.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં બજ્ઝર નિયંત્રણ ચાલુ કરો।,"Shaina Khan Air Purifier, Ekma, Bajar Neyantran Chalukaru.",1.0,1.0,0.0,0.0,base,2026-03-05T11:06:57.733485+00:00
+elevenlabs,gujarati,gujarati_10.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 4 સેટ કરો।,Dining Room Air Purifier 1-Challu Karo,1.0,0.9111,0.0,8.89,base,2026-03-05T11:06:59.052892+00:00
+elevenlabs,gujarati,gujarati_11.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં નાઈટ મોડ સેટ કરો।,Dyning Room 8 Pure Fire 1ma Ring LID Brightness 70 Set Karo,1.0,1.0,0.0,0.0,base,2026-03-05T11:07:00.816304+00:00
+elevenlabs,gujarati,gujarati_12.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં 60 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Dining Room Air Pure Fire 1ma heater power ça lookarú.,1.0,0.9016,0.0,9.84,base,2026-03-05T11:07:02.246158+00:00
+elevenlabs,gujarati,gujarati_13.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 40 સેટ કરો।,Dining Room Air Purifier IKMA Night Mode Set-Caro.,1.0,0.9153,0.0,8.47,base,2026-03-05T11:07:03.576395+00:00
+elevenlabs,gujarati,gujarati_14.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં ટર્બો મોડ ચાલુ કરો અને બજ્ઝર નિયંત્રણ બંધ કરો।,Dining Room Air Pure Fire 1maa 180-minute No Switch Off Timer Set Karo,1.0,0.9041,0.0,9.59,base,2026-03-05T11:07:05.272977+00:00
+elevenlabs,gujarati,gujarati_15.mp3,શયનખંડ એર પ્યુરિફાયર 1 માં 720 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Dining Room & Purifier 1ma BUDZAR NEONTRAN CHALUKARO,1.0,0.9194,0.0,8.06,base,2026-03-05T11:07:06.942511+00:00
+elevenlabs,gujarati,gujarati_16.mp3,ડાઈનિંગ રૂમમાં એર પ્યુરિફાયર ચાલુ કરો।,"返ulinum ۔ دائنing room cases numerous , 0-2...'альa Ma tri ba ba ba ba",1.0,1.0,0.0,0.0,base,2026-03-05T11:07:16.373148+00:00
+elevenlabs,gujarati,gujarati_17.mp3,મારા શયનખંડ એર પ્યુરિફાયર 1 ની સ્થિતિ શું છે?,Dyning Room & Pure Fire 1 Ça Luka Ro,1.0,0.8444,0.0,15.56,base,2026-03-05T11:07:20.496759+00:00
+elevenlabs,gujarati,gujarati_18.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,"Dining Room 8 Pure Fire 1 Ma, Ring LID Brightness 20000, Set Kharo.",1.0,1.0,0.0,0.0,base,2026-03-05T11:07:22.100898+00:00
+elevenlabs,gujarati,gujarati_19.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 70 સેટ કરો।,"Dining Room & Purifier Sao Ma, XO AC Minute No, Switch Off Timer Set Karo",1.0,1.0,0.0,0.0,base,2026-03-05T11:07:23.767819+00:00
+elevenlabs,gujarati,gujarati_2.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં હીટર પાવર ચાલુ કરો।,2000 air purifier,1.0,0.9608,0.0,3.92,base,2026-03-05T11:07:32.172723+00:00
+elevenlabs,gujarati,gujarati_20.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં નાઈટ મોડ સેટ કરો।,"Living room air purifier 1,000 lukarho",1.0,0.9184,0.0,8.16,base,2026-03-05T11:07:33.610157+00:00
+elevenlabs,gujarati,gujarati_21.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં 180 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,"Living room at Purifier 1ma, Saat Minute No Switch of Timer Set Karo.",1.0,0.9104,0.0,8.96,base,2026-03-05T11:07:35.367136+00:00
+elevenlabs,gujarati,gujarati_22.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં બજ્ઝર નિયંત્રણ ચાલુ કરો।,"Living room air purifier 1ma, Night mode Charlukaru",1.0,0.9107,0.0,8.93,base,2026-03-05T11:07:36.778008+00:00
+elevenlabs,gujarati,gujarati_23.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 3 સેટ કરો।,Living Room Air Purifier 8.Fan Power Bunt Karo,1.0,0.9,0.0,10.0,base,2026-03-05T11:07:39.563770+00:00
+elevenlabs,gujarati,gujarati_24.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,"Living room air purifier 1ma, Fan power Charluckari, Fan Jada 4 set karo.",1.0,1.0,0.0,0.0,base,2026-03-05T11:07:41.225122+00:00
+elevenlabs,gujarati,gujarati_25.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 1 માં રિંગ એલઈડી બ્રાઇટનેસ 200 સેટ કરો।,"Living room air purifier 1ma, Fenged up 8 setkaru.",1.0,0.8923,0.0,10.77,base,2026-03-05T11:07:42.643105+00:00
+elevenlabs,gujarati,gujarati_26.mp3,ડાઈનિંગ રૂમ એર પ્યુરિફાયર 100 માં 180 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,Living room air purifier Ik bande karo,1.0,0.913,0.0,8.7,base,2026-03-05T11:07:43.948884+00:00
+elevenlabs,gujarati,gujarati_27.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 ચાલુ કરો।,Living room air purifier 8 banthkaru,1.0,0.9167,0.0,8.33,base,2026-03-05T11:07:45.387134+00:00
+elevenlabs,gujarati,gujarati_28.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં 60 મિનિટનો સ્વિચ ઓફ ટાઈમર સેટ કરો।,"Living room at purifier 1ma, Fengarab 2 set karo.",1.0,0.8769,0.0,12.31,base,2026-03-05T11:07:46.989990+00:00
+elevenlabs,gujarati,gujarati_29.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં નાઈટ મોડ ચાલુ કરો।,ruption kami may maywedo.,1.0,0.9388,0.0,6.12,base,2026-03-05T11:08:04.569332+00:00
+elevenlabs,gujarati,gujarati_3.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 ની ફેન પાવર બંધ કરો।,Shaina Khand Air Purifier 1ma Night Mode Set-Karho,1.0,0.9574,0.0,4.26,base,2026-03-05T11:08:05.982598+00:00
+elevenlabs,gujarati,gujarati_30.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન પાવર ચાલુ કરી ફેન ઝડપ 4 સેટ કરો।,logged in asim,1.0,0.9701,0.0,2.99,base,2026-03-05T11:08:13.624335+00:00
+elevenlabs,gujarati,gujarati_31.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 8 સેટ કરો।,Shainakhanda Aseema Tapman Aadha Degree Sett Kharo,1.0,0.9592,0.0,4.08,base,2026-03-05T11:08:15.092575+00:00
+elevenlabs,gujarati,gujarati_32.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 બંધ કરો।,"Shayan Khanna ACMA, display more Charlukaru",1.0,1.0,0.0,0.0,base,2026-03-05T11:08:16.357419+00:00
+elevenlabs,gujarati,gujarati_33.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 બંધ કરો।,Dining Roomma EC Charlu Karu,1.0,0.9143,0.0,8.57,base,2026-03-05T11:08:17.868297+00:00
+elevenlabs,gujarati,gujarati_34.mp3,લિવિંગ રૂમ એર પ્યુરિફાયર 1 માં ફેન ઝડપ 2 સેટ કરો।,"Office AC-2, Charlukaru",1.0,0.9592,0.0,4.08,base,2026-03-05T11:08:19.467475+00:00
+elevenlabs,gujarati,gujarati_35.mp3,મારા શયનખંડમાં કયા ઉપકરણો છે?,σειphal in china kna a essaima lace Dry Mode setkap,1.0,1.0,0.0,0.0,base,2026-03-05T11:08:28.369630+00:00
+elevenlabs,gujarati,gujarati_36.mp3,શયનખંડમાં AC ચાલુ કરો।,しゼ kannしよう werd いう情地 を 踢している 絕案で触れやすさに またユニ走了,1.0,1.0,0.0,0.0,base,2026-03-05T11:08:39.189833+00:00
+elevenlabs,gujarati,gujarati_37.mp3,શયનખંડના AC માં તાપમાન 18 ડિગ્રી સેટ કરો।,ULChain Akhand na asima vertical swing thermals for the five Warriors clan Chinatown.,1.0,1.0,0.0,0.0,base,2026-03-05T11:08:53.076493+00:00
+elevenlabs,gujarati,gujarati_38.mp3,શયનખંડના AC માં ડિસ્પ્લે મોડ ચાલુ કરો।,Shine kanna ezima sky high color chalukaro,1.0,1.0,0.0,0.0,base,2026-03-05T11:08:54.599300+00:00
+elevenlabs,gujarati,gujarati_39.mp3,ડાઈનિંગ રૂમમાં AC ચાલુ કરો।,"Living Room AC-2 Charlu Karine, 3 Horizontal Swings Thiti 2 PERSET Karo.",1.0,1.0,0.0,0.0,base,2026-03-05T11:08:57.984961+00:00
+elevenlabs,gujarati,gujarati_4.mp3,ઓફિસ AC 2 ચાલુ કરો।,"Shaina Khand Air Purifier 1ma, Saat Minute No Witch Of Timerset Karo.",1.0,1.0,0.0,0.0,base,2026-03-05T11:08:59.470449+00:00
+elevenlabs,gujarati,gujarati_40.mp3,શયનખંડના AC માં ડ્રાય મોડ સેટ કરો।,Living room AC-2MA Turbo Mode Chalukaru,1.0,0.9706,0.0,2.94,base,2026-03-05T11:09:00.985806+00:00
+elevenlabs,gujarati,gujarati_41.mp3,શયનખંડના AC માં સ્લીપ મોડ ચાલુ કરો।,Shaina Kanna Aseema Chai Lok Chalukaru,1.0,0.9714,0.0,2.86,base,2026-03-05T11:09:02.380251+00:00
+elevenlabs,gujarati,gujarati_42.mp3,શયનખંડના AC માં વર્ટિકલ સ્વિંગ સ્થિતિ 5 પર સેટ કરો।,"Office AC-2MAR fans are up, high set karo",1.0,0.8431,0.0,15.69,base,2026-03-05T11:09:03.709412+00:00
+elevenlabs,gujarati,gujarati_43.mp3,શયનખંડના AC માં સ્કાય હાઈ કલર ચાલુ કરો।,"Shaina Khanda, Eseema, horizontal swing auto per setkaro.",1.0,1.0,0.0,0.0,base,2026-03-05T11:09:05.215728+00:00
+elevenlabs,gujarati,gujarati_44.mp3,લિવિંગ રૂમ AC 2 ચાલુ કરીને તેનું હોરિઝોન્ટલ સ્વિંગ સ્થિતિ 2 પર સેટ કરો।,Living room AC-2ma Top-Man 3's Degrees Set-Caro.,1.0,0.8873,0.0,11.27,base,2026-03-05T11:09:06.933507+00:00
+elevenlabs,gujarati,gujarati_45.mp3,લિવિંગ રૂમ AC 2 માં ટર્બો મોડ ચાલુ કરો।,"YoGroom AC-1 Charlu Karine, Teno Switch of Timer 20 Minutes Purset.",1.0,1.0,0.0,0.0,base,2026-03-05T11:09:08.514395+00:00
+elevenlabs,gujarati,gujarati_46.mp3,શયનખંડના AC માં ચાઇલ્ડ લોક ચાલુ કરો।,"yo grum AC1ma, humicon mode, chaalukaru",1.0,0.9444,0.0,5.56,base,2026-03-05T11:09:09.882120+00:00
+elevenlabs,gujarati,gujarati_47.mp3,ઓફિસ AC 2 માં ફેન ઝડપ હાઈ સેટ કરો।,shy 500 shy,1.0,0.9412,0.0,5.88,base,2026-03-05T11:09:18.502191+00:00
+elevenlabs,gujarati,gujarati_48.mp3,શયનખંડના AC માં હોરિઝોન્ટલ સ્વિંગ ઓટો પર સેટ કરો।,फिशाण कھन्ना एसिमा एको मोडशा बूडचालू करो,1.0,0.898,0.0,10.2,base,2026-03-05T11:09:22.556990+00:00
+elevenlabs,gujarati,gujarati_49.mp3,લિવિંગ રૂમ AC 2 માં તાપમાન 30 ડિગ્રી સેટ કરો।,Shaina Khanna Aseema Light Intensity Lo-Set Karo,1.0,0.9556,0.0,4.44,base,2026-03-05T11:09:23.823917+00:00
+elevenlabs,gujarati,gujarati_5.mp3,યોગ રૂમ AC 1 ચાલુ કરીને તેનો સ્વિચ ઓફ ટાઈમર 20 મિનિટ પર સેટ કરો।,Shining Hunt 8 purifier 1ma ring LED Brightness 40 set karo.,1.0,0.8906,0.0,10.94,base,2026-03-05T11:09:25.221883+00:00
+elevenlabs,gujarati,gujarati_50.mp3,યોગ રૂમ AC 1 માં હ્યુમિકોન મોડ ચાલુ કરો।,Guru guru acc clinical individual praktيع implicated in a very strong leadingенерables self-ad Nachug PIN Shilwa November don't lose grip,1.0,1.0,0.0,0.0,base,2026-03-05T11:09:46.831846+00:00
+elevenlabs,gujarati,gujarati_51.mp3,શયનખંડના AC માં ચાઇલ્ડ લોક મોડ બંધ કરો।,nimmtorgeous huppٹ 1-2 umpft 2 explosive h东西 4 glowing h东西 2 tall omg 3 tall cooked h East 3 tall chicken 4 2еж 2 tall fried delicious,1.0,1.0,0.0,0.0,base,2026-03-05T11:10:06.927230+00:00
+elevenlabs,gujarati,gujarati_52.mp3,શયનખંડના AC માં ઇકો મોડ ચાલુ કરો।,� значہ southwestwavelling,1.0,0.9697,0.0,3.03,base,2026-03-05T11:10:14.853515+00:00
+elevenlabs,gujarati,gujarati_53.mp3,શયનખંડના AC માં લાઈટ ઇન્ટેન્સિટી લો સેટ કરો।,"Shaina Khand AC Tumah, Fans Up Medium Set Kuro.",1.0,0.9545,0.0,4.55,base,2026-03-05T11:10:16.448178+00:00
+sarvam,hindi,hindi_0.wav,बेडरूम एयर प्यूरीफायर 1 चालू करें।,Bedroom Air Puere Fire 1 Chalukare,1.0,0.8824,0.0,11.76,base,2026-03-05T11:10:17.773093+00:00
+sarvam,hindi,hindi_1.wav,बेडरूम एयर प्यूरीफायर 1 में बजर कंट्रोल चालू करें।,"Bedroom, Air, PewDiePie & One-Nay Bazaar Control Chalukare",1.0,1.0,0.0,0.0,base,2026-03-05T11:10:19.587236+00:00
+sarvam,hindi,hindi_10.wav,बेडरूम एयर प्यूरीफायर 1 में फैन स्पीड 4 सेट करें।,Dining Room Air Purifier 1 Chalukare,1.0,0.898,0.0,10.2,base,2026-03-05T11:10:20.953681+00:00
+sarvam,hindi,hindi_11.wav,बेडरूम एयर प्यूरीफायर 1 में नाइट मोड सेट करें।,Dining Room Air Purifier 1 May RingLED Brightness 70ºC.,1.0,1.0,0.0,0.0,base,2026-03-05T11:10:22.756056+00:00
+sarvam,hindi,hindi_12.wav,बेडरूम एयर प्यूरीफायर 1 में 60 मिनट का स्विच ऑफ टाइमर सेट करें।,Dining Room Air Purifier 1 May heater Power Chalukare,1.0,0.9048,0.0,9.52,base,2026-03-05T11:10:27.009825+00:00
+sarvam,hindi,hindi_13.wav,बेडरूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 40 पर सेट करें।,Dining Room Air Purifier 1 May Night Mode Set Curry,1.0,0.8906,0.0,10.94,base,2026-03-05T11:10:28.504311+00:00
+sarvam,hindi,hindi_14.wav,बेडरूम एयर प्यूरीफायर 1 में टर्बो मोड चालू करें और बजर कंट्रोल बंद करें।,Dhaningroom Air Purifier 1x180 Minutes Switch Off Timer Set,1.0,0.9167,0.0,8.33,base,2026-03-05T11:10:29.880996+00:00
+sarvam,hindi,hindi_15.wav,बेडरूम एयर प्यूरीफायर 1 में 720 मिनट का स्विच ऑफ टाइमर सेट करें।,Dining Room Air Purifier 1 میں Buzzle Control Chalukare,1.0,0.9062,0.0,9.38,base,2026-03-05T11:10:31.481002+00:00
+sarvam,hindi,hindi_16.wav,डाइनिंग रूम में एयर प्यूरीफायर चालू करें।,Dining Roomale Purifier 1 May Fan Speed 3 Set Kare,1.0,1.0,0.0,0.0,base,2026-03-05T11:10:33.193919+00:00
+sarvam,hindi,hindi_17.wav,मेरे बेडरूम एयर प्यूरीफायर 1 की स्थिति क्या है?,Dining Room Air Purifier 1 Chalukare,0.8889,0.8936,11.11,10.64,base,2026-03-05T11:10:34.476966+00:00
+sarvam,hindi,hindi_18.wav,डाइनिंग रूम एयर प्यूरीफायर 1 चालू करें।,Dining Room Air Purifier 1 Meringue LED Brightness 200% SETKARE,1.0,1.0,0.0,0.0,base,2026-03-05T11:10:35.929840+00:00
+sarvam,hindi,hindi_19.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 70 सेट करें।,Dining Room AR Purifier 180 Minutes Switch of Timer Set,1.0,0.8788,0.0,12.12,base,2026-03-05T11:10:37.259156+00:00
+sarvam,hindi,hindi_2.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में हीटर पावर चालू करें।,Bedroom Air Purifier 1 میں Fan Speed 4 Sight Kare.,1.0,0.9057,0.0,9.43,base,2026-03-05T11:10:38.908152+00:00
+sarvam,hindi,hindi_20.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में नाइट मोड सेट करें।,Living Room Air Purifier 1 Chalo Kare,0.9,0.8824,10.0,11.76,base,2026-03-05T11:10:40.238037+00:00
+sarvam,hindi,hindi_21.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में 180 मिनट का स्विच ऑफ टाइमर सेट करें।,"Living Room, Air Purifier 1 May 60 Minutes, Switch Off Timer Set Kare.",0.9286,0.8696,7.14,13.04,base,2026-03-05T11:10:41.877169+00:00
+sarvam,hindi,hindi_22.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में बजर कंट्रोल चालू करें।,Living Room Air Purifier 1 میں Night Mode Channu Kare,0.9,0.8909,10.0,10.91,base,2026-03-05T11:10:43.392867+00:00
+sarvam,hindi,hindi_23.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में फैन स्पीड 3 सेट करें।,Living Room Air Purifier 1K fan power BANDKARE,1.0,0.8704,0.0,12.96,base,2026-03-05T11:10:44.930499+00:00
+sarvam,hindi,hindi_24.wav,डाइनिंग रूम एयर प्यूरीफायर 1 चालू करें।,Living Room Air Purifier 1 May Fan Power Chanukare & Fan Speed Force 8 Kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:10:46.445619+00:00
+sarvam,hindi,hindi_25.wav,डाइनिंग रूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 200 पर सेट करें।,Living Room Air Purifier 1 میں Fan Ki Gati 8 Sett Kare.,0.9231,0.8429,7.69,15.71,base,2026-03-05T11:10:48.135175+00:00
+sarvam,hindi,hindi_26.wav,डाइनिंग रूम एयर प्यूरीफायर 100 में 180 मिनट का स्विच ऑफ टाइमर सेट करें।,Lilling Room AF Purifier 1 Banth Kare,1.0,0.9155,0.0,8.45,base,2026-03-05T11:10:49.697804+00:00
+sarvam,hindi,hindi_27.wav,लिविंग रूम एयर प्यूरीफायर 1 चालू करें।,Living Room Air Purifier 1.1.Kare,1.0,0.8947,0.0,10.53,base,2026-03-05T11:10:51.066756+00:00
+sarvam,hindi,hindi_28.wav,लिविंग रूम एयर प्यूरीफायर 1 में 60 मिनट का स्विच ऑफ टाइमर सेट करें।,Living Room AR Purifier 1 میں Fan Ki Gati 2 Sait Karin.,0.9286,0.8358,7.14,16.42,base,2026-03-05T11:10:52.602026+00:00
+sarvam,hindi,hindi_29.wav,लिविंग रूम एयर प्यूरीफायर 1 में नाइट मोड चालू करें।,میری شینککش میں کن کن سے اپکراன ہے,1.0,0.8824,0.0,11.76,base,2026-03-05T11:10:54.509084+00:00
+sarvam,hindi,hindi_3.wav,लिविंग रूम एयर प्यूरीफायर 1 की फैन पावर बंद करें।,Bedroom Air Purifier 1 میں Night Mode Settkarae,0.9,0.898,10.0,10.2,base,2026-03-05T11:10:56.048771+00:00
+sarvam,hindi,hindi_30.wav,लिविंग रूम एयर प्यूरीफायर 1 में फैन पावर चालू करें और फैन स्पीड 4 सेट करें।,sh як aksh mein Asi chaaloo kgre,1.0,0.92,0.0,8.0,base,2026-03-05T11:11:03.954667+00:00
+sarvam,hindi,hindi_31.wav,लिविंग रूम एयर प्यूरीफायर 1 में फैन की गति 8 सेट करें।,Shenzh quag shke s Riskumseven 18 Degrees Set Kare,1.0,0.9074,0.0,9.26,base,2026-03-05T11:11:12.356550+00:00
+sarvam,hindi,hindi_32.wav,लिविंग रूम एयर प्यूरीफायर 1 बंद करें।,Shantaksh ke ASEe me display mode chalukare,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:13.839339+00:00
+sarvam,hindi,hindi_33.wav,लिविंग रूम एयर प्यूरीफायर 1 बंद करें।,Dining Room Me AC Chanukare,1.0,0.9189,0.0,8.11,base,2026-03-05T11:11:17.695502+00:00
+sarvam,hindi,hindi_34.wav,लिविंग रूम एयर प्यूरीफायर 1 में फैन की गति 2 सेट करें।,Office AC2 Chanukare,1.0,0.9444,0.0,5.56,base,2026-03-05T11:11:19.036409+00:00
+sarvam,hindi,hindi_35.wav,मेरे शयनकक्ष में कौन-कौन से उपकरण हैं?,fox ki akhi ke asii me dry moth set kare,1.0,0.9474,0.0,5.26,base,2026-03-05T11:11:27.365989+00:00
+sarvam,hindi,hindi_36.wav,शयनकक्ष में AC चालू करें।,Shayan kakshke asimhe sleep mode chaalukare,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:28.808790+00:00
+sarvam,hindi,hindi_37.wav,शयनकक्ष के AC में तापमान 18 डिग्री सेट करें।,Shantkaksh ke ASEe me Vertical Swing ko position 5 berset kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:30.336956+00:00
+sarvam,hindi,hindi_38.wav,शयनकक्ष के AC में डिस्प्ले मोड चालू करें।,sneakers cape ng .,1.0,0.9024,0.0,9.76,base,2026-03-05T11:11:38.753735+00:00
+sarvam,hindi,hindi_39.wav,डाइनिंग रूम में AC चालू करें।,Living Room AC2 Charlukaray & his horizontal swing position 2 per set kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:40.352975+00:00
+sarvam,hindi,hindi_4.wav,ऑफिस AC 2 चालू करें।,Bettero May TV fidelity 1 – 60 min Curt !,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:49.569421+00:00
+sarvam,hindi,hindi_40.wav,शयनकक्ष के AC में ड्राई मोड सेट करें।,Living room AC2 may turbo mode Chanukare,1.0,0.8919,0.0,10.81,base,2026-03-05T11:11:50.848322+00:00
+sarvam,hindi,hindi_41.wav,शयनकक्ष के AC में स्लीप मोड चालू करें।,Shankaksh ke asimhe child log chaalukare,1.0,0.8947,0.0,10.53,base,2026-03-05T11:11:52.465025+00:00
+sarvam,hindi,hindi_42.wav,शयनकक्ष के AC में वर्टिकल स्विंग को पोजीशन 5 पर सेट करें।,Office AC2 میں fan ke gati hai saet kare.,1.0,0.8421,0.0,15.79,base,2026-03-05T11:11:53.905190+00:00
+sarvam,hindi,hindi_43.wav,शयनकक्ष के AC में स्काई हाई कलर चालू करें।,Shan Kuksh ke AC me horizontal swing ko auto per seet kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:11:55.376699+00:00
+sarvam,hindi,hindi_44.wav,लिविंग रूम AC 2 चालू करें और उसका हॉरिज़ॉन्टल स्विंग पोजीशन 2 पर सेट करें।,Living room AC2 neck 30°C circle,1.0,0.9054,0.0,9.46,base,2026-03-05T11:12:03.977870+00:00
+sarvam,hindi,hindi_45.wav,लिविंग रूम AC 2 में टर्बो मोड चालू करें।,Yoga Room AC1 Charlu Kare & his switch off timer 20 min. Pursaid Kare,1.0,1.0,0.0,0.0,base,2026-03-05T11:12:05.546814+00:00
+sarvam,hindi,hindi_46.wav,शयनकक्ष के AC में चाइल्ड लॉक चालू करें।,Yoga Room AC1 میں Humicon Mode Chalukare,1.0,0.8974,0.0,10.26,base,2026-03-05T11:12:06.905472+00:00
+sarvam,hindi,hindi_47.wav,ऑफिस AC 2 में फैन की गति हाई सेट करें।,ש polítежд papier,1.0,0.9474,0.0,5.26,base,2026-03-05T11:12:15.636825+00:00
+sarvam,hindi,hindi_48.wav,शयनकक्ष के AC में हॉरिज़ॉन्टल स्विंग को ऑटो पर सेट करें।,شاینکش کے AC میں ایک کو مور چالو کرے,0.9091,0.8214,9.09,17.86,base,2026-03-05T11:12:17.039609+00:00
+sarvam,hindi,hindi_49.wav,लिविंग रूम AC 2 में तापमान 30 डिग्री सेट करें।,Mohammed<|cy|>,1.0,0.9783,0.0,2.17,base,2026-03-05T11:12:25.236368+00:00
+sarvam,hindi,hindi_5.wav,योगा रूम AC 1 चालू करें और उसका स्विच ऑफ टाइमर 20 मिनट पर सेट करें।,Bedroom Airpul Fire 1-Mairing LED Brightness 40%,1.0,0.8955,0.0,10.45,base,2026-03-05T11:12:26.963190+00:00
+sarvam,hindi,hindi_50.wav,योगा रूम AC 1 में ह्यूमिकॉन मोड चालू करें।,Bedroom AC2 Charlu Kare,1.0,0.881,0.0,11.9,base,2026-03-05T11:12:28.198046+00:00
+sarvam,hindi,hindi_51.wav,शयनकक्ष के AC में चाइल्ड लॉक मोड बंद करें।,Bedroom AC-2 may Vertical Swing O'Position 4 per or Horizontal Swing O'Position 3 per set kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:12:29.912642+00:00
+sarvam,hindi,hindi_52.wav,शयनकक्ष के AC में इको मोड चालू करें।,بیڈرومیسی ٹومیکوں مٹ چالوں کریں,1.0,0.9167,0.0,8.33,base,2026-03-05T11:12:35.460219+00:00
+sarvam,hindi,hindi_53.wav,शयनकक्ष के AC में लाइट इंटेंसिटी लो सेट करें।,bedsroom AC2 म backwards & hätte snake,1.0,0.8444,0.0,15.56,base,2026-03-05T11:12:43.545136+00:00
+elevenlabs,hindi,hindi_0.mp3,बेडरूम एयर प्यूरीफायर 1 चालू करें।,BEDROOM AR PURIFIRE ONE CHALUKAR E,1.0,0.9412,0.0,5.88,base,2026-03-05T11:12:45.087425+00:00
+elevenlabs,hindi,hindi_1.mp3,बेडरूम एयर प्यूरीफायर 1 में बजर कंट्रोल चालू करें।,Bedroom Air Purifier 1 Mi Bazaar Control Chalukari.,0.8889,0.92,11.11,8.0,base,2026-03-05T11:12:46.635920+00:00
+elevenlabs,hindi,hindi_10.mp3,बेडरूम एयर प्यूरीफायर 1 में फैन स्पीड 4 सेट करें।,Dining Room Air Purifier 1-Challu Kare,1.0,0.9184,0.0,8.16,base,2026-03-05T11:12:48.019809+00:00
+elevenlabs,hindi,hindi_11.mp3,बेडरूम एयर प्यूरीफायर 1 में नाइट मोड सेट करें।,Dining Room Air Purifier 1 میں Ring LED Brightness 70 Set Kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:12:49.392223+00:00
+elevenlabs,hindi,hindi_12.mp3,बेडरूम एयर प्यूरीफायर 1 में 60 मिनट का स्विच ऑफ टाइमर सेट करें।,Dining Room Air Purifier 1 میں heat up power Charlu Kare.,1.0,0.8889,0.0,11.11,base,2026-03-05T11:12:51.059409+00:00
+elevenlabs,hindi,hindi_13.mp3,बेडरूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 40 पर सेट करें।,Dining Room Air Purifier 1 Mi Night Mode Setkare,1.0,0.9062,0.0,9.38,base,2026-03-05T11:12:52.409488+00:00
+elevenlabs,hindi,hindi_14.mp3,बेडरूम एयर प्यूरीफायर 1 में टर्बो मोड चालू करें और बजर कंट्रोल बंद करें।,Dining Room Air Purifier 1 میں 120 minute switch off timer setkore.,1.0,0.8889,0.0,11.11,base,2026-03-05T11:12:53.850314+00:00
+elevenlabs,hindi,hindi_15.mp3,बेडरूम एयर प्यूरीफायर 1 में 720 मिनट का स्विच ऑफ टाइमर सेट करें।,Dining Room Air Purifier 1 Mi Bazaar Control Charlu Kare.,1.0,0.8906,0.0,10.94,base,2026-03-05T11:12:55.237024+00:00
+elevenlabs,hindi,hindi_16.mp3,डाइनिंग रूम में एयर प्यूरीफायर चालू करें।,Dining Room Air Purifier 1 May Fan Speed 3 Set Curry,1.0,1.0,0.0,0.0,base,2026-03-05T11:12:56.963660+00:00
+elevenlabs,hindi,hindi_17.mp3,मेरे बेडरूम एयर प्यूरीफायर 1 की स्थिति क्या है?,Dining Room 8 Purifier 1 Chalukare,0.8889,0.8936,11.11,10.64,base,2026-03-05T11:12:58.344062+00:00
+elevenlabs,hindi,hindi_18.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 चालू करें।,Dining Room Air Purifier 1 میں Ring LED Brightness Do Sopper Set Kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:12:59.834146+00:00
+elevenlabs,hindi,hindi_19.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 70 सेट करें।,Dining Room Air Purifier 100mm XO AC Minute Cust switch off timer setkare,1.0,0.9848,0.0,1.52,base,2026-03-05T11:13:01.737834+00:00
+elevenlabs,hindi,hindi_2.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में हीटर पावर चालू करें।,BEDROOM AIR PURIFIER 1 ME FANSPEED 4 SETCARE.,0.9,0.8679,10.0,13.21,base,2026-03-05T11:13:03.665843+00:00
+elevenlabs,hindi,hindi_20.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में नाइट मोड सेट करें।,Living Room Air Purifier 1 Chalukare,0.9,0.902,10.0,9.8,base,2026-03-05T11:13:05.208008+00:00
+elevenlabs,hindi,hindi_21.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में 180 मिनट का स्विच ऑफ टाइमर सेट करें।,Living Room Air Purifier 1 May 60 Minutes Switch Off Timer Set Curry,0.9286,0.8406,7.14,15.94,base,2026-03-05T11:13:06.877448+00:00
+elevenlabs,hindi,hindi_22.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में बजर कंट्रोल चालू करें।,Living Room Air Purifier 1 May Night Mode Chalu Kare,0.9,0.8727,10.0,12.73,base,2026-03-05T11:13:08.324194+00:00
+elevenlabs,hindi,hindi_23.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में फैन स्पीड 3 सेट करें।,Living Room Air Purifier 1 کی fan power Ban Kare,0.9091,0.8333,9.09,16.67,base,2026-03-05T11:13:09.863651+00:00
+elevenlabs,hindi,hindi_24.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 चालू करें।,Living Room Air Purifier 1 میں fan power ça loo kare Or fan speed 4 set kare,1.0,1.0,0.0,0.0,base,2026-03-05T11:13:11.360152+00:00
+elevenlabs,hindi,hindi_25.mp3,डाइनिंग रूम एयर प्यूरीफायर 1 में रिंग एलईडी ब्राइटनेस 200 पर सेट करें।,Living Room Air Purifier 1 میں Fanke Gati 8 Settkari.,0.9231,0.8714,7.69,12.86,base,2026-03-05T11:13:13.046343+00:00
+elevenlabs,hindi,hindi_26.mp3,डाइनिंग रूम एयर प्यूरीफायर 100 में 180 मिनट का स्विच ऑफ टाइमर सेट करें।,"Living Room Air Purifier 1, BUNDKARI",1.0,0.9296,0.0,7.04,base,2026-03-05T11:13:14.327937+00:00
+elevenlabs,hindi,hindi_27.mp3,लिविंग रूम एयर प्यूरीफायर 1 चालू करें।,"Living Room Air Purifier 1, BAND KARE",1.0,0.8684,0.0,13.16,base,2026-03-05T11:13:15.633738+00:00
+elevenlabs,hindi,hindi_28.mp3,लिविंग रूम एयर प्यूरीफायर 1 में 60 मिनट का स्विच ऑफ टाइमर सेट करें।,Living Room Air Purifier 1 میں fan ke gati dos set kare.,0.9286,0.8358,7.14,16.42,base,2026-03-05T11:13:17.096614+00:00
+elevenlabs,hindi,hindi_29.mp3,लिविंग रूम एयर प्यूरीफायर 1 में नाइट मोड चालू करें।,میری شین تکش میں کون کن سے اپکر ان ہے.,1.0,0.8627,0.0,13.73,base,2026-03-05T11:13:18.808752+00:00
+elevenlabs,hindi,hindi_3.mp3,लिविंग रूम एयर प्यूरीफायर 1 की फैन पावर बंद करें।,BEDROOM AI PURIFIRE 1 میں NIGHT MODE SETCARE,0.9,0.898,10.0,10.2,base,2026-03-05T11:13:20.349342+00:00
+elevenlabs,hindi,hindi_30.mp3,लिविंग रूम एयर प्यूरीफायर 1 में फैन पावर चालू करें और फैन स्पीड 4 सेट करें।,ensuring replacing the center tbsp pasa satyat & wax case for,1.0,0.88,0.0,12.0,base,2026-03-05T11:13:32.592775+00:00
+elevenlabs,hindi,hindi_31.mp3,लिविंग रूम एयर प्यूरीफायर 1 में फैन की गति 8 सेट करें।,شاین ککش کے AC میں تاپمان 8thura Degree Settkare,1.0,0.9074,0.0,9.26,base,2026-03-05T11:13:34.266712+00:00
+elevenlabs,hindi,hindi_32.mp3,लिविंग रूम एयर प्यूरीफायर 1 बंद करें।,baterishen kakske AC mi display mode khifeel chaalu karay,1.0,1.0,0.0,0.0,base,2026-03-05T11:13:43.432590+00:00
+elevenlabs,hindi,hindi_33.mp3,लिविंग रूम एयर प्यूरीफायर 1 बंद करें।,Dining Room M.A.C. Chalukare,1.0,0.9189,0.0,8.11,base,2026-03-05T11:13:46.182747+00:00
+elevenlabs,hindi,hindi_34.mp3,लिविंग रूम एयर प्यूरीफायर 1 में फैन की गति 2 सेट करें।,Office is the 2 Chalukare.,0.9167,0.9259,8.33,7.41,base,2026-03-05T11:13:47.532056+00:00
+elevenlabs,hindi,hindi_35.mp3,मेरे शयनकक्ष में कौन-कौन से उपकरण हैं?,बो researched.,1.0,0.9737,0.0,2.63,base,2026-03-05T11:13:55.606809+00:00
+elevenlabs,hindi,hindi_36.mp3,शयनकक्ष में AC चालू करें।,شائن ککش کے ایسی میں سلیپ موت چالو کرے,1.0,1.0,0.0,0.0,base,2026-03-05T11:13:57.374833+00:00
+elevenlabs,hindi,hindi_37.mp3,शयनकक्ष के AC में तापमान 18 डिग्री सेट करें।,Shayan Kukshke AC میں vortical swing کو position 5 per setkare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:13:58.871058+00:00
+elevenlabs,hindi,hindi_38.mp3,शयनकक्ष के AC में डिस्प्ले मोड चालू करें।,Shand Kuksh ki AC میں Sky High Color Chalukare.,1.0,0.9512,0.0,4.88,base,2026-03-05T11:14:00.451034+00:00
+elevenlabs,hindi,hindi_39.mp3,डाइनिंग रूम में AC चालू करें।,Living Room AC 2 ÇALO کرے اور اس کا Horizontal Swing Position 2 PERSET کرے.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:01.949307+00:00
+elevenlabs,hindi,hindi_4.mp3,ऑफिस AC 2 चालू करें।,BEDROOM AI PURIFIRE 1 میں 7 MINUTE CUSTWIT OF TIMEERS SETCLE.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:03.849894+00:00
+elevenlabs,hindi,hindi_40.mp3,शयनकक्ष के AC में ड्राई मोड सेट करें।,Living Room AC2 میں Turbo Mode Chalukare,1.0,0.8919,0.0,10.81,base,2026-03-05T11:14:05.194529+00:00
+elevenlabs,hindi,hindi_41.mp3,शयनकक्ष के AC में स्लीप मोड चालू करें।,شینつかくし sketchyˇのカーロクカールびれ,1.0,0.9474,0.0,5.26,base,2026-03-05T11:14:14.502100+00:00
+elevenlabs,hindi,hindi_42.mp3,शयनकक्ष के AC में वर्टिकल स्विंग को पोजीशन 5 पर सेट करें।,Office AC2 میں Fan Ki Gati Hai Sett Kare.,1.0,0.8421,0.0,15.79,base,2026-03-05T11:14:16.169881+00:00
+elevenlabs,hindi,hindi_43.mp3,शयनकक्ष के AC में स्काई हाई कलर चालू करें।,Shayan Kakshri AC میں Hoarizontal Swing کو auto per setkare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:18.030491+00:00
+elevenlabs,hindi,hindi_44.mp3,लिविंग रूम AC 2 चालू करें और उसका हॉरिज़ॉन्टल स्विंग पोजीशन 2 पर सेट करें।,Living Room AC2 میں TOP MONE 30 DIGRIES SETCARE.,1.0,0.8649,0.0,13.51,base,2026-03-05T11:14:19.888977+00:00
+elevenlabs,hindi,hindi_45.mp3,लिविंग रूम AC 2 में टर्बो मोड चालू करें।,Yoga Roam AC 1 Chalukare & his switch off timer 20 minutes per set kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:21.756963+00:00
+elevenlabs,hindi,hindi_46.mp3,शयनकक्ष के AC में चाइल्ड लॉक चालू करें।,Yoga Room AC1 میں Humicon Mode Chalukare,1.0,0.8974,0.0,10.26,base,2026-03-05T11:14:23.149357+00:00
+elevenlabs,hindi,hindi_47.mp3,ऑफिस AC 2 में फैन की गति हाई सेट करें।,شینککش کے اسی میں چیلگ مورٹ بنڈ کرے.,1.0,0.8684,0.0,13.16,base,2026-03-05T11:14:24.615648+00:00
+elevenlabs,hindi,hindi_48.mp3,शयनकक्ष के AC में हॉरिज़ॉन्टल स्विंग को ऑटो पर सेट करें।,شین کاکش کے اسی میں ایک ہموٹ چالو کرے,1.0,0.875,0.0,12.5,base,2026-03-05T11:14:26.018638+00:00
+elevenlabs,hindi,hindi_49.mp3,लिविंग रूम AC 2 में तापमान 30 डिग्री सेट करें।,Shayan Kakshke Asee میں Light Indensity Low Set Kare.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:27.689499+00:00
+elevenlabs,hindi,hindi_5.mp3,योगा रूम AC 1 चालू करें और उसका स्विच ऑफ टाइमर 20 मिनट पर सेट करें।,"Bedroom Air Purifier 1 May, Ring LED Brightness 40% Set Kare.",0.9375,0.8657,6.25,13.43,base,2026-03-05T11:14:29.177060+00:00
+elevenlabs,hindi,hindi_50.mp3,योगा रूम AC 1 में ह्यूमिकॉन मोड चालू करें।,BEDROOM AC-2 Charlu Kare,1.0,0.881,0.0,11.9,base,2026-03-05T11:14:31.660432+00:00
+elevenlabs,hindi,hindi_51.mp3,शयनकक्ष के AC में चाइल्ड लॉक मोड बंद करें।,BEDROM AC2 میں VIRTICAL SWINKO POSISTION IVPUR OR HORISONTAL SWINKO POSISTION III PURSETCARE.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:33.863591+00:00
+elevenlabs,hindi,hindi_52.mp3,शयनकक्ष के AC में इको मोड चालू करें।,BEDRUM AC2 MA ECO MODE Shahlu externally.,1.0,1.0,0.0,0.0,base,2026-03-05T11:14:41.763245+00:00
+elevenlabs,hindi,hindi_53.mp3,शयनकक्ष के AC में लाइट इंटेंसिटी लो सेट करें।,بیدھروم AC2 میں fanspeed کو medium پر سٹ کرے,1.0,0.8889,0.0,11.11,base,2026-03-05T11:14:43.491375+00:00
+sarvam,kannada,kannada_0.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Shainakakshya Air Purifier 1 & No Unmadi,0.8571,0.907,14.29,9.3,base,2026-03-05T11:14:50.415326+00:00
+sarvam,kannada,kannada_1.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಬಜರ್ ನಿಯಂತ್ರಣವನ್ನು ಆನ್ ಮಾಡಿ।,"Shaina Kaksya, Air Purifier 1 Nally, Bajav Niyantranavanu, Anmadi.",1.0,0.9677,0.0,3.23,base,2026-03-05T11:14:51.966840+00:00
+sarvam,kannada,kannada_10.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 4 ಗೆ ಹೊಂದಿಸಿ।,Dining Room Air Purifier 1 & 1 On Madi,1.0,0.9048,0.0,9.52,base,2026-03-05T11:14:53.196940+00:00
+sarvam,kannada,kannada_11.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಹೊಂದಿಸಿ।,"Dining Room Air Purifier 1 Nallyi, Ringyalli Di Prakashamanate 70 Honda Sik",1.0,1.0,0.0,0.0,base,2026-03-05T11:14:54.997669+00:00
+sarvam,kannada,kannada_12.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 60 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,"Dining Room Air Purifier 1 Nully, heater power on Madi",1.0,0.9,0.0,10.0,base,2026-03-05T11:14:56.379840+00:00
+sarvam,kannada,kannada_13.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 40 ಹೊಂದಿಸಿ।,Dining Room Air Purifier 1 Nally Night Mode Hondisi,1.0,0.9143,0.0,8.57,base,2026-03-05T11:14:57.866311+00:00
+sarvam,kannada,kannada_14.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಟರ್ಬೋ ಮೋಡ್ ಆನ್ ಮಾಡಿ ಮತ್ತು ಬಜರ್ ನಿಯಂತ್ರಣ ಆಫ್ ಮಾಡಿ।,Dining Room Air Purifier 1-1118 Emishagala Switch of Timer Honda C,1.0,0.9157,0.0,8.43,base,2026-03-05T11:15:01.046052+00:00
+sarvam,kannada,kannada_15.wav,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 720 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Dain Room Air Purifier 1 Nally Bajar Myanmar Thanan Anmadi,1.0,0.8873,0.0,11.27,base,2026-03-05T11:15:02.555618+00:00
+sarvam,kannada,kannada_16.wav,ಡೈನಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ ಅನ್ನು ಆನ್ ಮಾಡಿ।,Dining Room Air Purifier Vanalli Fan Wage 1-3 Ghehondisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:15:03.993984+00:00
+sarvam,kannada,kannada_17.wav,ನನ್ನ ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ರ ಸ್ಥಿತಿ ಏನು?,"Dining Room Air Purifier 1, Anuan Mardi",1.0,0.8913,0.0,10.87,base,2026-03-05T11:15:05.465950+00:00
+sarvam,kannada,kannada_18.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,"Dining room, air purifier 1, learing, LED Prokashamanate 200 Honda C",1.0,1.0,0.0,0.0,base,2026-03-05T11:15:06.980609+00:00
+sarvam,kannada,kannada_19.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 70 ಹೊಂದಿಸಿ।,Dining Room Air Purifier 100 Nulli 180 Nishagalas Switch Off Timer Honda C,1.0,0.9589,0.0,4.11,base,2026-03-05T11:15:08.514712+00:00
+sarvam,kannada,kannada_2.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಹೀಟರ್ ಪವರ್ ಆನ್ ಮಾಡಿ।,Shayanakakshia Air Purifier 1 Nally Fan Wagewan 4 Gehondisi,0.9,0.9649,10.0,3.51,base,2026-03-05T11:15:10.306148+00:00
+sarvam,kannada,kannada_20.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಹೊಂದಿಸಿ।,Living Room Air Purifier 1 & No Unmadi,0.8889,0.8545,11.11,14.55,base,2026-03-05T11:15:11.697981+00:00
+sarvam,kannada,kannada_21.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 180 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,"Living room air purifier 1.060, Neemisha Gullas switch off timer hondisi.",1.0,0.9054,0.0,9.46,base,2026-03-05T11:15:19.030979+00:00
+sarvam,kannada,kannada_22.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಬಜರ್ ನಿಯಂತ್ರಣ ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1.99 mode on Mardi,1.0,0.8667,0.0,13.33,base,2026-03-05T11:15:20.436488+00:00
+sarvam,kannada,kannada_23.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 3 ಗೆ ಹೊಂದಿಸಿ।,"Living Room, Air Purifier, One Rough Fan Power of Marty.",1.0,0.8939,0.0,10.61,base,2026-03-05T11:15:22.011002+00:00
+sarvam,kannada,kannada_24.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1 Nally fan power ANMADI Mattovega 4 Hundisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:15:23.680064+00:00
+sarvam,kannada,kannada_25.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 200 ಹೊಂದಿಸಿ।,Living Room Year Purify Yearampe Yearwann nomination In 7 veda new 8 G Physi canvas,1.0,1.0,0.0,0.0,base,2026-03-05T11:15:37.127362+00:00
+sarvam,kannada,kannada_26.wav,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 100 ನಲ್ಲಿ 180 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Living room air purifier 1 & new off-madi,1.0,0.8947,0.0,10.53,base,2026-03-05T11:15:38.670115+00:00
+sarvam,kannada,kannada_27.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1 & No Off-Madi,0.875,0.8478,12.5,15.22,base,2026-03-05T11:15:40.035685+00:00
+sarvam,kannada,kannada_28.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 60 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Leaving Room Air Purifier 1 Nally fanwagavan 2 Gehondisi,0.9167,0.8767,8.33,12.33,base,2026-03-05T11:15:41.811642+00:00
+sarvam,kannada,kannada_29.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,நنن نشینہ ککشیلی یا و سادھینگلیவے,1.0,0.9107,0.0,8.93,base,2026-03-05T11:15:43.403293+00:00
+sarvam,kannada,kannada_3.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ರ ಫ್ಯಾನ್ ಪವರ್ ಆಫ್ ಮಾಡಿ।,Shayana Kakshaya Air Purifier 1.5 Night Mode Honda C,1.0,0.8889,0.0,11.11,base,2026-03-05T11:15:44.979591+00:00
+sarvam,kannada,kannada_30.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ಪವರ್ ಆನ್ ಮಾಡಿ ಮತ್ತು ವೇಗ 4 ಹೊಂದಿಸಿ।,"Shaina Kapchiali, AC Anu Ann Madi",1.0,0.9359,0.0,6.41,base,2026-03-05T11:15:46.379033+00:00
+sarvam,kannada,kannada_31.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 8 ಗೆ ಹೊಂದಿಸಿ।,秦來測op granart,1.0,0.9848,0.0,1.52,base,2026-03-05T11:15:55.464997+00:00
+sarvam,kannada,kannada_32.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆಫ್ ಮಾಡಿ।,Shaiv Naturakakshey EC N Li Display mord Anmadhey,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:04.100771+00:00
+sarvam,kannada,kannada_33.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆಫ್ ಮಾಡಿ।,Dining Room Nalli ACN NO ANMADI,1.0,0.913,0.0,8.7,base,2026-03-05T11:16:05.667221+00:00
+sarvam,kannada,kannada_34.wav,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 2 ಗೆ ಹೊಂದಿಸಿ।,5 – aphis ac tuan muhan Dharma,1.0,0.9091,0.0,9.09,base,2026-03-05T11:16:13.290507+00:00
+sarvam,kannada,kannada_35.wav,ನನ್ನ ಶಯನಕಕ್ಷೆಯಲ್ಲಿ ಯಾವ ಸಾಧನಗಳಿವೆ?,ھاینا ککشے اسی نلیڈری مورڈ ہندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:14.890315+00:00
+sarvam,kannada,kannada_36.wav,ಶಯನಕಕ್ಷೆಯಲ್ಲಿ AC ಅನ್ನು ಆನ್ ಮಾಡಿ।,ھاینککشیا ھایسی نلی ھایسیپ مورڈ آن ماری,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:17.078427+00:00
+sarvam,kannada,kannada_37.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ತಾಪಮಾನವನ್ನು 18 ಡಿಗ್ರಿಗೆ ಹೊಂದಿಸಿ।,ھنککشے یا سی نلی وٹکل سوینکس تھانا 5 گے ہندیسی,1.0,0.902,0.0,9.8,base,2026-03-05T11:16:19.001696+00:00
+sarvam,kannada,kannada_38.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಡಿಸ್ಪ್ಲೇ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,شینا ککشے اسی نلیس کئی ہے کلر آن مادی,1.0,0.881,0.0,11.9,base,2026-03-05T11:16:20.648431+00:00
+sarvam,kannada,kannada_39.wav,ಡೈನಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿ AC ಅನ್ನು ಆನ್ ಮಾಡಿ।,Living Room AC 2 & No Anmari Maktu Adara Harijantal Swings Thanatughe Hundisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:22.567372+00:00
+sarvam,kannada,kannada_4.wav,ಆಫೀಸ್ AC 2 ಅನ್ನು ಆನ್ ಮಾಡಿ।,ھاینککشیہ ایر پیوریفیر one nalli 16یمیشگلہ ھایچ آفٹیمہ ہندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:24.671664+00:00
+sarvam,kannada,kannada_40.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಡ್ರೈ ಮೋಡ್ ಹೊಂದಿಸಿ।,línea shop,1.0,0.9459,0.0,5.41,base,2026-03-05T11:16:48.757692+00:00
+sarvam,kannada,kannada_41.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಸ್ಲೀಪ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,Shayanakakshaya AC Nally Child Lock on Madi,0.8571,0.95,14.29,5.0,base,2026-03-05T11:16:50.295787+00:00
+sarvam,kannada,kannada_42.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ವರ್ಟಿಕಲ್ ಸ್ವಿಂಗ್ ಸ್ಥಾನ 5 ಗೆ ಹೊಂದಿಸಿ।,ھو فیس ایسی ٹون الی فان وگوان نوحی گے ہندیسی,1.0,0.8909,0.0,10.91,base,2026-03-05T11:16:52.083761+00:00
+sarvam,kannada,kannada_43.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಸ್ಕೈ ಹೈ ಕಲರ್ ಆನ್ ಮಾಡಿ।,Shayanakakshia Ayesi Nalli Hari Jantal Swing Anu Atoghe Hundisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:16:53.772980+00:00
+sarvam,kannada,kannada_44.wav,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ಅನ್ನು ಆನ್ ಮಾಡಿ ಮತ್ತು ಅದರ ಹಾರಿಜಾಂಟಲ್ ಸ್ವಿಂಗ್ ಸ್ಥಾನ 2 ಗೆ ಹೊಂದಿಸಿ।,Living Room AC-2-Nalli-TAPA-MANA-13 Degree,1.0,0.9259,0.0,7.41,base,2026-03-05T11:17:00.841200+00:00
+sarvam,kannada,kannada_45.wav,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ನಲ್ಲಿ ಟರ್ಬೋ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,"よweise, 1. diret حων rawan maktu Goodness switch off timer 20 This will take place Hua",1.0,1.0,0.0,0.0,base,2026-03-05T11:17:19.153673+00:00
+sarvam,kannada,kannada_46.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಚೈಲ್ಡ್ ಲಾಕ್ ಆನ್ ಮಾಡಿ।,видео,1.0,1.0,0.0,0.0,base,2026-03-05T11:17:27.746935+00:00
+sarvam,kannada,kannada_47.wav,ಆಫೀಸ್ AC 2 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು ಹೈ ಗೆ ಹೊಂದಿಸಿ।,ŞeShNA KokŞEYe 해야 ac Nendy CHADDELочь móDriz Shani,1.0,1.0,0.0,0.0,base,2026-03-05T11:17:36.744077+00:00
+sarvam,kannada,kannada_48.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಹಾರಿಜಾಂಟಲ್ ಸ್ವಿಂಗ್ ಅನ್ನು ಆಟೋಗೆ ಹೊಂದಿಸಿ।,ھاینککشیا ھایسی نلی ھکو موران مڑی,1.0,0.9138,0.0,8.62,base,2026-03-05T11:17:38.624912+00:00
+sarvam,kannada,kannada_49.wav,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ನಲ್ಲಿ ತಾಪಮಾನವನ್ನು 30 ಡಿಗ್ರಿಗೆ ಹೊಂದಿಸಿ।,Shaina Kaksya A.C. Nally Light Intensity Logue Honda C,1.0,0.9286,0.0,7.14,base,2026-03-05T11:17:45.656737+00:00
+sarvam,kannada,kannada_5.wav,ಯೋಗ ರೂಮ್ AC 1 ಅನ್ನು ಆನ್ ಮಾಡಿ ಮತ್ತು ಅದರ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ 20 ನಿಮಿಷಗಳಿಗೆ ಹೊಂದಿಸಿ।,Shana Kaksya Air Purify 150 Ring Yalidi Prakashamanute 40 Hundisi.,1.0,0.9103,0.0,8.97,base,2026-03-05T11:17:47.109321+00:00
+sarvam,kannada,kannada_50.wav,ಯೋಗ ರೂಮ್ AC 1 ನಲ್ಲಿ ಹ್ಯೂಮಿಕಾನ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,ھینککشیہ یہ سیٹو انوان ماری,1.0,0.9111,0.0,8.89,base,2026-03-05T11:17:48.605045+00:00
+sarvam,kannada,kannada_51.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಚೈಲ್ಡ್ ಲಾಕ್ ಮೋಡ್ ಆಫ್ ಮಾಡಿ।,ھای نککشے یہ سی ٹونہلی وٹکل سوینگہ نوستانہ فور گے مطوہاری جانٹل سوینگہ نوستانہ ٹری گے ہندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:17:51.294225+00:00
+sarvam,kannada,kannada_52.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಇಕೊ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,‏SHEINا Qu squish air contractors toonalli  aby vwa moe toononon,1.0,1.0,0.0,0.0,base,2026-03-05T11:18:04.664230+00:00
+sarvam,kannada,kannada_53.wav,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಲೈಟ್ ಇಂಟೆನ್ಸಿಟಿ ಲೋ ಗೆ ಹೊಂದಿಸಿ।,SCHENAKAKH buckshe AC-2-Nalli Fanwaves Moong Media-◎,1.0,1.0,0.0,0.0,base,2026-03-05T11:18:14.189142+00:00
+elevenlabs,kannada,kannada_0.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Shaina Kakshia Air Purifier 1 Anu Onmadi,1.0,0.9302,0.0,6.98,base,2026-03-05T11:18:15.567995+00:00
+elevenlabs,kannada,kannada_1.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಬಜರ್ ನಿಯಂತ್ರಣವನ್ನು ಆನ್ ಮಾಡಿ।,Shainakakshia Air Purifier 1-Lelly Bajur Niyantranavanu On-Madi,1.0,0.9516,0.0,4.84,base,2026-03-05T11:18:17.255380+00:00
+elevenlabs,kannada,kannada_10.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 4 ಗೆ ಹೊಂದಿಸಿ।,Dining Room Air Purifier 1 Anu On Mardi,1.0,0.9206,0.0,7.94,base,2026-03-05T11:18:18.884041+00:00
+elevenlabs,kannada,kannada_11.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಹೊಂದಿಸಿ।,Liang M. sort of morning Ja Samuman,1.0,0.9038,0.0,9.62,base,2026-03-05T11:18:30.070570+00:00
+elevenlabs,kannada,kannada_12.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 60 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,"Dining Room Air Purifier 1 Nelly, Heater Power On Mardi.",1.0,0.9,0.0,10.0,base,2026-03-05T11:18:31.641475+00:00
+elevenlabs,kannada,kannada_13.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 40 ಹೊಂದಿಸಿ।,Dining Room Air Purifier 1 Nally Night Mode Honda C,1.0,0.9,0.0,10.0,base,2026-03-05T11:18:33.034478+00:00
+elevenlabs,kannada,kannada_14.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಟರ್ಬೋ ಮೋಡ್ ಆನ್ ಮಾಡಿ ಮತ್ತು ಬಜರ್ ನಿಯಂತ್ರಣ ಆಫ್ ಮಾಡಿ।,9ctors 안녕하세요 10 16 17,1.0,0.9398,0.0,6.02,base,2026-03-05T11:18:54.744772+00:00
+elevenlabs,kannada,kannada_15.mp3,ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 720 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Dining Room Air Purifier 1 Dali Bajur Nyanthra Na On-Madi,1.0,0.9014,0.0,9.86,base,2026-03-05T11:18:56.330843+00:00
+elevenlabs,kannada,kannada_16.mp3,ಡೈನಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ ಅನ್ನು ಆನ್ ಮಾಡಿ।,Dining Room Air Purifier 1 Nanali Fan Wagevan No More Ghe Honda C,1.0,1.0,0.0,0.0,base,2026-03-05T11:18:57.892778+00:00
+elevenlabs,kannada,kannada_17.mp3,ನನ್ನ ಶಯನಕಕ್ಷೆಯ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ರ ಸ್ಥಿತಿ ಏನು?,Dining Room Air Purifier 1 Anu On Mardi,0.875,0.8913,12.5,10.87,base,2026-03-05T11:18:59.256103+00:00
+elevenlabs,kannada,kannada_18.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Dining Room Air Purifier 1 Nally Ring LED Precaution Manate 2 Doors Hondisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:19:00.819823+00:00
+elevenlabs,kannada,kannada_19.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 70 ಹೊಂದಿಸಿ।,"Dining Room Air Purifier, Nure Nally, Nure Aimbaita Nimishagala Switch Off Timer, Hondisi.",1.0,1.0,0.0,0.0,base,2026-03-05T11:19:02.761872+00:00
+elevenlabs,kannada,kannada_2.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಹೀಟರ್ ಪವರ್ ಆನ್ ಮಾಡಿ।,ھاینہ ککشیا ھایر پیڑு ھایر 1 نلی فان ویگا وننو 4 کوگے ہندیسی,1.0,0.9649,0.0,3.51,base,2026-03-05T11:19:04.841239+00:00
+elevenlabs,kannada,kannada_20.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಹೊಂದಿಸಿ।,Living Room Air Purifier 1 ANO ON MADY,0.8889,0.8545,11.11,14.55,base,2026-03-05T11:19:06.088621+00:00
+elevenlabs,kannada,kannada_21.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 180 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Laving Room Air Purifier 1 Nally Arvadthini Mishagala Switch Off Timer Honda C,1.0,0.9595,0.0,4.05,base,2026-03-05T11:19:07.973505+00:00
+elevenlabs,kannada,kannada_22.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಬಜರ್ ನಿಯಂತ್ರಣ ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1 Nally Night Mode On Mardi,0.9,0.85,10.0,15.0,base,2026-03-05T11:19:09.356659+00:00
+elevenlabs,kannada,kannada_23.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 3 ಗೆ ಹೊಂದಿಸಿ।,Living Room Air Purifier 1DRA Fan Power Off-Madi,1.0,0.8788,0.0,12.12,base,2026-03-05T11:19:10.702974+00:00
+elevenlabs,kannada,kannada_24.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1 Nalli Fan Power On Mardi Muttu Vega Nalu Honda Si,1.0,1.0,0.0,0.0,base,2026-03-05T11:19:12.292717+00:00
+elevenlabs,kannada,kannada_25.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ರಿಂಗ್ ಎಲ್ಇಡಿ ಪ್ರಕಾಶಮಾನತೆ 200 ಹೊಂದಿಸಿ।,"Living Room, Air PURifier 500 Li, fanpraise Venuerne, என்டாடு G RehabEvenuLAUGH",1.0,1.0,0.0,0.0,base,2026-03-05T11:19:21.729942+00:00
+elevenlabs,kannada,kannada_26.mp3,ಡೈನಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 100 ನಲ್ಲಿ 180 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Niving Room Air Purifier 1 Anu Off-Madi,1.0,0.9079,0.0,9.21,base,2026-03-05T11:19:23.085293+00:00
+elevenlabs,kannada,kannada_27.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Living Room Air Purifier 1 Nنu Of Madi,0.875,0.8261,12.5,17.39,base,2026-03-05T11:19:24.466683+00:00
+elevenlabs,kannada,kannada_28.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ 60 ನಿಮಿಷಗಳ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ ಹೊಂದಿಸಿ।,Living room air purifier 1 done alli Fan wager wannu y handicapdusi,0.9167,0.8904,8.33,10.96,base,2026-03-05T11:19:38.495768+00:00
+elevenlabs,kannada,kannada_29.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ನೈಟ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,"நண்ணா Shainakakshayali, யாவசாதன்களிவே",1.0,0.9643,0.0,3.57,base,2026-03-05T11:19:40.299204+00:00
+elevenlabs,kannada,kannada_3.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ರ ಫ್ಯಾನ್ ಪವರ್ ಆಫ್ ಮಾಡಿ।,Shaina Kaksheya Air Purifier 1-Nalli Night More Honda C,1.0,0.963,0.0,3.7,base,2026-03-05T11:19:41.783689+00:00
+elevenlabs,kannada,kannada_30.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ಪವರ್ ಆನ್ ಮಾಡಿ ಮತ್ತು ವೇಗ 4 ಹೊಂದಿಸಿ।,Shainakakshyeli ACNN On-Madi.,1.0,0.9744,0.0,2.56,base,2026-03-05T11:19:46.367586+00:00
+elevenlabs,kannada,kannada_31.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 8 ಗೆ ಹೊಂದಿಸಿ।,"Shaina Takshi AC Nalli, Tapa Manavannu, Hadeenantu Degree Gehundisi.",1.0,0.9848,0.0,1.52,base,2026-03-05T11:19:48.080922+00:00
+elevenlabs,kannada,kannada_32.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆಫ್ ಮಾಡಿ।,"Shaina Kakshiye AC Nally, Display Mode on Mardi",1.0,0.9783,0.0,2.17,base,2026-03-05T11:19:49.368771+00:00
+elevenlabs,kannada,kannada_33.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ಅನ್ನು ಆಫ್ ಮಾಡಿ।,Dining Room Nalli ACN On Mardi,1.0,0.8913,0.0,10.87,base,2026-03-05T11:19:50.767796+00:00
+elevenlabs,kannada,kannada_34.mp3,ಲಿವಿಂಗ್ ರೂಮ್ ಏರ್ ಪ್ಯೂರಿಫೈಯರ್ 1 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು 2 ಗೆ ಹೊಂದಿಸಿ।,Office AC-21 on Madhi.,1.0,0.9394,0.0,6.06,base,2026-03-05T11:19:52.247270+00:00
+elevenlabs,kannada,kannada_35.mp3,ನನ್ನ ಶಯನಕಕ್ಷೆಯಲ್ಲಿ ಯಾವ ಸಾಧನಗಳಿವೆ?,"Shaina Kakshi A.C. Nalli, dry mode Honda C",1.0,1.0,0.0,0.0,base,2026-03-05T11:19:56.769365+00:00
+elevenlabs,kannada,kannada_36.mp3,ಶಯನಕಕ್ಷೆಯಲ್ಲಿ AC ಅನ್ನು ಆನ್ ಮಾಡಿ।,"Shainakakshia A.C. Nalli, Sleep Mode on Mardi",1.0,1.0,0.0,0.0,base,2026-03-05T11:19:58.263428+00:00
+elevenlabs,kannada,kannada_37.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ತಾಪಮಾನವನ್ನು 18 ಡಿಗ್ರಿಗೆ ಹೊಂದಿಸಿ।,ھای نککشی یا ایسی نلی وورٹکل سوینگس تھانکس تھانا آی دگی حندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:20:00.240629+00:00
+elevenlabs,kannada,kannada_38.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಡಿಸ್ಪ್ಲೇ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,"Shaina Kakshia A.C. Nally, Sky High Color On Mardi.",1.0,1.0,0.0,0.0,base,2026-03-05T11:20:02.032554+00:00
+elevenlabs,kannada,kannada_39.mp3,ಡೈನಿಂಗ್ ರೂಮ್‌ನಲ್ಲಿ AC ಅನ್ನು ಆನ್ ಮಾಡಿ।,"Living Room AC 2 Anu On Madi Madhu Adhara, Harry Jantle Swings Thana Ted Tughe Hondisi",1.0,1.0,0.0,0.0,base,2026-03-05T11:20:03.780114+00:00
+elevenlabs,kannada,kannada_4.mp3,ಆಫೀಸ್ AC 2 ಅನ್ನು ಆನ್ ಮಾಡಿ।,Shaina Kakshaya Air Purifier 1 Dali Ardhovathan Nimishagala Switch Off Timer Hondisi,1.0,1.0,0.0,0.0,base,2026-03-05T11:20:05.540519+00:00
+elevenlabs,kannada,kannada_40.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಡ್ರೈ ಮೋಡ್ ಹೊಂದಿಸಿ।,Living Room AC 2 Nally Turbo Mode On Mardi,1.0,0.9459,0.0,5.41,base,2026-03-05T11:20:06.886436+00:00
+elevenlabs,kannada,kannada_41.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಸ್ಲೀಪ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,"Shainakakshiya A.C.inalli, Child Lokon Mardi",1.0,1.0,0.0,0.0,base,2026-03-05T11:20:08.515303+00:00
+elevenlabs,kannada,kannada_42.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ವರ್ಟಿಕಲ್ ಸ್ವಿಂಗ್ ಸ್ಥಾನ 5 ಗೆ ಹೊಂದಿಸಿ।,ھو فیس آیسی ٹونہلی فانوی گوانوں ہائگے ہندیسی,1.0,0.9273,0.0,7.27,base,2026-03-05T11:20:21.905777+00:00
+elevenlabs,kannada,kannada_43.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಸ್ಕೈ ಹೈ ಕಲರ್ ಆನ್ ಮಾಡಿ।,"Shaina Kakshiya AC Nalli, Hari Jantal Swinganu, Atoghi Hundisi.",1.0,1.0,0.0,0.0,base,2026-03-05T11:20:23.561748+00:00
+elevenlabs,kannada,kannada_44.mp3,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ಅನ್ನು ಆನ್ ಮಾಡಿ ಮತ್ತು ಅದರ ಹಾರಿಜಾಂಟಲ್ ಸ್ವಿಂಗ್ ಸ್ಥಾನ 2 ಗೆ ಹೊಂದಿಸಿ।,Living Room AC sham 3 espresso can be shown on TV concerns a,0.9333,0.8519,6.67,14.81,base,2026-03-05T11:20:32.991101+00:00
+elevenlabs,kannada,kannada_45.mp3,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ನಲ್ಲಿ ಟರ್ಬೋ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,یوگہ روم AC-1 ANNU ONMADI மتو آدرسوچ آفٹائمر ابھتھنے مشگلے گے ہندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:20:35.162316+00:00
+elevenlabs,kannada,kannada_46.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಚೈಲ್ಡ್ ಲಾಕ್ ಆನ್ ಮಾಡಿ।,"யோ گרும, AC1-NALLI, Humicon Mode On-Madi.",1.0,0.925,0.0,7.5,base,2026-03-05T11:20:36.811704+00:00
+elevenlabs,kannada,kannada_47.mp3,ಆಫೀಸ್ AC 2 ನಲ್ಲಿ ಫ್ಯಾನ್ ವೇಗವನ್ನು ಹೈ ಗೆ ಹೊಂದಿಸಿ।,"Shaina Kaksheya AC Nalli, Child Log Mode of Mardi",1.0,0.9362,0.0,6.38,base,2026-03-05T11:20:38.206954+00:00
+elevenlabs,kannada,kannada_48.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಹಾರಿಜಾಂಟಲ್ ಸ್ವಿಂಗ್ ಅನ್ನು ಆಟೋಗೆ ಹೊಂದಿಸಿ।,cervika мужчина refraction,1.0,0.9483,0.0,5.17,base,2026-03-05T11:20:47.457282+00:00
+elevenlabs,kannada,kannada_49.mp3,ಲಿವಿಂಗ್ ರೂಮ್ AC 2 ನಲ್ಲಿ ತಾಪಮಾನವನ್ನು 30 ಡಿಗ್ರಿಗೆ ಹೊಂದಿಸಿ।,"Shaina Kakshia AC Nalli, Light Intensity Loge Honda C",0.8889,0.9286,11.11,7.14,base,2026-03-05T11:20:49.053848+00:00
+elevenlabs,kannada,kannada_5.mp3,ಯೋಗ ರೂಮ್ AC 1 ಅನ್ನು ಆನ್ ಮಾಡಿ ಮತ್ತು ಅದರ ಸ್ವಿಚ್ ಆಫ್ ಟೈಮರ್ 20 ನಿಮಿಷಗಳಿಗೆ ಹೊಂದಿಸಿ।,Shaina Kaksya Air Purifier 1 Nalli Ring LED Prakashamanathe Nalpatthu Hondisi,1.0,0.9359,0.0,6.41,base,2026-03-05T11:20:50.750978+00:00
+elevenlabs,kannada,kannada_50.mp3,ಯೋಗ ರೂಮ್ AC 1 ನಲ್ಲಿ ಹ್ಯೂಮಿಕಾನ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,Shaina Kakshi AC-2 ANU ONMADI,1.0,0.8889,0.0,11.11,base,2026-03-05T11:20:52.091916+00:00
+elevenlabs,kannada,kannada_51.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಚೈಲ್ಡ್ ಲಾಕ್ ಮೋಡ್ ಆಫ್ ಮಾಡಿ।,ھا چھائனکاکشیے ھایسی ٹونہ لی ھایٹکل سوینگہ نو ھاستھانا نالکوگے ھاتھو ہرجانٹل سوینگہ نو ھاستھانا نالکوگے ہندیسی,1.0,1.0,0.0,0.0,base,2026-03-05T11:20:55.157345+00:00
+elevenlabs,kannada,kannada_52.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಇಕೊ ಮೋಡ್ ಆನ್ ಮಾಡಿ।,laquelleцеシینکاکشیاєشی ٹھونmerceBothan garde en Marie,1.0,1.0,0.0,0.0,base,2026-03-05T11:21:08.474981+00:00
+elevenlabs,kannada,kannada_53.mp3,ಶಯನಕಕ್ಷೆಯ AC ನಲ್ಲಿ ಲೈಟ್ ಇಂಟೆನ್ಸಿಟಿ ಲೋ ಗೆ ಹೊಂದಿಸಿ।,ھیکδαیgiesے کی کا ہو ٹھறா வیکھ آپ کو نہیں الدیگڑ کے ہندை ہم Deals میں وہتے ہیں,1.0,1.0,0.0,0.0,base,2026-03-05T11:21:18.318675+00:00
+sarvam,malayalam,malayalam_0.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,கிடப்புமுரில் Air Purifier 1 On Chayuga,0.8333,0.8605,16.67,13.95,base,2026-03-05T11:21:20.207631+00:00
+sarvam,malayalam,malayalam_1.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ബസർ നിയന്ത്രണം ഓൺ ചെയ്യുക।,KEDAPUMURILA ARPURIFIRE ONE VELBUSSER NEONDRA NUM ON CHEYUGA,1.0,0.9667,0.0,3.33,base,2026-03-05T11:21:21.866967+00:00
+sarvam,malayalam,malayalam_10.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 4 ആയി സജ്ജീകരിക്കുക।,buining room Airbeauty...,1.0,0.9683,0.0,3.17,base,2026-03-05T11:21:30.293550+00:00
+sarvam,malayalam,malayalam_11.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് സജ്ജീകരിക്കുക।,Dining Room Air to refer 1 laring LED Progashem 70i Satji Garikuga.,1.0,1.0,0.0,0.0,base,2026-03-05T11:21:31.980969+00:00
+sarvam,malayalam,malayalam_12.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ 60 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,"Dining Room Air Purifier 1, Eater Power On Should Be Up",1.0,0.8974,0.0,10.26,base,2026-03-05T11:21:33.313113+00:00
+sarvam,malayalam,malayalam_13.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 40 ആയി സജ്ജീകരിക്കുക।,Dining Room Air Purifier 1 L Night Mode Satji Garikuga,1.0,0.88,0.0,12.0,base,2026-03-05T11:21:34.725768+00:00
+sarvam,malayalam,malayalam_14.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ടർബോ മോഡ് ഓൺ ചെയ്ത് ബസർ നിയന്ത്രണം ഓഫ് ചെയ്യുക।,"Dining Room, Air Purifier 1 Well, 180 minutes switch of timer Satji Garikyuga.",1.0,0.9259,0.0,7.41,base,2026-03-05T11:21:36.264096+00:00
+sarvam,malayalam,malayalam_15.wav,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ 720 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Дface gaze,1.0,0.9873,0.0,1.27,base,2026-03-05T11:21:44.802343+00:00
+sarvam,malayalam,malayalam_16.wav,ഡൈനിംഗ് റൂമിൽ എയർ പ്യൂരിഫയർ ഓൺ ചെയ്യുക।,Dining Room Air Purifier 1 LFA & VEG 3i Satji Gharikyuga,1.0,1.0,0.0,0.0,base,2026-03-05T11:21:46.408933+00:00
+sarvam,malayalam,malayalam_17.wav,എന്റെ കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ന്റെ നില എന്താണ്?,Dining Room Air Purifier 1 On Chayoga,0.875,0.8909,12.5,10.91,base,2026-03-05T11:21:47.714118+00:00
+sarvam,malayalam,malayalam_18.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,Dining Room Air Purify 1-Ring LED Pragasham 200-Satji Garikuga,1.0,1.0,0.0,0.0,base,2026-03-05T11:21:49.597464+00:00
+sarvam,malayalam,malayalam_19.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 70 ആയി സജ്ജീകരിക്കുക।,Dining Room Air Purifier 180-180-switch of timer Satji Garikuga,1.0,0.9014,0.0,9.86,base,2026-03-05T11:21:51.095473+00:00
+sarvam,malayalam,malayalam_2.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഹീറ്റർ പവർ ഓൺ ചെയ്യുക।,Kedapumurili Air Purifier 1 Refan Wagon 4 Ice Adji Garikuga,1.0,0.9808,0.0,1.92,base,2026-03-05T11:21:52.585645+00:00
+sarvam,malayalam,malayalam_20.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് സജ്ജീകരിക്കുക।,Living room Air Beauty Fair 1 On Chayu Ka.,1.0,0.9107,0.0,8.93,base,2026-03-05T11:21:54.203534+00:00
+sarvam,malayalam,malayalam_21.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ 180 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Living room air purifier 1L60 min switch of timer Satji garikyuga,1.0,0.8933,0.0,10.67,base,2026-03-05T11:21:55.691131+00:00
+sarvam,malayalam,malayalam_22.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ബസർ നിയന്ത്രണം ഓൺ ചെയ്യുക।,Living Room Air Purifier 1 Night Mode On Chae Yuga,0.9,0.875,10.0,12.5,base,2026-03-05T11:21:57.020118+00:00
+sarvam,malayalam,malayalam_23.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 3 ആയി സജ്ജീകരിക്കുക।,LibengRomail©Rever IN1 AU1,1.0,0.9661,0.0,3.39,base,2026-03-05T11:22:05.377604+00:00
+sarvam,malayalam,malayalam_24.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,Living Room 8 クリ aideur & Jeffrey Gre紅 III & Amber R. Louis. Living Room 8  P.1. Warumasthag.,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:15.416202+00:00
+sarvam,malayalam,malayalam_25.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 200 ആയി സജ്ജീകരിക്കുക।,Living Room A purifier 1 will fan vegam 8 i sajji garikuga.,0.9167,0.875,8.33,12.5,base,2026-03-05T11:22:17.045661+00:00
+sarvam,malayalam,malayalam_26.wav,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 100 ൽ 180 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Living Room Air Purifier 1 Off Chayuga,1.0,0.9221,0.0,7.79,base,2026-03-05T11:22:18.532731+00:00
+sarvam,malayalam,malayalam_27.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,快 kabul ropri  Wizards Living Room Ariel Purifow 에도 Warren Of Jack,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:26.985782+00:00
+sarvam,malayalam,malayalam_28.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ 60 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Living Room Air Purifier 1L Fan Wagam 2 i Satji Garikyuga,1.0,0.8919,0.0,10.81,base,2026-03-05T11:22:28.481752+00:00
+sarvam,malayalam,malayalam_29.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് ഓൺ ചെയ്യുക।,எந்த கிடப்பும்முரில் எது ஓ்பக்கான நன்றும்து,1.0,0.9245,0.0,7.55,base,2026-03-05T11:22:30.465878+00:00
+sarvam,malayalam,malayalam_3.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ലെ ഫാൻ പവർ ഓഫ് ചെയ്യുക।,கிடப்புமுறையிலே Air Purifier 1 Night Mode Sajji Gharikuga,0.9,1.0,10.0,0.0,base,2026-03-05T11:22:32.241499+00:00
+sarvam,malayalam,malayalam_30.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ പവർ ഓൺ ചെയ്ത് വേഗം 4 ആയി സജ്ജീകരിക്കുക।,kiätzlich by default,1.0,0.9726,0.0,2.74,base,2026-03-05T11:22:40.182627+00:00
+sarvam,malayalam,malayalam_31.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 8 ആയി സജ്ജീകരിക്കുക।,கிடப்பும் ஒரு A-C-L-Tab-N-L-18 Degree Sudge G.,1.0,0.9322,0.0,6.78,base,2026-03-05T11:22:42.076157+00:00
+sarvam,malayalam,malayalam_32.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓഫ് ചെയ്യുക।,கடپுமுறையே செல்லும் பேல் மோடும் செய்யுங்கள்,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:45.411758+00:00
+sarvam,malayalam,malayalam_33.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓഫ് ചെയ്യുക।,Dining Rooming AC ON CHAYUGA,1.0,0.9,0.0,10.0,base,2026-03-05T11:22:47.098069+00:00
+sarvam,malayalam,malayalam_34.wav,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 2 ആയി സജ്ജീകരിക്കുക।,OPHIS AC2 ON CHEYUGA,1.0,0.9322,0.0,6.78,base,2026-03-05T11:22:48.795204+00:00
+sarvam,malayalam,malayalam_35.wav,എന്റെ കിടപ്പുമുറിയിൽ ഏത് ഉപകരണങ്ങളുണ്ട്?,குடะ پுமுறி ஏசிவில் dry mode saji gari kuga,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:50.947461+00:00
+sarvam,malayalam,malayalam_36.wav,കിടപ്പുമുറിയിൽ AC ഓൺ ചെയ്യുക।,கிரப்புமுறியே சீல் சிலிப் முடன் செய்யுக்கா.,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:53.250135+00:00
+sarvam,malayalam,malayalam_37.wav,കിടപ്പുമുറി AC ൽ താപനില 18 ഡിഗ്രിയായി സജ്ജീകരിക്കുക।,Kinnappamuri AC vertical swing sthanam 5Y Sanjee Gharikuga.,1.0,1.0,0.0,0.0,base,2026-03-05T11:22:54.696471+00:00
+sarvam,malayalam,malayalam_38.wav,കിടപ്പുമുറി AC ൽ ഡിസ്പ്ലേ മോഡ് ഓൺ ചെയ്യുക।,கிடபுமுடிய சிவளスکை ரைக்கலாம் யோகா.,1.0,0.9524,0.0,4.76,base,2026-03-05T11:22:58.387623+00:00
+sarvam,malayalam,malayalam_39.wav,ഡൈനിംഗ് റൂമിൽ AC ഓൺ ചെയ്യുക।,"Living Room AC2 onchaed, Adhimde Horsondal Swings Tannam 2i Satji Garikyuga.",1.0,1.0,0.0,0.0,base,2026-03-05T11:23:00.075319+00:00
+sarvam,malayalam,malayalam_4.wav,ഓഫീസ് AC 2 ഓൺ ചെയ്യുക।,"கடப்பும் ரிலே, ARPURIFARE 1-60-minutes switch off timer Satji Gharikuga",1.0,1.0,0.0,0.0,base,2026-03-05T11:23:01.771290+00:00
+sarvam,malayalam,malayalam_40.wav,കിടപ്പുമുറി AC ൽ ഡ്രൈ മോഡ് സജ്ജീകരിക്കുക।,Living room AC tool turbo mode ON.,1.0,0.878,0.0,12.2,base,2026-03-05T11:23:03.451078+00:00
+sarvam,malayalam,malayalam_41.wav,കിടപ്പുമുറി AC ൽ സ്ലീപ് മോഡ് ഓൺ ചെയ്യുക।,"கிடு பமری, Asiyil Chid Lok喔..",1.0,0.9,0.0,10.0,base,2026-03-05T11:23:13.496570+00:00
+sarvam,malayalam,malayalam_42.wav,കിടപ്പുമുറി AC ൽ വെർട്ടിക്കൽ സ്വിംഗ് സ്ഥാനം 5 ആയി സജ്ജീകരിക്കുക।,おfricp-ekl-fall- Guys ones 태為,1.0,0.9375,0.0,6.25,base,2026-03-05T11:23:22.803957+00:00
+sarvam,malayalam,malayalam_43.wav,കിടപ്പുമുറി AC ൽ സ്കൈ ഹൈ കളർ ഓൺ ചെയ്യുക।,Kiddapumuri ACville Horizontal Swing Auto Eye Satji Gharikuga,1.0,1.0,0.0,0.0,base,2026-03-05T11:23:24.517605+00:00
+sarvam,malayalam,malayalam_44.wav,ലിവിംഗ് റൂം AC 2 ഓൺ ചെയ്ത് അതിന്റെ ഹൊറിസോണ്ടൽ സ്വിംഗ് സ്ഥാനം 2 ആയി സജ്ജീകരിക്കുക।,Living Room AC Tool Taabonal 30 Digly Eye Satji Garecu Gha,0.9231,0.8765,7.69,12.35,base,2026-03-05T11:23:27.555961+00:00
+sarvam,malayalam,malayalam_45.wav,ലിവിംഗ് റൂം AC 2 ൽ ടർബോ മോഡ് ഓൺ ചെയ്യുക।,よaflower Xiao,1.0,0.95,0.0,5.0,base,2026-03-05T11:23:38.899481+00:00
+sarvam,malayalam,malayalam_46.wav,കിടപ്പുമുറി AC ൽ ചൈൽഡ് ലോക്ക് ഓൺ ചെയ്യുക।,யோ گரும் AC Vanniel Humicon Mode On Chaeyuga,1.0,0.9512,0.0,4.88,base,2026-03-05T11:23:40.681638+00:00
+sarvam,malayalam,malayalam_47.wav,ഓഫീസ് AC 2 ൽ ഫാൻ വേഗം ഹൈ ആയി സജ്ജീകരിക്കുക।,கிடپும்uri asil child log mode off chaigyu ga,1.0,0.9535,0.0,4.65,base,2026-03-05T11:23:42.080882+00:00
+sarvam,malayalam,malayalam_48.wav,കിടപ്പുമുറി AC ൽ ഹൊറിസോണ്ടൽ സ്വിംഗ് ഓട്ടോ ആയി സജ്ജീകരിക്കുക।,கடப்பும்முறி AC-VIL க்கோ மோடும் ஓன் ராஞ்சையுங்கள்,1.0,0.9167,0.0,8.33,base,2026-03-05T11:23:44.072325+00:00
+sarvam,malayalam,malayalam_49.wav,ലിവിംഗ് റൂം AC 2 ൽ താപനില 30 ഡിഗ്രിയായി സജ്ജീകരിക്കുക।,கடப்போமுறையைசி வில்லையிட்டின்று நின்சி்டிலோயை சட்டிக்கொருக்குக்கா.,1.0,1.0,0.0,0.0,base,2026-03-05T11:23:46.634437+00:00
+sarvam,malayalam,malayalam_5.wav,യോഗ റൂം AC 1 ഓൺ ചെയ്ത് അതിന്റെ സ്വിച്ച് ഓഫ് ടൈമർ 20 മിനിറ്റായി സജ്ജീകരിക്കുക।,Kinnapumuraya Air Purifier 1 Ring LED Pradesham 40i Sajji Gharikyu Goa,0.9231,0.9351,7.69,6.49,base,2026-03-05T11:23:48.257900+00:00
+sarvam,malayalam,malayalam_50.wav,യോഗ റൂം AC 1 ൽ ഹ്യൂമികോൺ മോഡ് ഓൺ ചെയ്യുക।,கிடப்பு முறியைசி்டு ஓன் ஜேகுகா,1.0,0.9268,0.0,7.32,base,2026-03-05T11:23:49.973362+00:00
+sarvam,malayalam,malayalam_51.wav,കിടപ്പുമുറി AC ൽ ചൈൽഡ് ലോക്ക് മോഡ് ഓഫ് ചെയ്യുക।,Kiddapumuri AC Tool Vertical Swings Stanam IV IUM Horizontal Swings Stanam III IUM Sajji Gharikuka,1.0,1.0,0.0,0.0,base,2026-03-05T11:23:52.052711+00:00
+sarvam,malayalam,malayalam_52.wav,കിടപ്പുമുറി AC ൽ ഇക്കോ മോഡ് ഓൺ ചെയ്യുക।,கிடப்பும் முறி AC-TWILL Ikko mode on,1.0,0.9231,0.0,7.69,base,2026-03-05T11:23:55.358942+00:00
+sarvam,malayalam,malayalam_53.wav,കിടപ്പുമുറി AC ൽ ലൈറ്റ് ഇന്റൻസിറ്റി ലോ ആയി സജ്ജീകരിക്കുക।,Kedapumuri AC-2L fanwagam medium eye saji gari kyuga,1.0,0.9298,0.0,7.02,base,2026-03-05T11:23:57.084476+00:00
+elevenlabs,malayalam,malayalam_0.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,கடப்பு முரிலே Air Purifier 1 on-tiga.,1.0,0.8837,0.0,11.63,base,2026-03-05T11:23:58.554598+00:00
+elevenlabs,malayalam,malayalam_1.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ബസർ നിയന്ത്രണം ഓൺ ചെയ്യുക।,கடப்பு முரியிலே Air Purifier 1-1-L Bussard Neendranam ON-CHEYUGA,1.0,0.9833,0.0,1.67,base,2026-03-05T11:24:00.372990+00:00
+elevenlabs,malayalam,malayalam_10.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 4 ആയി സജ്ജീകരിക്കുക।,Dining Room Air Purifier 1-0-TIGA,1.0,0.9365,0.0,6.35,base,2026-03-05T11:24:01.910984+00:00
+elevenlabs,malayalam,malayalam_11.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് സജ്ജീകരിക്കുക।,دائنگروم Air Purifier 1-LRING LED Pragasham LED Pragasham LED Pragasham,1.0,1.0,0.0,0.0,base,2026-03-05T11:24:03.781944+00:00
+elevenlabs,malayalam,malayalam_12.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ 60 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Dining Room Air Purifier 1-0 heat power ON-C,1.0,0.8974,0.0,10.26,base,2026-03-05T11:24:05.158632+00:00
+elevenlabs,malayalam,malayalam_13.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 40 ആയി സജ്ജീകരിക്കുക।,دائنگ روم ایر پیوریفیر 1 لیل نیٹھ موڈ سجی گریکیگہ,1.0,0.88,0.0,12.0,base,2026-03-05T11:24:06.969265+00:00
+elevenlabs,malayalam,malayalam_14.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ ടർബോ മോഡ് ഓൺ ചെയ്ത് ബസർ നിയന്ത്രണം ഓഫ് ചെയ്യുക।,"Dining Room Air Purifier 1-L, No T-N-Badam Minute Switch of Timer Satji Giri Kyu.",1.0,0.9383,0.0,6.17,base,2026-03-05T11:24:08.935220+00:00
+elevenlabs,malayalam,malayalam_15.mp3,കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ൽ 720 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,தائنگرும் ஏற்று பிரிவும் ஒன்னில் பாசர் நியந்திரனம் அன்றித்துக்கொள்ள,1.0,0.9367,0.0,6.33,base,2026-03-05T11:24:11.339549+00:00
+elevenlabs,malayalam,malayalam_16.mp3,ഡൈനിംഗ് റൂമിൽ എയർ പ്യൂരിഫയർ ഓൺ ചെയ്യുക।,"ேண்டு பிறுவ்றி வாண்ணில் ksiத்திற கேண்டு காண்டிவர்களாக பிரைக்கு எல்லாத் தயவு தேவ KPPHவன், வான் வேகம் முனுயிறசெடிருக்கிறிpectு.",1.0,1.0,0.0,0.0,base,2026-03-05T11:24:23.428563+00:00
+elevenlabs,malayalam,malayalam_17.mp3,എന്റെ കിടപ്പുമുറിയിലെ എയർ പ്യൂരിഫയർ 1 ന്റെ നില എന്താണ്?,Dyning Room Air Purifier 1 On Cheiga,0.875,0.8909,12.5,10.91,base,2026-03-05T11:24:24.730728+00:00
+elevenlabs,malayalam,malayalam_18.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,دائنگرும் Air Purifier 1L Ring LED Pragasham இருண்ணும் ராய் சஷ்கிரிக்குக்கா.,1.0,1.0,0.0,0.0,base,2026-03-05T11:24:26.832710+00:00
+elevenlabs,malayalam,malayalam_19.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 70 ആയി സജ്ജീകരിക്കുക।,"Dining Room Air Purifier Noorill, No 10-10 Minute Switch of timer, Sajji Garikyuga",1.0,1.0,0.0,0.0,base,2026-03-05T11:24:28.561551+00:00
+elevenlabs,malayalam,malayalam_2.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഹീറ്റർ പവർ ഓൺ ചെയ്യുക।,Kid of a Village air purifier 1 Mill fans wage 4 IOH,1.0,0.9423,0.0,5.77,base,2026-03-05T11:24:46.956701+00:00
+elevenlabs,malayalam,malayalam_20.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് സജ്ജീകരിക്കുക।,ஏக்கு வார் ஏக்கும் ஏக்கும்,1.0,0.9464,0.0,5.36,base,2026-03-05T11:24:54.278282+00:00
+elevenlabs,malayalam,malayalam_21.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ 180 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,"Leaving room Air Purifier 1-0, 30 minutes switch off timer Satji Giri Kuga.",1.0,0.9067,0.0,9.33,base,2026-03-05T11:24:56.029950+00:00
+elevenlabs,malayalam,malayalam_22.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ബസർ നിയന്ത്രണം ഓൺ ചെയ്യുക।,Living Room Air Pure Fair 1-Night Mode On Cheiga,1.0,0.875,0.0,12.5,base,2026-03-05T11:24:57.575037+00:00
+elevenlabs,malayalam,malayalam_23.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 3 ആയി സജ്ജീകരിക്കുക।,Living Room Air Purifier 1 LAY Fan Power Of Cheega,0.9091,0.8644,9.09,13.56,base,2026-03-05T11:24:59.084982+00:00
+elevenlabs,malayalam,malayalam_24.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,"لیوگرும் ஏற்பு ஏற்று ஒன்றில் FAN POWER ON CHEED, வேگம் நாலை சத்திக்கொருக்கும்",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:01.721873+00:00
+elevenlabs,malayalam,malayalam_25.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ റിംഗ് എൽഇഡി പ്രകാശം 200 ആയി സജ്ജീകരിക്കുക।,"Living Room Air Purifier 1-L, Fan Vagam 8-10-G.",1.0,0.9028,0.0,9.72,base,2026-03-05T11:25:03.192712+00:00
+elevenlabs,malayalam,malayalam_26.mp3,ഡൈനിംഗ് റൂം എയർ പ്യൂരിഫയർ 100 ൽ 180 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Living room Air Purifier 1.0.,1.0,0.9351,0.0,6.49,base,2026-03-05T11:25:04.437762+00:00
+elevenlabs,malayalam,malayalam_27.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓൺ ചെയ്യുക।,"ஏற்கு யோந்தில் ஒர் ஏற்கு வைத் தெண்ட மகிppaமின்று ஊம்பதனிக்கெய்குத் வைத்து பெறப்போஎர்ப் பெதை்சு வருந்தாக ஏற்குக்காகு, மிக்கர்ப் பெத்துற்ற நன்னால் பானல், சந்திவுAftervezையோுயfreください ஓஞ потерம் கணணffeக மதிடின்று ஓஞர்ப்படித்தால் வருப்பமிற்று",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:17.084829+00:00
+elevenlabs,malayalam,malayalam_28.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ 60 മിനിറ്റ് സ്വിച്ച് ഓഫ് ടൈമർ സജ്ജീകരിക്കുക।,Living Room Air Purifier 1-DL Fan Vegem 2-Eye Sajji Gherikyu,1.0,0.8919,0.0,10.81,base,2026-03-05T11:25:18.825217+00:00
+elevenlabs,malayalam,malayalam_29.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ നൈറ്റ് മോഡ് ഓൺ ചെയ്യുക।,எது உபகர் நங்களுடன்,1.0,0.9623,0.0,3.77,base,2026-03-05T11:25:20.178917+00:00
+elevenlabs,malayalam,malayalam_3.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ലെ ഫാൻ പവർ ഓഫ് ചെയ്യുക।,கிடپுமுரிலே Air Purifier 1- Night Mode Sajji Gherikyu Gha.,1.0,1.0,0.0,0.0,base,2026-03-05T11:25:21.862422+00:00
+elevenlabs,malayalam,malayalam_30.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ പവർ ഓൺ ചെയ്ത് വേഗം 4 ആയി സജ്ജീകരിക്കുക।,கடப்பு முரிலேல் AC ON CHIGA,1.0,0.9452,0.0,5.48,base,2026-03-05T11:25:23.455424+00:00
+elevenlabs,malayalam,malayalam_31.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 8 ആയി സജ്ജീകരിക്കുക।,,1.0,1.0,0.0,0.0,base,2026-03-05T11:25:25.469370+00:00
+elevenlabs,malayalam,malayalam_32.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓഫ് ചെയ്യുക।,கடப்பு முறியே சீர் DISPLAY MODE ON CHIGA,1.0,0.95,0.0,5.0,base,2026-03-05T11:25:28.629945+00:00
+elevenlabs,malayalam,malayalam_33.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ഓഫ് ചെയ്യുക।,Dyning Roomil AC ON CHIEG.,1.0,0.9,0.0,10.0,base,2026-03-05T11:25:30.263465+00:00
+elevenlabs,malayalam,malayalam_34.mp3,ലിവിംഗ് റൂം എയർ പ്യൂരിഫയർ 1 ൽ ഫാൻ വേഗം 2 ആയി സജ്ജീകരിക്കുക।,அvernz call user recording,1.0,0.9492,0.0,5.08,base,2026-03-05T11:25:47.861736+00:00
+elevenlabs,malayalam,malayalam_35.mp3,എന്റെ കിടപ്പുമുറിയിൽ ഏത് ഉപകരണങ്ങളുണ്ട്?,கிடப்பும் ஒரு A-seal Dry Mode Sajji Giri Kuga,1.0,1.0,0.0,0.0,base,2026-03-05T11:25:49.644686+00:00
+elevenlabs,malayalam,malayalam_36.mp3,കിടപ്പുമുറിയിൽ AC ഓൺ ചെയ്യുക।,"கடப்போகு முறி, A-SIL, SLEEP mode ON.",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:51.219365+00:00
+elevenlabs,malayalam,malayalam_37.mp3,കിടപ്പുമുറി AC ൽ താപനില 18 ഡിഗ്രിയായി സജ്ജീകരിക്കുക।,"கடப்போகு முறி A-Seal, Vertical Swings Tannam Anjai Satji Garikyuga.",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:53.127398+00:00
+elevenlabs,malayalam,malayalam_38.mp3,കിടപ്പുമുറി AC ൽ ഡിസ്പ്ലേ മോഡ് ഓൺ ചെയ്യുക।,"கடப்பு முறை, A-SIL Sky High Color On Cheega.",1.0,0.9286,0.0,7.14,base,2026-03-05T11:25:54.738337+00:00
+elevenlabs,malayalam,malayalam_39.mp3,ഡൈനിംഗ് റൂമിൽ AC ഓൺ ചെയ്യുക।,"Living Room AC 2 Onchita, அதின்டே Horesondle Swings Thaanam Tren Dai Sajji Gherikyu Gha.",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:56.648159+00:00
+elevenlabs,malayalam,malayalam_4.mp3,ഓഫീസ് AC 2 ഓൺ ചെയ്യുക।,"கடப்பு முறிலே AR purifier 1-0, 30-minutes switch off timer saji giri kyu ga.",1.0,1.0,0.0,0.0,base,2026-03-05T11:25:58.390453+00:00
+elevenlabs,malayalam,malayalam_40.mp3,കിടപ്പുമുറി AC ൽ ഡ്രൈ മോഡ് സജ്ജീകരിക്കുക।,867ے,1.0,1.0,0.0,0.0,base,2026-03-05T11:26:06.561347+00:00
+elevenlabs,malayalam,malayalam_41.mp3,കിടപ്പുമുറി AC ൽ സ്ലീപ് മോഡ് ഓൺ ചെയ്യുക।,"கடப்போமுறை, A-seal, Chile Lock-On Chiega",1.0,0.95,0.0,5.0,base,2026-03-05T11:26:08.343816+00:00
+elevenlabs,malayalam,malayalam_42.mp3,കിടപ്പുമുറി AC ൽ വെർട്ടിക്കൽ സ്വിംഗ് സ്ഥാനം 5 ആയി സജ്ജീകരിക്കുക।,"OB妈�, flight and facebook files and Featured scroll. Office AC Tools Aussie Foundation",1.0,1.0,0.0,0.0,base,2026-03-05T11:26:17.500723+00:00
+elevenlabs,malayalam,malayalam_43.mp3,കിടപ്പുമുറി AC ൽ സ്കൈ ഹൈ കളർ ഓൺ ചെയ്യുക।,"Kedapamuri A Seal, horizontal swing or toy Sajji Gedi Kuga.",1.0,1.0,0.0,0.0,base,2026-03-05T11:26:20.851926+00:00
+elevenlabs,malayalam,malayalam_44.mp3,ലിവിംഗ് റൂം AC 2 ഓൺ ചെയ്ത് അതിന്റെ ഹൊറിസോണ്ടൽ സ്വിംഗ് സ്ഥാനം 2 ആയി സജ്ജീകരിക്കുക।,"Living Room AC2 will, Taabanila, Muppadha Degree I, Satji Garikyuga.",1.0,0.8765,0.0,12.35,base,2026-03-05T11:26:22.453334+00:00
+elevenlabs,malayalam,malayalam_45.mp3,ലിവിംഗ് റൂം AC 2 ൽ ടർബോ മോഡ് ഓൺ ചെയ്യുക।,"யோ گரும் AC1 ONT, அதுந்து சுவித்துオフ்டாய் மருகிற்று 20 மினிட்டாய் சத்திகளிக்குக்கா.",1.0,1.0,0.0,0.0,base,2026-03-05T11:26:25.090943+00:00
+elevenlabs,malayalam,malayalam_46.mp3,കിടപ്പുമുറി AC ൽ ചൈൽഡ് ലോക്ക് ഓൺ ചെയ്യുക।,யோ گرும் ஆஞ்சி வந்துல் えுமிக்கான் ஓட்ஞ்சையிக்கா,1.0,1.0,0.0,0.0,base,2026-03-05T11:26:31.941788+00:00
+elevenlabs,malayalam,malayalam_47.mp3,ഓഫീസ് AC 2 ൽ ഫാൻ വേഗം ഹൈ ആയി സജ്ജീകരിക്കുക।,கடபہ முறை A-SIL CHILLOCK MODE OFF CHIG.,1.0,0.907,0.0,9.3,base,2026-03-05T11:26:33.423812+00:00
+elevenlabs,malayalam,malayalam_48.mp3,കിടപ്പുമുറി AC ൽ ഹൊറിസോണ്ടൽ സ്വിംഗ് ഓട്ടോ ആയി സജ്ജീകരിക്കുക।,"கடப்போமுறை, A-SIL, ECOMOD ON-JIG.",1.0,0.9333,0.0,6.67,base,2026-03-05T11:26:36.696695+00:00
+elevenlabs,malayalam,malayalam_49.mp3,ലിവിംഗ് റൂം AC 2 ൽ താപനില 30 ഡിഗ്രിയായി സജ്ജീകരിക്കുക।,"கடப்பு முறை A-seal, Light-Indensity-low-I-Sudgee-Gerikyu Gha.",1.0,1.0,0.0,0.0,base,2026-03-05T11:26:38.417786+00:00
+elevenlabs,malayalam,malayalam_5.mp3,യോഗ റൂം AC 1 ഓൺ ചെയ്ത് അതിന്റെ സ്വിച്ച് ഓഫ് ടൈമർ 20 മിനിറ്റായി സജ്ജീകരിക്കുക।,"கடப்போமுறிலே, Air Purifier 1-Lring LED Pragasham 40-Satji Gharikyuga.",1.0,0.9351,0.0,6.49,base,2026-03-05T11:26:40.247286+00:00
+elevenlabs,malayalam,malayalam_50.mp3,യോഗ റൂം AC 1 ൽ ഹ്യൂമികോൺ മോഡ് ഓൺ ചെയ്യുക।,கிடப்போகும் ஒரி AC2 on-chiga.,1.0,0.9268,0.0,7.32,base,2026-03-05T11:26:42.144655+00:00
+elevenlabs,malayalam,malayalam_51.mp3,കിടപ്പുമുറി AC ൽ ചൈൽഡ് ലോക്ക് മോഡ് ഓഫ് ചെയ്യുക।,கடப்புமுறை AC-Tool WordTical Swings Tannam 4 Ayu Horizontal Swings Tannam 3 Ayu Sajji Garikyu Gha,1.0,1.0,0.0,0.0,base,2026-03-05T11:26:44.189473+00:00
+elevenlabs,malayalam,malayalam_52.mp3,കിടപ്പുമുറി AC ൽ ഇക്കോ മോഡ് ഓൺ ചെയ്യുക।,கிடப்போக்கும் ஒரு ACTULLE இக்கோம் ஒல் OnTie UGA,1.0,1.0,0.0,0.0,base,2026-03-05T11:26:46.317149+00:00
+elevenlabs,malayalam,malayalam_53.mp3,കിടപ്പുമുറി AC ൽ ലൈറ്റ് ഇന്റൻസിറ്റി ലോ ആയി സജ്ജീകരിക്കുക।,"கடப்போகின் முறி, AC-Tool, FanVagam Media My Satji Gheri Kyuga.",1.0,1.0,0.0,0.0,base,2026-03-05T11:26:50.098774+00:00
+sarvam,tamil,tamil_0.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,படுக்கேரையே பிரிவேர் 1-1-1-1,1.0,0.6429,0.0,35.71,base,2026-03-05T11:26:52.085033+00:00
+sarvam,tamil,tamil_1.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் பஸ்சர் கட்டுப்பாட்டை இயக்கவும்.,படுக்கைக்கைக் காண்டு பாட்டையாக் காவும்,1.0,0.6154,0.0,38.46,base,2026-03-05T11:26:53.965858+00:00
+sarvam,tamil,tamil_10.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் வேகம் 4 அமைக்கவும்.,உன்னுடைய பிறிப்பாக வான் நான் இயக்கும்,1.0,0.6724,0.0,32.76,base,2026-03-05T11:26:55.659389+00:00
+sarvam,tamil,tamil_11.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு அமைக்கவும்.,உனம்மாக ஏற்பு ருப்புறிப் பிறகு ஒன்றும் ஒரு மிகவும்,1.0,0.7091,0.0,29.09,base,2026-03-05T11:26:57.805697+00:00
+sarvam,tamil,tamil_12.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் 60 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,உணவுரையும் பிரிவியார் வான் எல்லிர் பவரைய காவும்,1.0,0.6757,0.0,32.43,base,2026-03-05T11:27:05.521128+00:00
+sarvam,tamil,tamil_13.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 40 ஆக அமைக்கவும்.,உன்னவறையேட்டு விருப்பேறு வேறு வண்ணில் நினைத்மோடுமே கூன்று.,1.0,0.7467,0.0,25.33,base,2026-03-05T11:27:07.783182+00:00
+sarvam,tamil,tamil_14.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் டர்போ மோடு இயக்கி பஸ்சர் கட்டுப்பாட்டை அணைக்கவும்.,உனவரை ஏற்பிவிருப்பு ஒன்னில் 180 நிமிடம் சுற்றுவிட்டும் காமரையமிக்காம்.,1.0,0.7024,0.0,29.76,base,2026-03-05T11:27:10.048841+00:00
+sarvam,tamil,tamil_15.wav,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் 720 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,"உனவரை ஏற்பிறிப்பிறுவிற்று, இல் பசர் கட்டுப் பாட்டையக்குவும்.",0.9091,0.68,9.09,32.0,base,2026-03-05T11:27:12.270556+00:00
+sarvam,tamil,tamil_16.wav,உணவறையில் ஏர் ப்யூரிஃபையரை இயக்கவும்.,முனம்மாக ஏற்பிுரிப்பாய் இருந்து பான் வேகம் 3 மிக்கும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:27:14.599882+00:00
+sarvam,tamil,tamil_17.wav,என் படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இன் நிலை என்ன?,ஒன்றும் பிருகிற்று வானையே கவும்,1.0,0.7917,0.0,20.83,base,2026-03-05T11:27:16.488159+00:00
+sarvam,tamil,tamil_18.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,உன்னையிர் பிறியும் பிரியும் ஒன்றும் இழ்ரங்களிலியிட்டி பிறைத் தொர்ஷ்சின்றும் கொண்டுக்கும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:27:19.518707+00:00
+sarvam,tamil,tamil_19.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 70 அமைக்கவும்.,"ஒன்றுவிராயே பிருப்புருப் பார் 101,180 நிமிடம் சுற்றும் பார்மாக இருக்கிறேன்.",1.0,0.8358,0.0,16.42,base,2026-03-05T11:27:21.724642+00:00
+sarvam,tamil,tamil_2.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ஹீட்டர் பவரை இயக்கவும்.,படுக்கேன்றையே பிறிப்பிற்று 1-1-3-4-5,1.0,0.8846,0.0,11.54,base,2026-03-05T11:27:23.362995+00:00
+sarvam,tamil,tamil_20.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு அமைக்கவும்.,وசிப் பரையில் பிரிக்காக ஒன்று விருகிறேன்.,1.0,0.78,0.0,22.0,base,2026-03-05T11:27:26.827892+00:00
+sarvam,tamil,tamil_21.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் 180 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,வசிப் பிரையே பிரியும் 16 நிமிடுக்கும் சுவித்துவிடும் பிரியாமைக்கும்,1.0,0.6857,0.0,31.43,base,2026-03-05T11:27:34.523350+00:00
+sarvam,tamil,tamil_22.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் பஸ்சர் கட்டுப்பாட்டை இயக்கவும்.,வசிப்பரையே பிரிவிர் வணில்ணையில் நாட்ட மோடியக்கவும்,1.0,0.65,0.0,35.0,base,2026-03-05T11:27:36.544192+00:00
+sarvam,tamil,tamil_23.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் வேகம் 3 அமைக்கவும்.,வசிப் பரையேர் பிரிவேர் 1-10-Pavrayaனைக்கவும்,1.0,0.6792,0.0,32.08,base,2026-03-05T11:27:38.292643+00:00
+sarvam,tamil,tamil_24.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,வாசி பரையே பிறுவிருந்து பான் அவரையையைக்கு பான் வேகம் 4 மக்க வும்.,1.0,1.0,0.0,0.0,base,2026-03-05T11:27:40.509645+00:00
+sarvam,tamil,tamil_25.wav,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 200 ஆக அமைக்கவும்.,நிவிங்கிரும் ஏற்பிறிவிருவிருவும் 1-1-1-FAN-WIGATH-8-AGA MECOUNG,1.0,0.9155,0.0,8.45,base,2026-03-05T11:27:43.113067+00:00
+sarvam,tamil,tamil_26.wav,உணவறை ஏர் ப்யூரிஃபையர் 100 இல் 180 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,ஏன் கோம்புக் கொள்ளுக்கும் பிருவில்லையாக் கோம்புக் கொள்ளுக்கும்,1.0,0.7639,0.0,23.61,base,2026-03-05T11:27:47.404732+00:00
+sarvam,tamil,tamil_27.wav,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,نو வீங்கு ரோம் ஏப் பிருவு ரவன் நேயானே கவும்,1.0,0.8,0.0,20.0,base,2026-03-05T11:27:49.285919+00:00
+sarvam,tamil,tamil_28.wav,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் 60 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,வெங்கு ரோம் ஏற்பு ருப்பெயர் வான் வேக்கட்டை ரோமிக்கும்,1.0,0.6806,0.0,31.94,base,2026-03-05T11:28:02.763073+00:00
+sarvam,tamil,tamil_29.wav,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு இயக்கவும்.,இன்படுக்கு ஏறையும் என்ன சாதன் அங்கள் உள்ளேனா?,1.0,0.8269,0.0,17.31,base,2026-03-05T11:28:04.690019+00:00
+sarvam,tamil,tamil_3.wav,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இன் பேன் பவரை அணைக்கவும்.,படுக்கேர் ஏற்பிவிருப் பிரியும் 1-9 மோடுமே காவும்,1.0,0.7358,0.0,26.42,base,2026-03-05T11:28:06.593266+00:00
+sarvam,tamil,tamil_30.wav,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் பவரை இயக்கி பேன் வேகம் 4 அமைக்கவும்.,படுக்கேரில் சியாயான செய்யவும்,1.0,0.7945,0.0,20.55,base,2026-03-05T11:28:08.259455+00:00
+sarvam,tamil,tamil_31.wav,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 இல் ஃபேன் வேகத்தை 8 ஆக அமைக்கவும்.,படுக்கையாக ஏசியில் வெப்பனல் 18்குகிறாக அமைக்கவும்,1.0,0.6308,0.0,36.92,base,2026-03-05T11:28:10.455572+00:00
+sarvam,tamil,tamil_32.wav,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 ஐ அணைக்கவும்.,படுக்கையாக ஏசியில் திஷ்பில் மோடு அன்சையவும்,1.0,0.75,0.0,25.0,base,2026-03-05T11:28:12.526303+00:00
+sarvam,tamil,tamil_33.wav,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 ஐ அணைக்கவும்.,கைணிரும் மிகவும் ஏசியாயான் செய்யவும்,1.0,0.7045,0.0,29.55,base,2026-03-05T11:28:14.600110+00:00
+sarvam,tamil,tamil_34.wav,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 இல் ஃபேன் வேகத்தை 2 ஆக அமைக்கவும்.,அப்பிசெய்து செய்து பிட்டுக்கொள்ளாக இருக்கிறேன்.,1.0,0.7692,0.0,23.08,base,2026-03-05T11:28:22.324760+00:00
+sarvam,tamil,tamil_35.wav,என் படுக்கையறையில் என்ன சாதனங்கள் உள்ளன?,"படுக்கையில் ஏறை, ஏசியில் திரை மோடு அமைக்கவும்.",1.0,0.85,0.0,15.0,base,2026-03-05T11:28:24.435816+00:00
+sarvam,tamil,tamil_36.wav,படுக்கையறையில் AC ஐ ஆன் செய்யவும்.,படுக்கையாக ஏய் சில் சிலிப் மொடு அன்சையவும்,1.0,0.6765,0.0,32.35,base,2026-03-05T11:28:26.355096+00:00
+sarvam,tamil,tamil_37.wav,படுக்கையறை AC இல் வெப்பநிலையை 18 டிகிரியாக அமைக்கவும்.,படுக்கையில் ஏசியில் வெடிக்கல் சுவிங்களை 5 வாக அமைக்காவும்,1.0,0.5556,0.0,44.44,base,2026-03-05T11:28:28.745315+00:00
+sarvam,tamil,tamil_38.wav,படுக்கையறை AC இல் டிஸ்ப்ளே மோடு ஆன் செய்யவும்.,படுக்கேறு ஏ சிலில் சகையாக் கலர் அன்சையவும்,1.0,0.587,0.0,41.3,base,2026-03-05T11:28:30.899307+00:00
+sarvam,tamil,tamil_39.wav,டைனிங் ரூமில் AC ஐ ஆன் செய்யவும்.,ஏான் செய்து அதன் பாரி சொன்னில் சுங்களை ஏற்று அவர் அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:28:33.119536+00:00
+sarvam,tamil,tamil_4.wav,ஆபிஸ் AC 2 ஐ ஆன் செய்யவும்.,"படுக்கேரے ஏற்பிறிப்புறிப்புறையும் 1,16-3, பிறிப்புறையும் பிறிப்புறையும் மிக்கவும்",1.0,1.0,0.0,0.0,base,2026-03-05T11:28:35.829170+00:00
+sarvam,tamil,tamil_40.wav,படுக்கையறை AC இல் டிரை மோடு அமைக்கவும்.,Living room AC 211 L Mint,1.0,0.8718,0.0,12.82,base,2026-03-05T11:28:49.575103+00:00
+sarvam,tamil,tamil_41.wav,படுக்கையறை AC இல் ஸ்லீப் மோடு ஆன் செய்யவும்.,படுக்கேரையே சீயில் செய்தலாகக் கான் செய்யவும்,1.0,0.5,0.0,50.0,base,2026-03-05T11:28:51.589074+00:00
+sarvam,tamil,tamil_42.wav,படுக்கையறை AC இல் வெர்டிக்கல் ஸ்விங் நிலை 5 ஆக அமைக்கவும்.,Ω aún تو நடகுப் பார்ந்தழுதேoffsாக் கூபல்லத்தில்லை14,1.0,0.8621,0.0,13.79,base,2026-03-05T11:28:59.249699+00:00
+sarvam,tamil,tamil_43.wav,படுக்கையறை AC இல் ஸ்கை ஹை கலர் ஆன் செய்யவும்.,"படுக்கையாக ஏசி, இல்லாக யாரி சொன்னல் சுங்காட்டோ ஆகாமைக் காவும்.",1.0,0.8222,0.0,17.78,base,2026-03-05T11:29:01.371915+00:00
+sarvam,tamil,tamil_44.wav,லிவிங் ரூம் AC 2 ஐ ஆன் செய்து அதன் ஹாரிசொண்டல் ஸ்விங் நிலை 2 ஆக அமைக்கவும்.,Living room Shi 2 Ici 13 Degree,0.9286,0.92,7.14,8.0,base,2026-03-05T11:29:19.651942+00:00
+sarvam,tamil,tamil_45.wav,லிவிங் ரூம் AC 2 இல் டர்போ மோடு ஆன் செய்யவும்.,யோகாரும் AC1IAN செய்து அதன் SWITCHOFT TINATE 20 நிமிடமாக அமைக்க வுண்டு.,1.0,1.0,0.0,0.0,base,2026-03-05T11:29:21.995957+00:00
+sarvam,tamil,tamil_46.wav,படுக்கையறை AC இல் சைல்ட் லாக் ஆன் செய்யவும்.,யோகரும் ஏசிவனில் ஊமிகான முடு அன்சையவும்,1.0,0.6818,0.0,31.82,base,2026-03-05T11:29:23.822005+00:00
+sarvam,tamil,tamil_47.wav,ஆபிஸ் AC 2 இல் ஃபேன் வேகத்தை ஹை ஆக அமைக்கவும்.,படுக்கையாக ஏ சில் செல்லாக மொடு வாவ செய்யவும்,1.0,0.7609,0.0,23.91,base,2026-03-05T11:29:25.685316+00:00
+sarvam,tamil,tamil_48.wav,படுக்கையறை AC இல் ஹாரிசொண்டல் ஸ்விங் ஆட்டோ ஆக அமைக்கவும்.,படுக்காக ஏசில்லிக்கும் முடன் செய்வும்,1.0,0.6491,0.0,35.09,base,2026-03-05T11:29:27.646276+00:00
+sarvam,tamil,tamil_49.wav,லிவிங் ரூம் AC 2 இல் வெப்பநிலையை 30 டிகிரியாக அமைக்கவும்.,"படக்கையாக ஏசி, இல்லையிட்ணன் செடிலோ ஆகாமைக் காவும்",1.0,0.7018,0.0,29.82,base,2026-03-05T11:29:29.526445+00:00
+sarvam,tamil,tamil_5.wav,யோகா ரூம் AC 1 ஐ ஆன் செய்து அதன் ஸ்விட்ச் ஆஃப் டைமரை 20 நிமிடமாக அமைக்கவும்.,படுக்காய் ஏற்புறிப் பிறிப்பாக ஒன்றில் லிடி பிறக்ணாஸ் போட்டியாக மக்க்கும்,1.0,0.7632,0.0,23.68,base,2026-03-05T11:29:43.679125+00:00
+sarvam,tamil,tamil_50.wav,யோகா ரூம் AC 1 இல் ஹியூமிகான் மோடு ஆன் செய்யவும்.,படுக்கேரையே சிட்டுவை ஆன் செய்யவும்,0.8889,0.6327,11.11,36.73,base,2026-03-05T11:29:45.427281+00:00
+sarvam,tamil,tamil_51.wav,படுக்கையறை AC இல் சைல்ட் லாக் மோடு ஆஃப் செய்யவும்.,படுக்கையை ஏசி்டுவில் வெடிக்கல் சுவிங்களை 4 அகவும் அரி சண்டல் சுவிங்களை 3 அகவும் மமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:29:48.355087+00:00
+sarvam,tamil,tamil_52.wav,படுக்கையறை AC இல் ஈகோ மோடு ஆன் செய்யவும்.,படுக்கேறையே சிப்பட்டுவில் இக்கோ மோடு அன்சையும்,0.8571,0.6098,14.29,39.02,base,2026-03-05T11:29:50.387253+00:00
+sarvam,tamil,tamil_53.wav,படுக்கையறை AC இல் லைட் இன்டென்சிட்டி லோ ஆக அமைக்கவும்.,"படுக்கேரா AC 2-0 fan, வேகத்தை மிடியமாக மிகவும்",0.875,0.5926,12.5,40.74,base,2026-03-05T11:29:59.457345+00:00
+elevenlabs,tamil,tamil_0.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,படுக்கையாக ஏற்பியும் ஒன்னையே கவும்,1.0,0.5,0.0,50.0,base,2026-03-05T11:30:01.486057+00:00
+elevenlabs,tamil,tamil_1.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் பஸ்சர் கட்டுப்பாட்டை இயக்கவும்.,படுக்கையாக் ஏற்பியும் ஓனில் பாசர் கட்டுப்பாட்டையக் கவும்,1.0,0.3538,0.0,64.62,base,2026-03-05T11:30:03.869891+00:00
+elevenlabs,tamil,tamil_10.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் வேகம் 4 அமைக்கவும்.,ஒன்று வரையே பிறிவியர் One IEI Kavum.,1.0,0.7931,0.0,20.69,base,2026-03-05T11:30:05.908483+00:00
+elevenlabs,tamil,tamil_11.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு அமைக்கவும்.,உன்னும் வரை ஏற்பியும் ஓன்னில் ரிங் LED Brightness ஏறிபது அமைக்கவும்,1.0,0.8182,0.0,18.18,base,2026-03-05T11:30:09.704801+00:00
+elevenlabs,tamil,tamil_12.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் 60 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,உனக்கு வரை யார் பியும் ஓன்னில் ஏற்று பாரையைக் கவும்,1.0,0.6486,0.0,35.14,base,2026-03-05T11:30:12.881525+00:00
+elevenlabs,tamil,tamil_13.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 40 ஆக அமைக்கவும்.,உனக்கு வரையிர் பிறிப்புறியும் ஒன்னில் Night Mode அமைக்கவும்,1.0,0.64,0.0,36.0,base,2026-03-05T11:30:16.072358+00:00
+elevenlabs,tamil,tamil_14.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் டர்போ மோடு இயக்கி பஸ்சர் கட்டுப்பாட்டை அணைக்கவும்.,ஒன்று வரை ஏற்பியும் பிறிவியாக ஒன்னில் நோத்தின் இன்பதனிமிடு Switch of Time-Rai அமைக்கவும்,1.0,0.7976,0.0,20.24,base,2026-03-05T11:30:21.063015+00:00
+elevenlabs,tamil,tamil_15.mp3,படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இல் 720 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,உனக்கு வரையிர் பிரியும் ஒன்று யில் பார்த்தையையைக்குவம்.,1.0,0.6533,0.0,34.67,base,2026-03-05T11:30:25.433830+00:00
+elevenlabs,tamil,tamil_16.mp3,உணவறையில் ஏர் ப்யூரிஃபையரை இயக்கவும்.,உனவரை யார் பிறிப்பயற்ற ஒன்றில் தான் வேகம் மூன்று அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:30:28.990858+00:00
+elevenlabs,tamil,tamil_17.mp3,என் படுக்கையறை ஏர் ப்யூரிஃபையர் 1 இன் நிலை என்ன?,உன வரையேர் பியும் இருக்கும்,1.0,0.7292,0.0,27.08,base,2026-03-05T11:30:37.868486+00:00
+elevenlabs,tamil,tamil_18.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,"உன வரையே பیورிப்பயற் 1-0,ரிங்,லிடிப் பிரியத்து இரணுட்டுது அக்கா அமைக்கவும்.",1.0,1.0,0.0,0.0,base,2026-03-05T11:30:43.626263+00:00
+elevenlabs,tamil,tamil_19.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 70 அமைக்கவும்.,உனக்கு வரை ஏற்பியும் பிரியும் நூரியில் நோட்டி எண்பதனிமிடு சுவ்விட்டும் நிறுவிட்டும் நிறுவிட்டும் அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:30:49.132326+00:00
+elevenlabs,tamil,tamil_2.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ஹீட்டர் பவரை இயக்கவும்.,படக்கையை ஏற்பியும் ஒன்னில் வேகம் நாள்கள் அமைக்கவும்,1.0,0.6923,0.0,30.77,base,2026-03-05T11:30:51.822061+00:00
+elevenlabs,tamil,tamil_20.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு அமைக்கவும்.,வாசிப் பரையே பிவிவிட்டில் ஒன்னையையக்கவும்,1.0,0.68,0.0,32.0,base,2026-03-05T11:30:54.435543+00:00
+elevenlabs,tamil,tamil_21.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் 180 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,மசிப்பாரை ஏற்பியும் பிறிவியாக ஒன்னில் அருப்பது நிமிடம் சுவ்விட்டாய் மரை அமைக்கவும்,1.0,0.7,0.0,30.0,base,2026-03-05T11:30:57.948251+00:00
+elevenlabs,tamil,tamil_22.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் பஸ்சர் கட்டுப்பாட்டை இயக்கவும்.,بசிப்பரையேர் பிறிவிர் ஒன்றியில் Night Mode YAKAVUM.,1.0,0.8167,0.0,18.33,base,2026-03-05T11:31:00.261507+00:00
+elevenlabs,tamil,tamil_23.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் வேகம் 3 அமைக்கவும்.,"பாசிப் பரை, Air Purifier 1 in BAN POWERY ANEKKAMUM.",1.0,0.8491,0.0,15.09,base,2026-03-05T11:31:02.579404+00:00
+elevenlabs,tamil,tamil_24.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,வசிப்பரை யார் பிறிப்பாய் ஒன்றில் பான் பாவிரையைக்கின் பான் வேகம் நார் அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:31:06.046953+00:00
+elevenlabs,tamil,tamil_25.mp3,உணவறை ஏர் ப்யூரிஃபையர் 1 இல் ரிங் எல்இடி பிரைட்ட்னஸ் 200 ஆக அமைக்கவும்.,Living Room Year Purifier 1-0 fanwagatthai Yattagamikavum,1.0,0.9296,0.0,7.04,base,2026-03-05T11:31:07.908453+00:00
+elevenlabs,tamil,tamil_26.mp3,உணவறை ஏர் ப்யூரிஃபையர் 100 இல் 180 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,Living Room Year Purifier 1 I Anekavum,1.0,0.9167,0.0,8.33,base,2026-03-05T11:31:09.542124+00:00
+elevenlabs,tamil,tamil_27.mp3,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 ஐ இயக்கவும்.,ஏற்று பியோர் ஒன்னை அனைக்கவும்,1.0,0.625,0.0,37.5,base,2026-03-05T11:31:11.448885+00:00
+elevenlabs,tamil,tamil_28.mp3,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் 60 நிமிட ஸ்விட்ச் ஆஃப் டைமரை அமைக்கவும்.,"Living Room Air Purifier 1 NIL, Fan Wégathay, இரண்டாக அமைக்கவும்.",0.9091,0.7222,9.09,27.78,base,2026-03-05T11:31:13.748007+00:00
+elevenlabs,tamil,tamil_29.mp3,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் நைட் மோடு இயக்கவும்.,என் படக்கையாக் கில் என்ன சாதனங்கள் உள்ளனும்,1.0,0.7885,0.0,21.15,base,2026-03-05T11:31:15.867081+00:00
+elevenlabs,tamil,tamil_3.mp3,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இன் பேன் பவரை அணைக்கவும்.,படக்கையிரை ஏற்பிவிருவன்னில் நில்ணை மோட அமைக்கவும்,1.0,0.6604,0.0,33.96,base,2026-03-05T11:31:18.456580+00:00
+elevenlabs,tamil,tamil_30.mp3,வசிப்பறை ஏர் ப்யூரிஃபையர் 1 இல் பேன் பவரை இயக்கி பேன் வேகம் 4 அமைக்கவும்.,படுக்கையிரையில ACI ONCEYIVUM,1.0,0.863,0.0,13.7,base,2026-03-05T11:31:20.349857+00:00
+elevenlabs,tamil,tamil_31.mp3,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 இல் ஃபேன் வேகத்தை 8 ஆக அமைக்கவும்.,"படுக்கையிரை A-C-L, WEP-PED-18-DIGERY-A-MIC-CABOOM.",1.0,0.9231,0.0,7.69,base,2026-03-05T11:31:22.776647+00:00
+elevenlabs,tamil,tamil_32.mp3,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 ஐ அணைக்கவும்.,"படக்கையிரை A-C-L, D-Splay Mode On-Sayabum.",1.0,0.9318,0.0,6.82,base,2026-03-05T11:31:24.930003+00:00
+elevenlabs,tamil,tamil_33.mp3,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 ஐ அணைக்கவும்.,Δ Dieser ر bracket werden ஒ shrimp விடворfu விடיל பிட்ட வேCI場Pathing Nope.,1.0,1.0,0.0,0.0,base,2026-03-05T11:31:42.443138+00:00
+elevenlabs,tamil,tamil_34.mp3,லிவிங் ரூம் ஏர் ப்யூரிஃபையர் 1 இல் ஃபேன் வேகத்தை 2 ஆக அமைக்கவும்.,iénேfitாக そத்திருந்துப் பிடித்தேன் மாக்திற்கு வகத்துக்கொளியெடுவும்,1.0,0.7846,0.0,21.54,base,2026-03-05T11:31:56.976747+00:00
+elevenlabs,tamil,tamil_35.mp3,என் படுக்கையறையில் என்ன சாதனங்கள் உள்ளன?,படக்கையை ஏ சில் dry மோடு அமைக்கவும்,1.0,0.75,0.0,25.0,base,2026-03-05T11:31:59.100676+00:00
+elevenlabs,tamil,tamil_36.mp3,படுக்கையறையில் AC ஐ ஆன் செய்யவும்.,படுக்கையிரை A-seal Sleep Mode On.,1.0,0.6471,0.0,35.29,base,2026-03-05T11:32:00.853822+00:00
+elevenlabs,tamil,tamil_37.mp3,படுக்கையறை AC இல் வெப்பநிலையை 18 டிகிரியாக அமைக்கவும்.,"படுக்கையிரை ACL, வாட்டிக்கல் சுவிங்களை அந்த அக்காமைக்கவும்",1.0,0.6111,0.0,38.89,base,2026-03-05T11:32:03.578189+00:00
+elevenlabs,tamil,tamil_38.mp3,படுக்கையறை AC இல் டிஸ்ப்ளே மோடு ஆன் செய்யவும்.,படக்கையிரை A-seal Sky High Color On Siyabu.,1.0,0.7174,0.0,28.26,base,2026-03-05T11:32:05.552786+00:00
+elevenlabs,tamil,tamil_39.mp3,டைனிங் ரூமில் AC ஐ ஆன் செய்யவும்.,"Living Room AC 2 I Onside, அதன Horiesondle Swing Nilae 20 Aga Amikavum",1.0,1.0,0.0,0.0,base,2026-03-05T11:32:07.672881+00:00
+elevenlabs,tamil,tamil_4.mp3,ஆபிஸ் AC 2 ஐ ஆன் செய்யவும்.,படக்கையை ஏற்பியும் ஓன்னில் அர்பதனிமேடையும் சுவ்வுடன் பிறகுத்தான் மறைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:32:11.264149+00:00
+elevenlabs,tamil,tamil_40.mp3,படுக்கையறை AC இல் டிரை மோடு அமைக்கவும்.,L Unterschied KELLforce B,1.0,0.9231,0.0,7.69,base,2026-03-05T11:32:21.449025+00:00
+elevenlabs,tamil,tamil_41.mp3,படுக்கையறை AC இல் ஸ்லீப் மோடு ஆன் செய்யவும்.,"படக்கையிரை A-C-L, Chyl-Lock on-Sayevum.",1.0,0.7273,0.0,27.27,base,2026-03-05T11:32:23.594694+00:00
+elevenlabs,tamil,tamil_42.mp3,படுக்கையறை AC இல் வெர்டிக்கல் ஸ்விங் நிலை 5 ஆக அமைக்கவும்.,அவள் ஆக்கும் வார்ந்துக்கொள்ளுக்கும் வேகத்தையாக அமைக்குவம்.,1.0,0.6724,0.0,32.76,base,2026-03-05T11:32:26.347372+00:00
+elevenlabs,tamil,tamil_43.mp3,படுக்கையறை AC இல் ஸ்கை ஹை கலர் ஆன் செய்யவும்.,படுக்கையிரையே சீயில் Hori Sondalswing auto-agga amikavu.,1.0,0.8889,0.0,11.11,base,2026-03-05T11:32:28.585541+00:00
+elevenlabs,tamil,tamil_44.mp3,லிவிங் ரூம் AC 2 ஐ ஆன் செய்து அதன் ஹாரிசொண்டல் ஸ்விங் நிலை 2 ஆக அமைக்கவும்.,levnym a-c2 ile Waipani Ley معическойкers ப running 9 bird aison,1.0,0.8933,0.0,10.67,base,2026-03-05T11:32:39.180691+00:00
+elevenlabs,tamil,tamil_45.mp3,லிவிங் ரூம் AC 2 இல் டர்போ மோடு ஆன் செய்யவும்.,யோகா ஓம் AC1N onSaidhu அதன் свich off-time-ray 20 நிமிடமாக அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:32:41.885006+00:00
+elevenlabs,tamil,tamil_46.mp3,படுக்கையறை AC இல் சைல்ட் லாக் ஆன் செய்யவும்.,யோகாரும் AC1NIL HUMICON MODE ONCEYIVUM,1.0,0.8636,0.0,13.64,base,2026-03-05T11:32:44.059033+00:00
+elevenlabs,tamil,tamil_47.mp3,ஆபிஸ் AC 2 இல் ஃபேன் வேகத்தை ஹை ஆக அமைக்கவும்.,"படுக்கையிரை, ஏ செய்லாக மோட்டு அவசையவும்.",1.0,0.7609,0.0,23.91,base,2026-03-05T11:32:46.407521+00:00
+elevenlabs,tamil,tamil_48.mp3,படுக்கையறை AC இல் ஹாரிசொண்டல் ஸ்விங் ஆட்டோ ஆக அமைக்கவும்.,படுக்கையிரையே செயல் இங்குமோடு அன்சையவும்,1.0,0.614,0.0,38.6,base,2026-03-05T11:32:48.771319+00:00
+elevenlabs,tamil,tamil_49.mp3,லிவிங் ரூம் AC 2 இல் வெப்பநிலையை 30 டிகிரியாக அமைக்கவும்.,படுக்கையிரை ACL Light Intensity Low Aga Amikavum,1.0,0.8947,0.0,10.53,base,2026-03-05T11:32:50.673895+00:00
+elevenlabs,tamil,tamil_5.mp3,யோகா ரூம் AC 1 ஐ ஆன் செய்து அதன் ஸ்விட்ச் ஆஃப் டைமரை 20 நிமிடமாக அமைக்கவும்.,படுக்கையிரை ஏற்பியும் பிறிவிர் 1-0-RING L.E.D. Brightness 40-Yaga AMI-Kavum,1.0,0.9474,0.0,5.26,base,2026-03-05T11:32:53.608856+00:00
+elevenlabs,tamil,tamil_50.mp3,யோகா ரூம் AC 1 இல் ஹியூமிகான் மோடு ஆன் செய்யவும்.,படக்கையிரை AC2I ONCE EVUM,1.0,0.8776,0.0,12.24,base,2026-03-05T11:32:55.380740+00:00
+elevenlabs,tamil,tamil_51.mp3,படுக்கையறை AC இல் சைல்ட் லாக் மோடு ஆஃப் செய்யவும்.,படக்கையாக ஏசி இரண்டியில விற்றிக்கல ச் வீங்களை நாராகவும் வாருஷோண்டுல ச் வீங்களை மூன்றாகவும் அமைக்கவும்,1.0,1.0,0.0,0.0,base,2026-03-05T11:32:59.480220+00:00
+elevenlabs,tamil,tamil_52.mp3,படுக்கையறை AC இல் ஈகோ மோடு ஆன் செய்யவும்.,படக்கையிரை AC இரண்டில இங்கோ மோடு அன்சையவும்,0.7143,0.4146,28.57,58.54,base,2026-03-05T11:33:01.739002+00:00
+elevenlabs,tamil,tamil_53.mp3,படுக்கையறை AC இல் லைட் இன்டென்சிட்டி லோ ஆக அமைக்கவும்.,படுக்கையிரை AC இரண்டில் FAN வேதத்தை மீடியமாக அமைக்கவும்,0.875,0.5,12.5,50.0,base,2026-03-05T11:33:04.392030+00:00
+sarvam,telugu,telugu_0.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,picadali tek食ar Sawat,1.0,0.9512,0.0,4.88,base,2026-03-05T11:33:20.777468+00:00
+sarvam,telugu,telugu_1.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో బజర్ నియంత్రణను ఆన్ చేయండి।,P darkagidhi yeyyyoh purruithoer one lobuzor ne entranu болin,1.0,1.0,0.0,0.0,base,2026-03-05T11:33:32.215757+00:00
+sarvam,telugu,telugu_10.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగాన్ని 4 గా సెట్ చేయండి।,Dining Room Air Purifier 1NO ONCH ENDE,1.0,0.9048,0.0,9.52,base,2026-03-05T11:33:33.979857+00:00
+sarvam,telugu,telugu_11.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ సెట్ చేయండి।,Dining Room Air Purify 1 Loring LED Procarsham 77.,1.0,0.9038,0.0,9.62,base,2026-03-05T11:33:35.621277+00:00
+sarvam,telugu,telugu_12.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో 60 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Dining Room Air Purifier 1-No heater power-on-chain.,1.0,0.9286,0.0,7.14,base,2026-03-05T11:33:37.312571+00:00
+sarvam,telugu,telugu_13.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 40 గా సెట్ చేయండి।,Dining Room Air Purify 10 Night Mode Set Chayendi,1.0,0.8841,0.0,11.59,base,2026-03-05T11:33:39.048538+00:00
+sarvam,telugu,telugu_14.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో టర్బో మోడ్ ఆన్ చేసి బజర్ నియంత్రణ ఆఫ్ చేయండి।,Digning room aid purifair 1 low 120 Unbelievable switch of timer SetKND,1.0,0.92,0.0,8.0,base,2026-03-05T11:33:50.043459+00:00
+sarvam,telugu,telugu_15.wav,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో 720 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Dining room air purifier 1mm Bazaar niyantra na anche endi.,1.0,0.9014,0.0,9.86,base,2026-03-05T11:33:52.123904+00:00
+sarvam,telugu,telugu_16.wav,డైనింగ్ రూమ్ లో ఎయిర్ ప్యూరిఫైయర్ ఆన్ చేయండి।,Dining Room 8 Purifier 1 Lough Fan Vegam 3 7 Chendi,1.0,1.0,0.0,0.0,base,2026-03-05T11:33:53.826915+00:00
+sarvam,telugu,telugu_17.wav,నా పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 స్థితి ఏమిటి?,Dining Room Air Pure Fair 1 No Unchainedi,1.0,0.907,0.0,9.3,base,2026-03-05T11:33:58.564226+00:00
+sarvam,telugu,telugu_18.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Dining Room i Purifier 1 Low Ring LDD Procarsham 200 Set Chain D.,1.0,1.0,0.0,0.0,base,2026-03-05T11:34:00.385468+00:00
+sarvam,telugu,telugu_19.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 70 సెట్ చేయండి।,Dining Room Air Purifier 100 Lowe 180 Nm switch off Time Set Chayandi.,1.0,0.9306,0.0,6.94,base,2026-03-05T11:34:02.328796+00:00
+sarvam,telugu,telugu_2.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో హీటర్ పవర్ ఆన్ చేయండి।,پڑکگدی ایر پیری فیر one low fan vegan 4 ga set chaendi.,1.0,0.8793,0.0,12.07,base,2026-03-05T11:34:06.214338+00:00
+sarvam,telugu,telugu_20.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ సెట్ చేయండి।,Living room 8 purifier 1 no on chain.,0.9,0.8621,10.0,13.79,base,2026-03-05T11:34:07.983309+00:00
+sarvam,telugu,telugu_21.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో 180 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Living room air purifier 1 low 16 emishala switch of timer set chandy.,0.9231,0.8442,7.69,15.58,base,2026-03-05T11:34:09.837510+00:00
+sarvam,telugu,telugu_22.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో బజర్ నియంత్రణ ఆన్ చేయండి।,"aderships,vacation &",1.0,0.9836,0.0,1.64,base,2026-03-05T11:34:32.568464+00:00
+sarvam,telugu,telugu_23.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 3 సెట్ చేయండి।,Leving Room Air Purifier 1 の Fiann Power Of Chain,0.9091,0.8387,9.09,16.13,base,2026-03-05T11:34:34.278518+00:00
+sarvam,telugu,telugu_24.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Living Room 8 Purifier 1 Love Fan Power & Jessie Wagon 4 Set Chandy.,1.0,1.0,0.0,0.0,base,2026-03-05T11:34:36.149436+00:00
+sarvam,telugu,telugu_25.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 200 సెట్ చేయండి।,Living room air purifier 1 low fan wagum 8 gas at chain D,1.0,0.8493,0.0,15.07,base,2026-03-05T11:34:37.900364+00:00
+sarvam,telugu,telugu_26.wav,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 100 లో 180 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Living room air purifier 1 off chain day,1.0,0.8987,0.0,10.13,base,2026-03-05T11:34:39.581396+00:00
+sarvam,telugu,telugu_27.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Living Room 8 Purifier 1-0-0-0.,1.0,0.8936,0.0,10.64,base,2026-03-05T11:34:48.963901+00:00
+sarvam,telugu,telugu_28.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో 60 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Living room air purifier 1 low fan vegum 2 ga set chnb,0.9231,0.8421,7.69,15.79,base,2026-03-05T11:34:50.863022+00:00
+sarvam,telugu,telugu_29.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ ఆన్ చేయండి।,na padakadilo e parikaralu unnai,1.0,0.9298,0.0,7.02,base,2026-03-05T11:34:54.372991+00:00
+sarvam,telugu,telugu_3.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ పవర్ ఆఫ్ చేయండి।,Padakadhi Air Purifier 1-0 Night Mode Set Chained,1.0,0.8644,0.0,13.56,base,2026-03-05T11:34:56.083134+00:00
+sarvam,telugu,telugu_30.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ పవర్ ఆన్ చేసి వేగం 4 సెట్ చేయండి।,すごい懸 Cal,1.0,0.9868,0.0,1.32,base,2026-03-05T11:35:17.770575+00:00
+sarvam,telugu,telugu_31.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 8 గా సెట్ చేయండి।,Pannakadadi EUCiendo O được Modulation 17rik zeppçyi,1.0,0.9231,0.0,7.69,base,2026-03-05T11:35:29.182478+00:00
+sarvam,telugu,telugu_32.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆఫ్ చేయండి।,Padakadhi AC LOW DISPLAY MOAD ON CHENDY,1.0,0.8936,0.0,10.64,base,2026-03-05T11:35:32.572574+00:00
+sarvam,telugu,telugu_33.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆఫ్ చేయండి।,DAY Carnage Jump,1.0,0.9574,0.0,4.26,base,2026-03-05T11:35:41.705286+00:00
+sarvam,telugu,telugu_34.wav,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 2 గా సెట్ చేయండి।,wiehu miru,1.0,0.9846,0.0,1.54,base,2026-03-05T11:35:56.384204+00:00
+sarvam,telugu,telugu_35.wav,నా పడకగదిలో ఏ పరికరాలు ఉన్నాయి?,Pardakaddami asilo Dry M come outweapon,1.0,1.0,0.0,0.0,base,2026-03-05T11:36:05.735045+00:00
+sarvam,telugu,telugu_36.wav,పడకగదిలో AC ను ఆన్ చేయండి।,Pudakadhi asilu sleep mode on chendi.,1.0,1.0,0.0,0.0,base,2026-03-05T11:36:07.313858+00:00
+sarvam,telugu,telugu_37.wav,పడకగది AC లో ఉష్ణోగ్రత 18 డిగ్రీలకు సెట్ చేయండి।,Konu,1.0,1.0,0.0,0.0,base,2026-03-05T11:36:17.590580+00:00
+sarvam,telugu,telugu_38.wav,పడకగది AC లో డిస్‌ప్లే మోడ్ ఆన్ చేయండి।,Pudakawati ACLo Skai hai kalaran creaks!,1.0,0.9487,0.0,5.13,base,2026-03-05T11:36:27.717987+00:00
+sarvam,telugu,telugu_39.wav,డైనింగ్ రూమ్ లో AC ను ఆన్ చేయండి।,"لیوماÿÿھ رومی ہے سی ٹھ quyacement کروں کو creatures 我們 have dressed up wearing falter designed suit及 tone with<|sd|>ی suchen strap for a human beauty,",1.0,1.0,0.0,0.0,base,2026-03-05T11:36:58.787766+00:00
+sarvam,telugu,telugu_4.wav,ఆఫీస్ AC 2 ను ఆన్ చేయండి।,Padaqa Gadi Air Purifier 1.16 Emishala Switch Off Timerset Chainedi.,1.0,1.0,0.0,0.0,base,2026-03-05T11:37:00.697419+00:00
+sarvam,telugu,telugu_40.wav,పడకగది AC లో డ్రై మోడ్ సెట్ చేయండి।,LAY,1.0,0.9714,0.0,2.86,base,2026-03-05T11:37:16.262098+00:00
+sarvam,telugu,telugu_41.wav,పడకగది AC లో స్లీప్ మోడ్ ఆన్ చేయండి।,P najlep sa kela nare and aika,1.0,0.8611,0.0,13.89,base,2026-03-05T11:37:25.570618+00:00
+sarvam,telugu,telugu_42.wav,పడకగది AC లో వెర్టికల్ స్వింగ్ ను స్థానం 5 కు సెట్ చేయండి।,"uffy接 Simms Set為 4,2KR 5,000kR Wheygrh SEP אז",1.0,0.8966,0.0,10.34,base,2026-03-05T11:37:43.381740+00:00
+sarvam,telugu,telugu_43.wav,పడకగది AC లో స్కై హై కలర్ ఆన్ చేయండి।,Padaqadhi AC low horizontal swing no auto ga set chae indi.,1.0,1.0,0.0,0.0,base,2026-03-05T11:37:45.107543+00:00
+sarvam,telugu,telugu_44.wav,లివింగ్ రూమ్ AC 2 ను ఆన్ చేసి దాని హారిజాంటల్ స్వింగ్ ను స్థానం 2 కు సెట్ చేయండి।,Living room ai si roll chi chi dour tk 30 degrees,1.0,0.8642,0.0,13.58,base,2026-03-05T11:38:02.055724+00:00
+sarvam,telugu,telugu_45.wav,లివింగ్ రూమ్ AC 2 లో టర్బో మోడ్ ఆన్ చేయండి।,shyhoyoarba batterya,1.0,0.9535,0.0,4.65,base,2026-03-05T11:38:32.406933+00:00
+sarvam,telugu,telugu_46.wav,పడకగది AC లో చైల్డ్ లాక్ ఆన్ చేయండి।,căngă use tâunu roagul Advanceme,1.0,0.9167,0.0,8.33,base,2026-03-05T11:39:08.648414+00:00
+sarvam,telugu,telugu_47.wav,ఆఫీస్ AC 2 లో ఫ్యాన్ వేగం హై గా సెట్ చేయండి।,کہٹہboxingتے جے گھیکوองٹな ق Gefühl textbooks...,1.0,0.9773,0.0,2.27,base,2026-03-05T11:39:18.285835+00:00
+sarvam,telugu,telugu_48.wav,పడకగది AC లో హారిజాంటల్ స్వింగ్ ను ఆటోగా సెట్ చేయండి।,پڑا گதی اسی لو ایک کو موڑ آن چینڈی,1.0,0.8679,0.0,13.21,base,2026-03-05T11:39:24.917914+00:00
+sarvam,telugu,telugu_49.wav,లివింగ్ రూమ్ AC 2 లో ఉష్ణోగ్రత 30 డిగ్రీలకు సెట్ చేయండి।,Pada Kavadi AC Low Light Intensity Loga SETCH A&B,0.9,0.8929,10.0,10.71,base,2026-03-05T11:39:26.708701+00:00
+sarvam,telugu,telugu_5.wav,యోగ రూమ్ AC 1 ను ఆన్ చేసి దాని స్విచ్ ఆఫ్ టైమర్ ను 20 నిమిషాలకు సెట్ చేయండి।,Padaqadadi Air Purifier 1-L0-LAD Procarsham 40-Ga SETCHE,1.0,0.9079,0.0,9.21,base,2026-03-05T11:39:30.416139+00:00
+sarvam,telugu,telugu_50.wav,యోగ రూమ్ AC 1 లో హ్యూమికాన్ మోడ్ ఆన్ చేయండి।,Shahあたきを手上に輕かくしてお時間は当たり続く複数の底側に揉む,1.0,0.9773,0.0,2.27,base,2026-03-05T11:39:53.002736+00:00
+sarvam,telugu,telugu_51.wav,పడకగది AC లో చైల్డ్ లాక్ మోడ్ ఆఫ్ చేయండి।,"Pudakadhi AC-2Low Vetical Swing Nustanam 4ku, Mariu Harizantal Swing Nustanam 3ku Setchei & E.",1.0,1.0,0.0,0.0,base,2026-03-05T11:39:55.465850+00:00
+sarvam,telugu,telugu_52.wav,పడకగది AC లో ఈకో మోడ్ ఆన్ చేయండి।,پڑکதی ایسی ٹولو ایکوں موڑانچے ہیں,1.0,0.9394,0.0,6.06,base,2026-03-05T11:39:57.298202+00:00
+sarvam,telugu,telugu_53.wav,పడకగది AC లో లైట్ ఇన్‌టెన్సిటీ లో గా సెట్ చేయండి।,Patakadhi AC 2 LOVE Fan Vega Medium has hitよし,0.8889,0.898,11.11,10.2,base,2026-03-05T11:40:07.305053+00:00
+elevenlabs,telugu,telugu_0.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,پڑکہ گதی ایر پیوریفائر 1 نو on-chain-D,1.0,0.878,0.0,12.2,base,2026-03-05T11:40:09.346053+00:00
+elevenlabs,telugu,telugu_1.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో బజర్ నియంత్రణను ఆన్ చేయండి।,پڑکதہ دی ایر پیوریفائر 1 لو بجرنی انترا ننو اون چینڈی,1.0,0.8772,0.0,12.28,base,2026-03-05T11:40:18.370045+00:00
+elevenlabs,telugu,telugu_10.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగాన్ని 4 గా సెట్ చేయండి।,Dining Room Air Purifier 1nu ON CHENDE,1.0,0.9048,0.0,9.52,base,2026-03-05T11:40:19.956627+00:00
+elevenlabs,telugu,telugu_11.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ సెట్ చేయండి।,Dining Room Air Purifier 1 Lone Ring LED Prakasm 77.,1.0,0.9038,0.0,9.62,base,2026-03-05T11:40:21.651622+00:00
+elevenlabs,telugu,telugu_12.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో 60 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Dining Room Air Purifier 1 Low Heat Up Power On Chained,1.0,0.8714,0.0,12.86,base,2026-03-05T11:40:23.254174+00:00
+elevenlabs,telugu,telugu_13.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 40 గా సెట్ చేయండి।,Dining Room Air Purifier 1 Low Night Mod Set Chained,1.0,0.8841,0.0,11.59,base,2026-03-05T11:40:24.769633+00:00
+elevenlabs,telugu,telugu_14.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో టర్బో మోడ్ ఆన్ చేసి బజర్ నియంత్రణ ఆఫ్ చేయండి।,"Dining Room Air Purifier 1 Lough, No Taira Venimshala Switch Off Timers at Chendi.",1.0,0.9733,0.0,2.67,base,2026-03-05T11:40:26.796441+00:00
+elevenlabs,telugu,telugu_15.mp3,పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 లో 720 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,"Dining Room Air Purify 1 Low, Bajur Neentrana On Chainedi",1.0,0.8732,0.0,12.68,base,2026-03-05T11:40:28.412060+00:00
+elevenlabs,telugu,telugu_16.mp3,డైనింగ్ రూమ్ లో ఎయిర్ ప్యూరిఫైయర్ ఆన్ చేయండి।,Dining Room 8 purified 1 lough fan veigam muru setche indi,1.0,1.0,0.0,0.0,base,2026-03-05T11:40:31.882497+00:00
+elevenlabs,telugu,telugu_17.mp3,నా పడకగది ఎయిర్ ప్యూరిఫైయర్ 1 స్థితి ఏమిటి?,Dining Room Air Purify 1nu ON CHENDY,1.0,0.8837,0.0,11.63,base,2026-03-05T11:40:33.483162+00:00
+elevenlabs,telugu,telugu_18.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Dining Room Air Purifier 1 Low Ring LED Precasum 200 Set Chain D,1.0,1.0,0.0,0.0,base,2026-03-05T11:40:35.135217+00:00
+elevenlabs,telugu,telugu_19.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 70 సెట్ చేయండి।,Dining Room 8 PURFIRE 100 LOW NOTA ABE NIMSHALA SWITCH OFF TIMEER SETCHEENDY,1.0,0.9722,0.0,2.78,base,2026-03-05T11:40:39.376437+00:00
+elevenlabs,telugu,telugu_2.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో హీటర్ పవర్ ఆన్ చేయండి।,படکதی ایر پیوریفائر one low fan veigani naluku gha satcha indi,1.0,1.0,0.0,0.0,base,2026-03-05T11:40:41.538251+00:00
+elevenlabs,telugu,telugu_20.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ సెట్ చేయండి।,Living Room 8 PURIFIRE 1 NOO ON CHANDY,0.9,0.8621,10.0,13.79,base,2026-03-05T11:40:43.128705+00:00
+elevenlabs,telugu,telugu_21.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో 180 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Laving Room Air Purifier 1 LOW 16 Emshala Switch of Timer Set Chained,0.9231,0.8312,7.69,16.88,base,2026-03-05T11:40:44.849900+00:00
+elevenlabs,telugu,telugu_22.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో బజర్ నియంత్రణ ఆన్ చేయండి।,Living Room A Purifier 1 Low Night Mode On Chained,0.9,0.8689,10.0,13.11,base,2026-03-05T11:40:46.558954+00:00
+elevenlabs,telugu,telugu_23.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 3 సెట్ చేయండి।,Living room Air Purifier 1 Low fan power off chain,0.9091,0.8548,9.09,14.52,base,2026-03-05T11:40:48.146163+00:00
+elevenlabs,telugu,telugu_24.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Living Room A Purifier 1 Lone Fan Power On Chasey Végum 4 SETCHANDI,1.0,1.0,0.0,0.0,base,2026-03-05T11:40:50.215375+00:00
+elevenlabs,telugu,telugu_25.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో రింగ్ ఎల్ఈడి ప్రకాశం 200 సెట్ చేయండి।,"…llaving rooms & air purify 1 low responders, fan ve amps & 8 G würss a relax institute per video ... …",1.0,1.0,0.0,0.0,base,2026-03-05T11:41:00.392969+00:00
+elevenlabs,telugu,telugu_26.mp3,డైనింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 100 లో 180 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,Living Room L Purify 1nu Of Chandi,1.0,0.9114,0.0,8.86,base,2026-03-05T11:41:02.046464+00:00
+elevenlabs,telugu,telugu_27.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆన్ చేయండి।,Living room air purified one new off chain day,1.0,0.9362,0.0,6.38,base,2026-03-05T11:41:03.515764+00:00
+elevenlabs,telugu,telugu_28.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో 60 నిమిషాల స్విచ్ ఆఫ్ టైమర్ సెట్ చేయండి।,"NIVING ROOM AIR PURIFIRE ONE LOW, FAN VEGAM RUNDUGA SETCHE INDI.",1.0,0.8947,0.0,10.53,base,2026-03-05T11:41:05.462081+00:00
+elevenlabs,telugu,telugu_29.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో నైట్ మోడ్ ఆన్ చేయండి।,நாம پڑکக்கத் திலும் ஏ பருக்கராலும் நாய்,1.0,0.9123,0.0,8.77,base,2026-03-05T11:41:07.617437+00:00
+elevenlabs,telugu,telugu_3.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ పవర్ ఆఫ్ చేయండి।,پرکகதی ایر پیریفائر 1 LOW NIGHT MOAT SET CHENDY,0.9,0.8644,10.0,13.56,base,2026-03-05T11:41:09.508779+00:00
+elevenlabs,telugu,telugu_30.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ పవర్ ఆన్ చేసి వేగం 4 సెట్ చేయండి।,பரکதلو ایسینو اونچینڈی,1.0,0.9737,0.0,2.63,base,2026-03-05T11:41:16.057689+00:00
+elevenlabs,telugu,telugu_31.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 8 గా సెట్ చేయండి।,57°C CM 501°C희,1.0,0.9538,0.0,4.62,base,2026-03-05T11:41:39.601002+00:00
+elevenlabs,telugu,telugu_32.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆఫ్ చేయండి।,படகத்து ஏசிலோ DISPLAY mode ON CHENDY,1.0,0.8936,0.0,10.64,base,2026-03-05T11:41:45.173573+00:00
+elevenlabs,telugu,telugu_33.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 ను ఆఫ్ చేయండి।,4-4 wrong,1.0,0.9787,0.0,2.13,base,2026-03-05T11:41:54.074548+00:00
+elevenlabs,telugu,telugu_34.mp3,లివింగ్ రూమ్ ఎయిర్ ప్యూరిఫైయర్ 1 లో ఫ్యాన్ వేగం 2 గా సెట్ చేయండి।,آراfle Different colour,1.0,0.9692,0.0,3.08,base,2026-03-05T11:42:03.258726+00:00
+elevenlabs,telugu,telugu_35.mp3,నా పడకగదిలో ఏ పరికరాలు ఉన్నాయి?,پرکگதی اسیلو dry mode سے چینڈی,1.0,0.9355,0.0,6.45,base,2026-03-05T11:42:08.289714+00:00
+elevenlabs,telugu,telugu_36.mp3,పడకగదిలో AC ను ఆన్ చేయండి।,Padaqadadi AC low sleep mode on chain,1.0,1.0,0.0,0.0,base,2026-03-05T11:42:09.878763+00:00
+elevenlabs,telugu,telugu_37.mp3,పడకగది AC లో ఉష్ణోగ్రత 18 డిగ్రీలకు సెట్ చేయండి।,"پرکہ گதی, ایسیلوں, ویٹکلسوگنوں, سطانم آیدگو ستچے ہیںڈی.",1.0,1.0,0.0,0.0,base,2026-03-05T11:42:12.328262+00:00
+elevenlabs,telugu,telugu_38.mp3,పడకగది AC లో డిస్‌ప్లే మోడ్ ఆన్ చేయండి।,پر going to these clothes they look like style shooting,1.0,1.0,0.0,0.0,base,2026-03-05T11:42:28.857714+00:00
+elevenlabs,telugu,telugu_39.mp3,డైనింగ్ రూమ్ లో AC ను ఆన్ చేయండి।,2011ers CH rooftop � ihr,1.0,0.8788,0.0,12.12,base,2026-03-05T11:42:47.209331+00:00
+elevenlabs,telugu,telugu_4.mp3,ఆఫీస్ AC 2 ను ఆన్ చేయండి।,پڑکதہ دی ایر پیوریفائر ہندھلوں 16 امشالہ سوچ آف ٹیمہ سچے انڈی,1.0,1.0,0.0,0.0,base,2026-03-05T11:42:51.755399+00:00
+elevenlabs,telugu,telugu_40.mp3,పడకగది AC లో డ్రై మోడ్ సెట్ చేయండి।,"Living Room AC 2 Low, Turbo Mode On Chandy",1.0,1.0,0.0,0.0,base,2026-03-05T11:42:53.477603+00:00
+elevenlabs,telugu,telugu_41.mp3,పడకగది AC లో స్లీప్ మోడ్ ఆన్ చేయండి।,Parakagadhi A.C.L.O. Chill Lock On Chained,1.0,1.0,0.0,0.0,base,2026-03-05T11:42:55.496908+00:00
+elevenlabs,telugu,telugu_42.mp3,పడకగది AC లో వెర్టికల్ స్వింగ్ ను స్థానం 5 కు సెట్ చేయండి।,ھا فیس ایسی تولو فانویگم ہیگر سے چینڈی,1.0,0.8793,0.0,12.07,base,2026-03-05T11:43:14.134136+00:00
+elevenlabs,telugu,telugu_43.mp3,పడకగది AC లో స్కై హై కలర్ ఆన్ చేయండి।,"پڑکہ گதی اسیلو, ہوریزانٹلスピングنو اوٹوگہ سچے انڈی",1.0,1.0,0.0,0.0,base,2026-03-05T11:43:16.580441+00:00
+elevenlabs,telugu,telugu_44.mp3,లివింగ్ రూమ్ AC 2 ను ఆన్ చేసి దాని హారిజాంటల్ స్వింగ్ ను స్థానం 2 కు సెట్ చేయండి।,Living room AC'TULO och None inmates stands for 70°C,1.0,0.8765,0.0,12.35,base,2026-03-05T11:43:39.717301+00:00
+elevenlabs,telugu,telugu_45.mp3,లివింగ్ రూమ్ AC 2 లో టర్బో మోడ్ ఆన్ చేయండి।,Yoga Room AC1NO ON CHECK段 è SWITCH OFF TIME dış 2021<|hi|>,1.0,1.0,0.0,0.0,base,2026-03-05T11:43:54.204764+00:00
+elevenlabs,telugu,telugu_46.mp3,పడకగది AC లో చైల్డ్ లాక్ ఆన్ చేయండి।,"Yoga Room AC-1 Low, Humicon Mode On Chandy",1.0,1.0,0.0,0.0,base,2026-03-05T11:43:55.826434+00:00
+elevenlabs,telugu,telugu_47.mp3,ఆఫీస్ AC 2 లో ఫ్యాన్ వేగం హై గా సెట్ చేయండి।,Padakagathi egy simale CHILLOCK mode off change,1.0,0.9545,0.0,4.55,base,2026-03-05T11:44:06.274314+00:00
+elevenlabs,telugu,telugu_48.mp3,పడకగది AC లో హారిజాంటల్ స్వింగ్ ను ఆటోగా సెట్ చేయండి।,Konkண p味ogad a gebe,1.0,0.9434,0.0,5.66,base,2026-03-05T11:44:16.510331+00:00
+elevenlabs,telugu,telugu_49.mp3,లివింగ్ రూమ్ AC 2 లో ఉష్ణోగ్రత 30 డిగ్రీలకు సెట్ చేయండి।,"پارکதுதி, ACLO, LIGHT INTENSITELOGA SETCHE INDI",1.0,0.9107,0.0,8.93,base,2026-03-05T11:44:18.572721+00:00
+elevenlabs,telugu,telugu_5.mp3,యోగ రూమ్ AC 1 ను ఆన్ చేసి దాని స్విచ్ ఆఫ్ టైమర్ ను 20 నిమిషాలకు సెట్ చేయండి।,einge알Neopéithi musi Þa,1.0,0.9737,0.0,2.63,base,2026-03-05T11:44:30.467884+00:00
+elevenlabs,telugu,telugu_50.mp3,యోగ రూమ్ AC 1 లో హ్యూమికాన్ మోడ్ ఆన్ చేయండి।,15 귓 hungry,1.0,0.9318,0.0,6.82,base,2026-03-05T11:44:59.006663+00:00
+elevenlabs,telugu,telugu_51.mp3,పడకగది AC లో చైల్డ్ లాక్ మోడ్ ఆఫ్ చేయండి।,"پڑکதہதے ھئیسی ٹுلوں, ویٹکلٹسپینگنوں,ستانم نالکو, مریو, ہیریزنٹلٹسپینگنوں,ستانمورکو ستچینڈی.",1.0,1.0,0.0,0.0,base,2026-03-05T11:45:02.768937+00:00
+elevenlabs,telugu,telugu_52.mp3,పడకగది AC లో ఈకో మోడ్ ఆన్ చేయండి।,پрев கதviewதே A-c–2 loppfaplace oranges,1.0,1.0,0.0,0.0,base,2026-03-05T11:45:13.102076+00:00
+elevenlabs,telugu,telugu_53.mp3,పడకగది AC లో లైట్ ఇన్‌టెన్సిటీ లో గా సెట్ చేయండి।,"پرکத்துதி, AC-Tool-O, Fan-Vegam, Medium-Gaset Chendi",1.0,0.9796,0.0,2.04,base,2026-03-05T11:45:15.346693+00:00
+sarvam,english,english_0.wav,Turn on bedroom air purifier 1.,"Turn on bedroom here, Purify 1.",0.3333,0.2258,66.67,77.42,base,2026-03-05T11:45:17.125198+00:00
+sarvam,english,english_1.wav,Turn on buzzer control in bedroom air purifier 1.,Turn on buzzer control in bedroom air purifier 1.,0.0,0.0,100.0,100.0,base,2026-03-05T11:45:18.743282+00:00
+sarvam,english,english_10.wav,Set fan speed 4 in bedroom air purifier 1.,Turn on Dining Room Air Purifier 1.,0.6667,0.381,33.33,61.9,base,2026-03-05T11:45:20.510978+00:00
+sarvam,english,english_100.wav,Set night mode in bedroom air purifier 1.,Turn on the study AC1 and set fan speed high in kitchen AC2.,1.0,1.0,0.0,0.0,base,2026-03-05T11:45:22.145404+00:00
+sarvam,english,english_101.wav,Set switch off timer 60 minutes in bedroom air purifier 1.,Turn on EcoMode in Study AC1.,0.9091,0.7414,9.09,25.86,base,2026-03-05T11:45:23.572983+00:00
+sarvam,english,english_102.wav,Set ring led brightness to 40 in bedroom air purifier 1.,turn on living room AC1 and set its vertical swing to down 3.,1.0,0.875,0.0,12.5,base,2026-03-05T11:45:25.204350+00:00
+sarvam,english,english_103.wav,Turn on turbo mode and turn off buzzer control in bedroom air purifier 1.,Set switch on timer to 123 minutes in living room AC1.,0.9286,0.726,7.14,27.4,base,2026-03-05T11:45:26.770150+00:00
+sarvam,english,english_104.wav,Set switch off timer 720 minutes in bedroom air purifier 1.,Turn on silent mode in living room AC1.,0.9091,0.6949,9.09,30.51,base,2026-03-05T11:45:28.222859+00:00
+sarvam,english,english_105.wav,Turn on the air purifier in dining room.,Turn on Yoga room AC1 and set it to 17 degrees with vertical swings set to position 4.,1.0,1.0,0.0,0.0,base,2026-03-05T11:45:30.017262+00:00
+sarvam,english,english_106.wav,What is the status of my bedroom air purifier 1?,Set moonlight to unfalling yoga room AC1.,1.0,0.7917,0.0,20.83,base,2026-03-05T11:45:31.734579+00:00
+sarvam,english,english_107.wav,Turn on dining room air purifier 1.,Turn on Child Lock Mode in Yoga Room AC1.,1.0,0.7143,0.0,28.57,base,2026-03-05T11:45:33.386288+00:00
+sarvam,english,english_108.wav,Set ring led brightness 70 in dining room air purifier 1.,Set switch on timer 2 minutes in Yoga room AC1.,0.8182,0.6842,18.18,31.58,base,2026-03-05T11:45:34.904322+00:00
+sarvam,english,english_109.wav,Turn on heater power in dining room air purifier 1.,Turn off Yoga Rume Siwan.,0.9,0.7255,10.0,27.45,base,2026-03-05T11:45:36.510137+00:00
+sarvam,english,english_11.wav,Set night mode in dining room air purifier 1.,Setring Late Brightness 17 inch Dining Room ARP-5-1,0.8889,0.6889,11.11,31.11,base,2026-03-05T11:45:38.218791+00:00
+sarvam,english,english_110.wav,Set switch off timer 180 minutes in dining room air purifier 1.,German dining room is C1.,0.8333,0.6667,16.67,33.33,base,2026-03-05T11:45:39.621194+00:00
+sarvam,english,english_111.wav,Turn on buzzer control in dining room air purifier 1.,Turn on living room AC2 and set its fan speed to high.,1.0,0.7358,0.0,26.42,base,2026-03-05T11:45:41.216322+00:00
+sarvam,english,english_112.wav,Set fan speed 3 in dining room air purifier 1.,Turn on Eco Mode in Living Room AC2.,0.8,0.6304,20.0,36.96,base,2026-03-05T11:45:42.786271+00:00
+sarvam,english,english_113.wav,Turn on dining room air purifier 1.,Turn on Sleep mode in Living Room AC2,0.8571,0.6571,14.29,34.29,base,2026-03-05T11:45:44.212129+00:00
+sarvam,english,english_114.wav,Set ring led brightness to 200 in dining room air purifier 1.,Turn on Turbo Mode in Living Room AC2 and Turn on Bedroom AC1.,1.0,0.7049,0.0,29.51,base,2026-03-05T11:45:45.753774+00:00
+sarvam,english,english_115.wav,Set switch off timer 180 minutes in dining room air purifier 100.,Turn on the chimney and kitchen.,1.0,0.7385,0.0,26.15,base,2026-03-05T11:45:47.303579+00:00
+sarvam,english,english_116.wav,Turn on the living room air purifier 1.,Turn on the AC in the office and set it to dry mode.,1.0,0.7692,0.0,23.08,base,2026-03-05T11:45:49.080174+00:00
+sarvam,english,english_117.wav,Set switch off timer 60 minutes in living room air purifier 1.,Sit the office AC-1 to auto mode.,1.0,0.7258,0.0,27.42,base,2026-03-05T11:45:50.522124+00:00
+sarvam,english,english_118.wav,Turn on night mode in the living room air purifier 1.,Set vertical swing to position 1 inch of AC1.,1.0,0.7547,0.0,24.53,base,2026-03-05T11:45:52.107148+00:00
+sarvam,english,english_119.wav,Turn off fan power of the living room air purifier 1.,Set fan speed low in Office AC1.,0.9091,0.717,9.09,28.3,base,2026-03-05T11:45:53.649488+00:00
+sarvam,english,english_12.wav,Turn on fan power and set fan speed 4 in living room air purifier 1.,Turn on heater power in dining room airp5r1.,0.6667,0.5,33.33,50.0,base,2026-03-05T11:45:55.246397+00:00
+sarvam,english,english_120.wav,Set fan speed 8 in living room air purifier 1.,Turn on all the ACs in Kits room and set moonlight to balance in Kits room AC1 and set temperature 22 degrees in Kits room AC2.,1.0,1.0,0.0,0.0,base,2026-03-05T11:45:57.344797+00:00
+sarvam,english,english_121.wav,Turn off living room air purifier 1.,Turn on kitchen AC3 and set to turbo mode.,1.0,0.8056,0.0,19.44,base,2026-03-05T11:45:58.907409+00:00
+sarvam,english,english_122.wav,Turn off living room air purifier 1.,Turn on Child Lock Mode in Kitchen AC3.,1.0,0.6944,0.0,30.56,base,2026-03-05T11:46:00.346435+00:00
+sarvam,english,english_123.wav,Set fan speed 2 in living room air purifier 1.,Change Variable Capacity to C1 Inks Kitchen AC3,1.0,0.8696,0.0,13.04,base,2026-03-05T11:46:01.916273+00:00
+sarvam,english,english_124.wav,What devices do I have in my bedroom?,Turn on study AC1.,1.0,0.8378,0.0,16.22,base,2026-03-05T11:46:03.414727+00:00
+sarvam,english,english_125.wav,Turn on the AC in the bedroom,Set temperature 1 degree in study AC1.,0.8571,1.0,14.29,0.0,base,2026-03-05T11:46:04.946120+00:00
+sarvam,english,english_126.wav,Set temperature 18 degrees in the bedroom AC,Turn on display mode and dry mode in study AC1.,1.0,0.8864,0.0,11.36,base,2026-03-05T11:46:06.474670+00:00
+sarvam,english,english_127.wav,Turn on display mode in the bedroom AC.,Turn on Huykon Mode in steady AC1.,0.5,0.4359,50.0,56.41,base,2026-03-05T11:46:08.126352+00:00
+sarvam,english,english_128.wav,Turn on the ac in the dining room.,Turn on sleep mode instead AC1.,0.75,0.5882,25.0,41.18,base,2026-03-05T11:46:09.560243+00:00
+sarvam,english,english_129.wav,Turn on office AC 2.,Set Variable Capacity Level C4 in Study AC1.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:11.017553+00:00
+sarvam,english,english_13.wav,Set dry mode in bedroom ac.,Set Night Mode in Dining Room Air Purifier 1.,1.0,0.9259,0.0,7.41,base,2026-03-05T11:46:12.608967+00:00
+sarvam,english,english_130.wav,Turn on sleep mode in bedroom ac.,What are the device that I have in my bedroom and kitchen?,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:14.283938+00:00
+sarvam,english,english_131.wav,Set vertical swing to position 5 in bedroom ac.,Turn on the AC in office and set it to 22 degrees.,1.0,0.8511,0.0,14.89,base,2026-03-05T11:46:15.746930+00:00
+sarvam,english,english_132.wav,Turn on sky high color in bedroom ac.,Set Marable Capacity of Office AC12CA.,1.0,0.8378,0.0,16.22,base,2026-03-05T11:46:17.379263+00:00
+sarvam,english,english_133.wav,Turn on living room AC 2 and set it's horizontal swing to position 2.,Tarnan Ikomod in office is C1.,1.0,0.7536,0.0,24.64,base,2026-03-05T11:46:19.017439+00:00
+sarvam,english,english_134.wav,Turn on turbo mode in living room AC 2.,Set temperature 21 degrees in office AC-1.,0.8889,0.7949,11.11,20.51,base,2026-03-05T11:46:20.461517+00:00
+sarvam,english,english_135.wav,Turn on child lock in bedroom ac.,Turn on Bedroom AC1 and set variable capacity and moonlight to C4 and sky high respectively.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:22.205006+00:00
+sarvam,english,english_136.wav,Set fan speed high in office AC 2.,Set Turbo Mode in Bedroom AC1.,0.75,0.6471,25.0,35.29,base,2026-03-05T11:46:23.694067+00:00
+sarvam,english,english_137.wav,Set horizontal swing to auto in bedroom ac.,Set Light intensity low in bedroom AC1.,0.625,0.4651,37.5,53.49,base,2026-03-05T11:46:25.358606+00:00
+sarvam,english,english_138.wav,Set temperature 30 degrees in the living room AC 2.,Turn on silent morning bedroom AC1.,1.0,0.6667,0.0,33.33,base,2026-03-05T11:46:26.736624+00:00
+sarvam,english,english_139.wav,Turn on yoga room AC 1 and set it's switch off timer to 20 minutes.,Turn off Bedroom AC1.,0.8667,0.7761,13.33,22.39,base,2026-03-05T11:46:28.111322+00:00
+sarvam,english,english_14.wav,Turn on humicon mode in yoga room AC 1.,Set switch of timer 180 minutes in dining room air purifier 1.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:29.605704+00:00
+sarvam,english,english_140.wav,Turn off child lock mode in bedroom ac.,Turn on all ACs in dining room and set dining room AC 2 to 27 degrees with moonlight dream on.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:31.485841+00:00
+sarvam,english,english_141.wav,Turn on eco mode in the ac in bedroom.,Turn on child lock mode in dining room AC2.,0.6667,0.6316,33.33,36.84,base,2026-03-05T11:46:32.982760+00:00
+sarvam,english,english_142.wav,Set light intensity low in the ac in bedroom.,Turn on the refrigerator in the kitchen.,0.7778,0.6889,22.22,31.11,base,2026-03-05T11:46:34.390089+00:00
+elevenlabs,english,english_0.mp3,Turn on bedroom air purifier 1.,Turn on bedroom air purifier 1.,0.0,0.0,100.0,100.0,base,2026-03-05T11:46:35.931336+00:00
+elevenlabs,english,english_1.mp3,Turn on buzzer control in bedroom air purifier 1.,"Turn on buzzer control in bedroom, air purifier 1.",0.1111,0.0204,88.89,97.96,base,2026-03-05T11:46:37.513923+00:00
+elevenlabs,english,english_10.mp3,Set fan speed 4 in bedroom air purifier 1.,Turn on Dining Room Air Purify 1.,0.7778,0.4524,22.22,54.76,base,2026-03-05T11:46:38.945693+00:00
+elevenlabs,english,english_100.mp3,Set night mode in bedroom air purifier 1.,Turn on the study AC1 and set fan speed high in Kitchen AC2.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:40.691871+00:00
+elevenlabs,english,english_101.mp3,Set switch off timer 60 minutes in bedroom air purifier 1.,Don't on Eco Mode and study AC1.,1.0,0.7414,0.0,25.86,base,2026-03-05T11:46:42.203461+00:00
+elevenlabs,english,english_102.mp3,Set ring led brightness to 40 in bedroom air purifier 1.,Turn on Living Room AC1 and set its vertical swing to down 3.,1.0,0.875,0.0,12.5,base,2026-03-05T11:46:43.905020+00:00
+elevenlabs,english,english_103.mp3,Turn on turbo mode and turn off buzzer control in bedroom air purifier 1.,Set switch on timer to 123 minutes in living room AC1.,0.9286,0.726,7.14,27.4,base,2026-03-05T11:46:45.399927+00:00
+elevenlabs,english,english_104.mp3,Set switch off timer 720 minutes in bedroom air purifier 1.,Turn on Silent Mode in Livardroom AC1.,0.9091,0.678,9.09,32.2,base,2026-03-05T11:46:46.978494+00:00
+elevenlabs,english,english_105.mp3,Turn on the air purifier in dining room.,Turn on Yoga Room AC1 and set it to 17 degrees with vertical swing set to position 4.,1.0,1.0,0.0,0.0,base,2026-03-05T11:46:48.742662+00:00
+elevenlabs,english,english_106.mp3,What is the status of my bedroom air purifier 1?,Set Moonlight to Unfurl and Yoga Room AC1.,1.0,0.75,0.0,25.0,base,2026-03-05T11:46:50.164887+00:00
+elevenlabs,english,english_107.mp3,Turn on dining room air purifier 1.,Turn on child lock mode in Yoga room AC1.,1.0,0.7143,0.0,28.57,base,2026-03-05T11:46:51.775538+00:00
+elevenlabs,english,english_108.mp3,Set ring led brightness 70 in dining room air purifier 1.,Set switch on timer 2 minutes in Yoga room AC1.,0.8182,0.6842,18.18,31.58,base,2026-03-05T11:46:53.257818+00:00
+elevenlabs,english,english_109.mp3,Turn on heater power in dining room air purifier 1.,Turn off your Garou Macy 1.,0.8,0.6667,20.0,33.33,base,2026-03-05T11:46:54.654892+00:00
+elevenlabs,english,english_11.mp3,Set night mode in dining room air purifier 1.,Set Ring Lead Brightness 70 in Dining Room Air Purifier 1.,0.4444,0.4,55.56,60.0,base,2026-03-05T11:46:56.356090+00:00
+elevenlabs,english,english_110.mp3,Set switch off timer 180 minutes in dining room air purifier 1.,Turn on Dining Room AC1.,0.8333,0.6667,16.67,33.33,base,2026-03-05T11:46:57.855907+00:00
+elevenlabs,english,english_111.mp3,Turn on buzzer control in dining room air purifier 1.,Turn on Living Room AC 2 and set its fan speed to high.,1.0,0.7547,0.0,24.53,base,2026-03-05T11:46:59.383510+00:00
+elevenlabs,english,english_112.mp3,Set fan speed 3 in dining room air purifier 1.,Done on Eco Mode in Living Room AC2!,0.8,0.6522,20.0,34.78,base,2026-03-05T11:47:00.957018+00:00
+elevenlabs,english,english_113.mp3,Turn on dining room air purifier 1.,Turn on Sleep mode in Living Room AC2.,0.8571,0.6571,14.29,34.29,base,2026-03-05T11:47:02.480132+00:00
+elevenlabs,english,english_114.mp3,Set ring led brightness to 200 in dining room air purifier 1.,Turn on Turbo Mode in Living Room AC2 and turn on Bedroom AC1.,1.0,0.7049,0.0,29.51,base,2026-03-05T11:47:04.156347+00:00
+elevenlabs,english,english_115.mp3,Set switch off timer 180 minutes in dining room air purifier 100.,Turn on the chimney in kitchen.,0.9167,0.7385,8.33,26.15,base,2026-03-05T11:47:05.466695+00:00
+elevenlabs,english,english_116.mp3,Turn on the living room air purifier 1.,Turn on the AC in the office and set it to dry mode.,1.0,0.7692,0.0,23.08,base,2026-03-05T11:47:07.008264+00:00
+elevenlabs,english,english_117.mp3,Set switch off timer 60 minutes in living room air purifier 1.,set the office AC-12 auto mode.,0.9167,0.7258,8.33,27.42,base,2026-03-05T11:47:08.542622+00:00
+elevenlabs,english,english_118.mp3,Turn on night mode in the living room air purifier 1.,"set vertical swing to position 1 in office, AC1.",1.0,0.7358,0.0,26.42,base,2026-03-05T11:47:10.154090+00:00
+elevenlabs,english,english_119.mp3,Turn off fan power of the living room air purifier 1.,set FUN speed low in office AC-1.,1.0,0.7358,0.0,26.42,base,2026-03-05T11:47:11.722781+00:00
+elevenlabs,english,english_12.mp3,Turn on fan power and set fan speed 4 in living room air purifier 1.,Turn on heat-a-power and dining room air purifier 1.,0.5333,0.3676,46.67,63.24,base,2026-03-05T11:47:13.425559+00:00
+elevenlabs,english,english_120.mp3,Set fan speed 8 in living room air purifier 1.,Turn on all the ACs in Kids Room and set Moonlight to Balance in Kids Room AC1 and set temperature 22 degrees in Kids Room AC2.,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:15.590042+00:00
+elevenlabs,english,english_121.mp3,Turn off living room air purifier 1.,Turn on Kitchen AC3 and set to Turbo Mode.,1.0,0.8056,0.0,19.44,base,2026-03-05T11:47:17.022138+00:00
+elevenlabs,english,english_122.mp3,Turn off living room air purifier 1.,Turn on Charles Lock Mode in Kitchen AC3.,1.0,0.75,0.0,25.0,base,2026-03-05T11:47:18.756598+00:00
+elevenlabs,english,english_123.mp3,Set fan speed 2 in living room air purifier 1.,Change variable capacity to C1 in Kitchen AC3.,1.0,0.8478,0.0,15.22,base,2026-03-05T11:47:20.563512+00:00
+elevenlabs,english,english_124.mp3,What devices do I have in my bedroom?,Turn on study AC1.,1.0,0.8378,0.0,16.22,base,2026-03-05T11:47:21.894991+00:00
+elevenlabs,english,english_125.mp3,Turn on the AC in the bedroom,Set temperature 1 degree in study AC1.,0.8571,1.0,14.29,0.0,base,2026-03-05T11:47:23.324035+00:00
+elevenlabs,english,english_126.mp3,Set temperature 18 degrees in the bedroom AC,Turn on display mode and dry mode and study AC1.,1.0,0.8864,0.0,11.36,base,2026-03-05T11:47:24.927960+00:00
+elevenlabs,english,english_127.mp3,Turn on display mode in the bedroom AC.,Turn on Humic on Mode and study AC1.,0.75,0.5385,25.0,46.15,base,2026-03-05T11:47:26.410520+00:00
+elevenlabs,english,english_128.mp3,Turn on the ac in the dining room.,Turn on Sleep Mode and study AC-1.,0.75,0.6471,25.0,35.29,base,2026-03-05T11:47:27.879355+00:00
+elevenlabs,english,english_129.mp3,Turn on office AC 2.,Set variable capacity level C4 and study AC1.,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:29.447102+00:00
+elevenlabs,english,english_13.mp3,Set dry mode in bedroom ac.,Set Night Mode and Dining Room Air Purifier 1.,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:30.973574+00:00
+elevenlabs,english,english_130.mp3,Turn on sleep mode in bedroom ac.,What are the device that I have in my bedroom and kitchen?,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:32.522970+00:00
+elevenlabs,english,english_131.mp3,Set vertical swing to position 5 in bedroom ac.,Turn on the ACN office and set it to 22 degrees.,1.0,0.8085,0.0,19.15,base,2026-03-05T11:47:34.103913+00:00
+elevenlabs,english,english_132.mp3,Turn on sky high color in bedroom ac.,set variable capacity of Office AC1 to say.,1.0,0.8649,0.0,13.51,base,2026-03-05T11:47:35.651957+00:00
+elevenlabs,english,english_133.mp3,Turn on living room AC 2 and set it's horizontal swing to position 2.,Done on Eco Mode in office AC1.,0.9286,0.7681,7.14,23.19,base,2026-03-05T11:47:37.139692+00:00
+elevenlabs,english,english_134.mp3,Turn on turbo mode in living room AC 2.,Set temperature 21 degrees in office AC-1.,0.8889,0.7949,11.11,20.51,base,2026-03-05T11:47:38.589417+00:00
+elevenlabs,english,english_135.mp3,Turn on child lock in bedroom ac.,Turn on bedroom AC1 and set variable capacity and moonlight to C4 and sky high respectively.,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:40.590497+00:00
+elevenlabs,english,english_136.mp3,Set fan speed high in office AC 2.,Set Turbo Mode in Bedroom AC1.,0.75,0.6471,25.0,35.29,base,2026-03-05T11:47:42.065200+00:00
+elevenlabs,english,english_137.mp3,Set horizontal swing to auto in bedroom ac.,Set light intensity low in bedroom AC1.,0.625,0.4651,37.5,53.49,base,2026-03-05T11:47:43.512206+00:00
+elevenlabs,english,english_138.mp3,Set temperature 30 degrees in the living room AC 2.,Turn on silent mode and bedroom AC1.,1.0,0.6667,0.0,33.33,base,2026-03-05T11:47:44.913769+00:00
+elevenlabs,english,english_139.mp3,Turn on yoga room AC 1 and set it's switch off timer to 20 minutes.,Turn off Bedroom AC1.,0.8667,0.7761,13.33,22.39,base,2026-03-05T11:47:46.374131+00:00
+elevenlabs,english,english_14.mp3,Turn on humicon mode in yoga room AC 1.,Set switch off timer 180 minutes in dining room at Purifier 1.,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:47.981388+00:00
+elevenlabs,english,english_140.mp3,Turn off child lock mode in bedroom ac.,Turn on all ACs in dining room and set dining room AC 2 to 27 degrees with moonlight,1.0,1.0,0.0,0.0,base,2026-03-05T11:47:51.027174+00:00
+elevenlabs,english,english_141.mp3,Turn on eco mode in the ac in bedroom.,Turn on Child Lock Mode in Dining Room AC2.,0.6667,0.6316,33.33,36.84,base,2026-03-05T11:47:52.582564+00:00
+elevenlabs,english,english_142.mp3,Set light intensity low in the ac in bedroom.,Turn on the refrigerator in the kitchen.,0.7778,0.6889,22.22,31.11,base,2026-03-05T11:47:53.993458+00:00
