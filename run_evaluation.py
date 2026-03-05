@@ -9,24 +9,13 @@ Usage:
 What it does:
   - Reads each language .txt from dataset/
   - Finds matching audio in outputs/sarvam/<lang>/ and outputs/elevenlabs/<lang>/
-  - Runs Whisper + WER + CER + Groq Semantic on each audio file
+  - Runs Whisper + WER + CER on each audio file
   - Saves every result row to results/results.csv
-
-Audio file naming convention expected:
-    outputs/<tool>/<language>/sentence_1.wav  (or .mp3)
-    outputs/<tool>/<language>/sentence_2.wav
-    (one audio file per line/sentence in the dataset .txt, sorted by filename)
 """
 
 import os
 import sys
 import glob
-from dotenv import load_dotenv
-
-
-
-# Load GROQ_API_KEY from .env file automatically
-load_dotenv()
 
 # Add repo root to path so `evaluate` package is importable
 sys.path.insert(0, os.path.dirname(__file__))
@@ -35,7 +24,7 @@ from evaluate.evaluator import evaluate_single
 
 
 # --------------------------------------------------------------------------- #
-# Configuration — adjust these if your setup differs                          #
+# Configuration                                                                #
 # --------------------------------------------------------------------------- #
 
 BASE_DIR    = os.path.dirname(__file__)
@@ -44,7 +33,6 @@ OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 
 TOOLS = ["sarvam", "elevenlabs"]
 
-# Maps dataset filename (without extension) → Whisper language code
 LANGUAGE_WHISPER_MAP = {
     "english"  : "en",
     "hindi"    : "hi",
@@ -58,29 +46,18 @@ LANGUAGE_WHISPER_MAP = {
 
 AUDIO_EXTENSIONS = [".wav", ".mp3", ".ogg", ".flac", ".m4a"]
 
-# Reads GROQ_API_KEY from .env (loaded above via load_dotenv)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", None)
-
-# Set to True to skip Groq semantic scoring (faster, no API needed)
-SKIP_SEMANTIC = False
-
 
 # --------------------------------------------------------------------------- #
 # Helpers                                                                      #
 # --------------------------------------------------------------------------- #
 
 def read_sentences(txt_path: str) -> list[str]:
-    """Read all non-empty lines from a dataset text file."""
     with open(txt_path, "r", encoding="utf-8") as f:
         lines = [line.strip() for line in f.readlines()]
     return [l for l in lines if l]
 
 
 def find_audio_files(tool: str, language: str) -> list[str]:
-    """
-    Return sorted list of audio files for a given tool + language folder.
-    Looks for: outputs/<tool>/<language>/*.<ext>
-    """
     lang_dir = os.path.join(OUTPUTS_DIR, tool, language)
     if not os.path.isdir(lang_dir):
         return []
@@ -98,17 +75,9 @@ def find_audio_files(tool: str, language: str) -> list[str]:
 
 def main():
     print("=" * 60)
-    print("  TTS Benchmark Evaluation Runner")
+    print("  TTS Benchmark Evaluation Runner  (WER + CER)")
     print("=" * 60)
 
-    if SKIP_SEMANTIC or not GROQ_API_KEY:
-        print("  ⚠  Semantic scoring DISABLED (GROQ_API_KEY not found)")
-        api_key = None
-    else:
-        print("  ✓  Semantic scoring ENABLED (Groq)")
-        api_key = GROQ_API_KEY
-
-    # Discover all dataset .txt files
     txt_files = sorted(glob.glob(os.path.join(DATASET_DIR, "*.txt")))
     if not txt_files:
         print(f"\n  ERROR: No .txt files found in {DATASET_DIR}")
@@ -153,7 +122,6 @@ def main():
                         tool            =tool,
                         language        =lang_name,
                         whisper_language=whisper_lang,
-                        groq_api_key    =api_key,
                         persist         =True,
                     )
                     all_results.append(result)
@@ -161,7 +129,6 @@ def main():
                     print(f"  [ERROR] {audio_path}: {e}")
                     skipped.append(audio_path)
 
-    # Final summary
     print(f"\n{'='*60}")
     print(f"  Evaluation complete.")
     print(f"  Total evaluated : {len(all_results)}")

@@ -7,7 +7,6 @@ Logs evaluation results to a single CSV file:
 Columns:
     tool | language | audio_file | original_text | transcribed_text |
     wer  | cer      | word_accuracy | char_accuracy |
-    semantic_score | semantic_reason | semantic_error |
     whisper_model  | timestamp
 """
 
@@ -22,7 +21,6 @@ CSV_COLUMNS = [
     "tool", "language", "audio_file",
     "original_text", "transcribed_text",
     "wer", "cer", "word_accuracy", "char_accuracy",
-    "semantic_score", "semantic_reason", "semantic_error",
     "whisper_model", "timestamp",
 ]
 
@@ -36,14 +34,7 @@ def _ensure_csv():
 
 
 def save_result(result: dict):
-    """
-    Append one evaluation result row to results/results.csv.
-
-    Expected keys (produced by evaluator.py):
-        tool, language, audio_file, original_text, transcribed_text,
-        wer, cer, word_accuracy, char_accuracy,
-        semantic_score, semantic_reason, semantic_error, whisper_model
-    """
+    """Append one evaluation result row to results/results.csv."""
     _ensure_csv()
 
     result["timestamp"] = datetime.now(timezone.utc).isoformat()
@@ -57,10 +48,7 @@ def save_result(result: dict):
 
 
 def fetch_all_results() -> list[dict]:
-    """
-    Read all rows from results.csv as list of dicts.
-    Used by report.py. Returns empty list if file doesn't exist yet.
-    """
+    """Read all rows from results.csv as list of dicts."""
     if not os.path.exists(CSV_PATH):
         return []
 
